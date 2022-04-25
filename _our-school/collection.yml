@@ -4,5 +4,3 @@ collections:
     order:
       - Admissions/.keep
       - School information/.keep
-      - example-page/.keep
-      - example-page/example-subpage.md
