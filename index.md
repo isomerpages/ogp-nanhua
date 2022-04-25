@@ -9,4 +9,8 @@ sections:
   - hero:
       background: /images/Nan hua pri_Hero banner.png
       url: /contact-us/
+      key_highlights:
+        - title: News & updates
+          description: Click here to read more
+          url: ""
 ---
