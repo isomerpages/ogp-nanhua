@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - School information/.keep
       - example-page/.keep
       - example-page/example-subpage.md
