@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Admissions/.keep
+      - School information/Wait list Application.md
       - School information/Parent Volunteer Scheme.md
       - School information/School Vacancies by Phases.md
       - School information/P1 registration.md
