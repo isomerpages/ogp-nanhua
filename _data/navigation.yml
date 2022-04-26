@@ -7,9 +7,8 @@ links:
   - title: Our curriculum
     url: /permalink
     sublinks: []
-  - title: Contact us
-    url: /permalink
-    sublinks: []
+  - title: CONTact us
+    collection: contact-us
   - title: Quick Links
     url: /permalink
     sublinks: []
