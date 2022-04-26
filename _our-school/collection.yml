@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Blah/.keep
-      - School information/Wait list Application.md
-      - School information/Parent Volunteer Scheme.md
-      - School information/School Vacancies by Phases.md
-      - School information/P1 registration.md
-      - School information/.keep
+      - Admissions/Wait list Application.md
+      - Admissions/Parent Volunteer Scheme.md
+      - Admissions/School Vacancies by Phases.md
+      - Admissions/P1 registration.md
+      - Admissions/.keep
