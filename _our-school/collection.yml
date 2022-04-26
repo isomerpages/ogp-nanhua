@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - Blah/.keep
+      - School Information/.keep
       - Admissions/Wait list Application.md
       - Admissions/Parent Volunteer Scheme.md
       - Admissions/School Vacancies by Phases.md
