@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Information/Symbol of Heritage.md
       - School Information/A Century of Nan Hua.md
       - School Information/.keep
       - Admissions/Wait list Application.md
