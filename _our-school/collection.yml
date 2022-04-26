@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Admissions/.keep
+      - School information/P1 registration.md
       - School information/.keep
