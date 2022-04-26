@@ -1,8 +1,15 @@
 logo: /images/nanhualogo.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our School
     collection: our-school
+  - title: Our people
+    collection: our-people
+  - title: Our curriculum
+    url: /permalink
+    sublinks: []
+  - title: Contact us
+    url: /permalink
+    sublinks: []
+  - title: Quick Links
+    url: /permalink
+    sublinks: []
