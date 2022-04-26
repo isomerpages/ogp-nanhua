@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Admissions/.keep
+      - School information/School Vacancies by Phases.md
       - School information/P1 registration.md
       - School information/.keep
