@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - ParentConnect.md
       - School staff.md
       - School Management Committee.md
