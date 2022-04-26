@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Information/School Rules & Regulations.md
       - School Information/School Song.md
       - School Information/School crest.md
       - School Information/School Motto.md
