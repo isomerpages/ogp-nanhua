@@ -9,6 +9,5 @@ links:
     sublinks: []
   - title: CONTact us
     collection: contact-us
-  - title: Quick Links
-    url: /permalink
-    sublinks: []
+  - title: quick links
+    collection: quick-links
