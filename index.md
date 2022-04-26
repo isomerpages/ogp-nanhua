@@ -12,5 +12,5 @@ sections:
       key_highlights:
         - title: News & updates
           description: Click here to read more
-          url: ""
+          url: /news-n-update
 ---
