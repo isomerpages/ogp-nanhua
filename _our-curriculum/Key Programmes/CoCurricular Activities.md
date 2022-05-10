@@ -13,7 +13,7 @@ Students have the opportunity to exercise their option at the start of the schoo
 # Clubs & Societies
 * [International Chess](/ccas/chess)
 * [Chinese Weiqi](/ccas/chineseweiqi)
-* Physical Science
+* [Physical Science](/ccas/physicalscience)
 * Infocomm Technology (Computing) Club
 * Robotics
 * Journalism
