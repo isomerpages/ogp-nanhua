@@ -82,7 +82,7 @@ For those driving from Commonwealth Avenue West,
 <u>Figure 4: During School Dismissal</u>
 ![Traffic Information - Figure 4](/images/Traffic%20Information%20-%20Figure%204.png)
 
-<u>Explanatory Notes to Figure 4:</u>
+_Explanatory Notes to Figure 4:_
 
 For those driving from Commonwealth Avenue West,
 
@@ -99,3 +99,24 @@ For those driving from Commonwealth Avenue West,
 * exit the school using Gate F only
 * turn left only on exit towards Clementi Avenue 6
 * no right turn from 1.45pm to 2.15pm (refer to LTA signage)
+
+<u>Figure 5: After CCA/Remedial Lessons & Student Care Dismissal Pick Up</u>
+![Traffic Information - Figure 5](/images/Traffic%20Information%20-%20Figure%205.png)
+
+_Explanatory Notes to Figure 5:_
+
+* Vehicles enter school through Gate F (nearest to the security guard post) 
+* After Gate F, vehicles head towards the bus bay and turn back towards the canteen
+* Drivers pick up their children / wards either from the bus bay or canteen
+* Vehicles exit school via Gate F 
+
+**Safety and Security Reminders **
+
+* Parking is not allowed in the school. Visitors can park at the nearby HDB car parks.
+* Keep within the 15km/h speed limit while driving in school
+* Follow the instructions / directions of road marshals
+* Alight and pick up your child only at the designated drop-off / pick-up points. Inform your child of the pick-up point (either canteen or bus bay) to avoid confusion.
+* No parking or waiting at the public bus stop near Gate A or along Jalan Lempeng
+* Follow traffic rules and drive safely
+* Pedestrians are to walk on footpaths and use only pedestrian gates to enter or exit the school
+* All visitors including parents to register at the security guard post to access school for official business, e.g. buying books /uniforms, meetings, fetching unwell students. They should not access school areas other than those permitted.
