@@ -20,12 +20,12 @@ Students have the opportunity to exercise their option at the start of the schoo
 * [Broadcasting](/ccas/Clubs-and-Societies/broadcasting)
 
 # Physical Sports
-* Badminton
-* Football
-* Table Tennis
-* Track and Field
-* Volleyball
-* Wushu
+* [Badminton](/ccas/Physical-Sports/badminton)
+* [Football](/ccas/Physical-Sports/football)
+* [Table Tennis](/ccas/Physical-Sports/tabletennis)
+* [Track and Field](/ccas/Physical-Sports/trackandfield)
+* [Volleyball](/ccas/Physical-Sports/volleyball)
+* [Wushu](/ccas/Physical-Sports/wushu)
 
 # Uniform Groups
 * Girl Guides (Brownies)
