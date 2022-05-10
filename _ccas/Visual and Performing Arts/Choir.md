@@ -25,3 +25,5 @@ Offered to P3 to P6 Students. Audition will be conducted for new members.
 4. To educate members on various genres of choral literature; in different languages
 5. To create opportunities for performances in both competitive and non-competitive settings
 6. To develop students’ self-confidence and to inculcate values such as teamwork, resilience and self-discipline
+
+![](/images/nhss1.png)
