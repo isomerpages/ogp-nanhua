@@ -73,23 +73,24 @@ As mentioned in the earlier section, the key focus of the Introductory Programme
 10. Plastics and Pollution: Making an instant, biodegradable water bottle
 11. Prejudice and Bias in society
 
-Advanced Programme
+**Advanced Programme**
 
 The Advanced programme focuses on the transition of the Concrete Operational Stage towards the fossilization of the Formal Operational Stage as theorized by Jean Piaget. As such, it introduces abstract issues and problems which manifest themselves in myriad examples in reality, such as the impact of the Resource Curse in developing nations and how Xenophobia is exploited in politics to its ugliest extent in Nazi Germany. The mode of learning in Primary 5 is situated around problem identification and exploring social issues through discussion and debate. The mode of learning in Primary 6 will be through the pursuit of solutions and developing active plans to solve an existing problem, while engaging in Thought Experiments and philosophical principles. The Programme will result in a culminating artifact or awareness campaign designed by the Primary 6 students as manifestations of their learning during the Post-PSLE period.
 
-Primary 5 Suggested Topics
-1)    Terrorism: Cause and Effects
-2)    The Art and Practice of Design Thinking
-3)    Droid Programming to solve a real-world problem
-4)    Mind Games: Anchoring, Illusion of Control, Gambling
-5)    “Scientific Discrimination” in Eugenics and their moral implications
-6)    Myth-busting: Nutrition, Physics, Social Behaviour
-7)    Social Problems Today: Injustice, Poverty, Environmental Degradation
-8)    Fake News and their implications
-9)    Multi-tasking: What it does to us
-10)  Human Behaviour: Bandura, Milgram
-11)  Creativity and visualization
-12)  Media Issues: Social philosophy and media representation
+**Primary 5 Suggested Topics**
+
+1. Terrorism: Cause and Effects
+2. The Art and Practice of Design Thinking
+3. Droid Programming to solve a real-world problem
+4. Mind Games: Anchoring, Illusion of Control, Gambling
+5. “Scientific Discrimination” in Eugenics and their moral implications
+6. Myth-busting: Nutrition, Physics, Social Behaviour
+7. Social Problems Today: Injustice, Poverty, Environmental Degradation
+8. Fake News and their implications
+9. Multi-tasking: What it does to us
+10. Human Behaviour: Bandura, Milgram
+11. Creativity and visualization
+12. Media Issues: Social philosophy and media representation
 
 Primary 6 Suggested Topics
 1)    Advertising: Function and Effects
