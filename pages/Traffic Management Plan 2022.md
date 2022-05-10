@@ -16,7 +16,7 @@ Figure 2: Locations of Access Gates
 ![Figure 2: Locations of Access Gates](/images/Traffic%20Information%20-%20Figure%202.png)
 
 
-<u>**Table 1: Gates and Operating Hours**</u>
+<u>Table 1: Gates and Operating Hours</u>
 
 
 | Gate | Gate Location | Arrival | Dismissal | Remedial Lessons/ CCA Dismissal | Student Care Centre (Pick-up) | Visitors |
