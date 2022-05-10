@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Uniform Groups/Girl Guides (Brownies).md
       - Uniform Groups/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/International Chess.md
