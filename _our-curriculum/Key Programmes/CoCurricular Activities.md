@@ -11,8 +11,8 @@ The school offers a total of 22 CCAs comprising of 7 Physical Sports, 6 Visual &
 Students have the opportunity to exercise their option at the start of the school year in the choice of their participation. Although CCA is not compulsory for primary school students, the participation rate has maintained an average of about 80%.
 
 # Clubs & Societies
-* International Chess
-* Chinese Weiqi
+* [International Chess](/ccas/chess)
+* [Chinese Weiqi](/ccas/chineseweiqi)
 * Physical Science
 * Infocomm Technology (Computing) Club
 * Robotics
