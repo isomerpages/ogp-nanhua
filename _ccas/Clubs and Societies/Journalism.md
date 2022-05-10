@@ -16,3 +16,5 @@ Offered to P3 to P6 students
 1. To develop students’ language literacy and critical thinking skills
 2. To introduce students to a variety of media that determines the context for presentation.
 3. To provide opportunities for students to practice their skills sets at various platforms
+
+![](/images/nanhua%20ss%208.png)
