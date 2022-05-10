@@ -21,3 +21,7 @@ Offered to P3 to P6 students.
 1. To equip students with basic badminton skills to play and enjoy the sport
 2. To identify students with potential and equip them with higher level skills and game strategies and tactics needed for competitive play
 3. To develop students’ self-confidence and to inculcate values such as respect, teamwork, resilience and self-discipline
+
+![](/images/nanhua%20ss5.png)
+
+![](/images/nanhua%20ss6.png)
