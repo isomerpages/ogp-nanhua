@@ -19,3 +19,5 @@ Offered to P3 to P6 students
 3. To heighten students’ social awareness and consideration for fellow members, teammates and opponents
 4. To provide a platform for students to develop and display fair play and good sportsmanship at all times
 5. To inculcate values of hard work and discipline in a sport
+
+![](/images/nanhua%20ss3.png)
