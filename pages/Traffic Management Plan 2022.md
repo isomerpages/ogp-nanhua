@@ -80,3 +80,4 @@ For those driving from Commonwealth Avenue West,
 * no right turn from 6.45am to 7.45am (refer to LTA signage)
 
 <u>Figure 4: During School Dismissal</u>
+![Traffic Information - Figure 4](/images/Traffic%20Information%20-%20Figure%204.png)
