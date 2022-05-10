@@ -20,3 +20,5 @@ Offered to P3 to P6 students
 
 1. To provide a safe, fun and exciting programme for the Panda cub scouts
 2. To ensure that the scout programme is intellectually stimulating, physically vital and directed towards satisfying the child's basic need to face and overcome challenges through the Scout Promise and Law
+
+![](/images/scouts.png)
