@@ -19,3 +19,5 @@ Offered to P2 to P6 students
 2. To identify students with potential for specialization in 拳，剑 ，枪，棍，刀
 3. To provide opportunities for students to participate at non-competitive or competitive events
 4. To develop students’ self-confidence and to inculcate values such as respect, teamwork, resilience and self-discipline
+
+![](/images/nanhua%20ss%209.png)
