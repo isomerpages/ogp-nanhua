@@ -19,3 +19,5 @@ Offered to P3 to P6 students
 1. To excite students to create and innovate practical solutions that could be used in real life context
 2. To provide students with opportunities to express creativity and demonstrate leadership spirit
 3. To develop students’ ability to use technology effectively and responsibly
+
+![](/images/nanhua%20screenshot%206.png)
