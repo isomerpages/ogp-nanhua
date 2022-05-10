@@ -70,3 +70,5 @@ To create a school culture of serving, staff at NHPS also lead by example where 
 * Class initiated VIA for all levels
 * P1 & 2: IPARD/C
 * P3-6: Design Thinking (ALP)
+
+![](/images/Nanhua%20screenshot%202.png)
