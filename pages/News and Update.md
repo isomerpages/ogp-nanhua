@@ -8,7 +8,7 @@ Traffic Management Plan 2022
 
 Road safety is everyone’s responsibility. Nan Hua Primary School aims to work with staff, students, parents and the community on raising safety awareness and exhibiting the desired road safety behaviors.
 
-[Read More...](https://nanhuapri.moe.edu.sg/nhps-1/news-and-updates/traffic-management-plan-2022)  
+[Read More...](/trafficmanagementplan)  
   
 
 春满南苑百花争艳年年好，福临华堂五子登科步步高 —— 2022南华小学欢庆新年和建校105周年
