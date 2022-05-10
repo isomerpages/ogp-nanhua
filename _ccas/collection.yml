@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Physical Sports/Badminton.md
       - Physical Sports/Football.md
       - Physical Sports/Table Tennis.md
       - Physical Sports/Track and Field.md
