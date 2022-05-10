@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Visual and Performing Arts/Percussion Ensemble.md
       - Visual and Performing Arts/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/International Chess.md
