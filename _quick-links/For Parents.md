@@ -8,7 +8,7 @@ description: ""
 
 [Information on Primary School Transfer Service for Change of Address](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Quick%20Links/For%20Parents/Annex%20B%20-%20Information%20sheet%20for%20parents.pdf)
 
-Forms and Guides
+# Forms and Guides
 1. MOE Financial Assistance Scheme (FAS)
 	* [Application Form](https://nanhuapri.moe.edu.sg/qql/slot/u732/2021/MOE%20FAS%20Application%20Form%20Sep%2021.pdf) _(updated on 21st September 2021)_
 	* [Pamphlet](https://nanhuapri.moe.edu.sg/qql/slot/u732/2021/MOE_FAS_Pamphlet_2022.pdf) _(updated on 15th September 2021)_
@@ -31,3 +31,14 @@ Forms and Guides
 * [NEU PC Plus IMDA Fibre Broadband Service Application Form](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/NEU%20PC%20Plus%20IMDA%20Fibre%20Broadband%20Service%20Application%20Form.pdf)
 * [Home Access 3.0 Application Form](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/Home%20Access%203.0%20Application%20Form.pdf)
 * [Home Access 3.0 Application Form - Auto Inclusion](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/Home%20Access%203.0%20Application%20Form%20-%20Auto%20Inclusion.pdf)
+
+# Subject-Based Banding
+[Brochure on Subject-based Banding (Primary)](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Quick%20Links/For%20Parents/1.%20MOE_SBB_ENG_1%20Mar%202018.pdf)
+
+More information available on MOE's website:
+[https://www.moe.gov.sg/education/primary/subject-based-banding-(primary)](https://www.moe.gov.sg/education/primary/subject-based-banding-(primary))
+
+# Sexuality Education
+[Sexuality Education Programme 2022](https://nanhuapri.moe.edu.sg/qql/slot/u732/Programmes/Sexuality%20Education/Sexuality%20Education%20Programme%202022.pdf)
+
+[Parents Opt Out Form](https://nanhuapri.moe.edu.sg/qql/slot/u732/Programmes/Sexuality%20Education/2022%20Parents%20opt%20out%20form.pdf)
