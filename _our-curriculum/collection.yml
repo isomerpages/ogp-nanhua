@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Curriculum Philosophy.md
+      - Key Programmes/Learning for Life Programme.md
       - Key Programmes/.keep
       - Key Programmes/Applied Learning Programme.md
