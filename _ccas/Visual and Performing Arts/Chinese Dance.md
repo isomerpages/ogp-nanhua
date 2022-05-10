@@ -21,3 +21,5 @@ Offered to P3 to P6 students
 1. To teach students basic dance movements and techniques
 2. To provide platforms and opportunities for students to apply their skills at competitive and non-competitive events
 3. To develop students’ self-confidence and to inculcate values such as teamwork and discipline
+
+![](/images/nanhuass9.png)
