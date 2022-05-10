@@ -23,3 +23,7 @@ Offered to P3 to P6 girls
 1. To instil in students the willingness to try new things and engage in experiential learning
 2. To arouse students’ curiosity about the environment and people around them and show persistence in gathering new knowledge
 3. To enable students to display the desired attitudes when working and playing together
+
+![](/images/brownie1.png)
+
+![](/images/rownie2.png)
