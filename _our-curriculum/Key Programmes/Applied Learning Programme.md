@@ -128,4 +128,4 @@ Thomas Lim
 <br>Nan Hua Primary School
 <br>thomas_lim_kok_tiong@moe.edu.sg
 
-NHPS Thinking Programme Website: www.teachingthinking.education
+NHPS Thinking Programme Website: [www.teachingthinking.education](http://www.teachingthinking.education)
