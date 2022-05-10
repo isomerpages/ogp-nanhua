@@ -23,3 +23,5 @@ Offered to P3 to P6 students
 3. To develop students’ self-confidence and to inculcate values such as teamwork and discipline
 
 ![](/images/nanhuass9.png)
+
+[Video](https://drive.google.com/file/d/1JXiK0GR6gH6Nvq8uZKfHOlHZcN8I4sKv/view)
