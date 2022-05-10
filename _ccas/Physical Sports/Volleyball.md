@@ -18,3 +18,5 @@ Offered to P3 to P6 students
 2. To teach students the basic volleyball rules in playing the game
 3. To provide opportunities for students to participate in the sport at recreational or competitive level
 4. To provide a platform for students to demonstrate good sportsmanship and values of fair play, teamwork and discipline through playing volleyball
+
+![](/images/nanhua%20ss1.png)
