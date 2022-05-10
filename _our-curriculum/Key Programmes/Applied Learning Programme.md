@@ -60,18 +60,18 @@ As mentioned in the earlier section, the key focus of the Introductory Programme
 8. Ghosts and Monsters: Beliefs and Evidence
 9. Pokemon Go Live!: Gaming and their implications in modern society
 
-Selected Primary 4 Topics
-1)    Stories: Purpose and Effects
-2)    Creative Problem-solving: A Rescue Mission
-3)    Puzzles and codes
-4)    Pseudo-scientific beliefs and its implications on humanity
-5)    World War II and the impact on human lives and beliefs
-6)    Child Labour
-7)    The History of Education
-8)    How do we learn?
-9)    Droid Programming Wars!
-10)  Plastics and Pollution: Making an instant, biodegradable water bottle
-11)  Prejudice and Bias in society
+**Selected Primary 4 Topics**
+1. Stories: Purpose and Effects
+2. Creative Problem-solving: A Rescue Mission
+3. Puzzles and codes
+4. Pseudo-scientific beliefs and its implications on humanity
+5. World War II and the impact on human lives and beliefs
+6. Child Labour
+7. The History of Education
+8. How do we learn?
+9. Droid Programming Wars!
+10. Plastics and Pollution: Making an instant, biodegradable water bottle
+11. Prejudice and Bias in society
 
 Advanced Programme
 
