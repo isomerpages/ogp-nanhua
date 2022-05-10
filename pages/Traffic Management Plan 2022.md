@@ -110,7 +110,7 @@ _Explanatory Notes to Figure 5:_
 * Drivers pick up their children / wards either from the bus bay or canteen
 * Vehicles exit school via Gate F 
 
-**Safety and Security Reminders **
+**Safety and Security Reminders**
 
 * Parking is not allowed in the school. Visitors can park at the nearby HDB car parks.
 * Keep within the 15km/h speed limit while driving in school
