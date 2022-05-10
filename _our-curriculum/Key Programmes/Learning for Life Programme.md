@@ -72,3 +72,13 @@ To create a school culture of serving, staff at NHPS also lead by example where 
 * P3-6: Design Thinking (ALP)
 
 ![](/images/Nanhua%20screenshot%203.png)
+
+## Sowing Seeds of Purpose
+
+Sowing Seeds of Purpose is one platform to inspire and provide students with a wide repertoire of areas of interest through engagement and meaningful conversations. We invited our stakeholders share their stories and experiences of their interests/ passion with our students. Many have shared about their hobbies, your occupations and causes that they advocate for strongly. Through the sharing, they have shared their experiences and the meaning/ purpose they find in them. Through such meaningful engagement, we hope to sow the seeds of purpose and meaning in every child.
+
+## The Showcase (PLAY)
+
+“The Showcase” is one platform that provides students with the opportunity to take ownership of the pursuit of their passions. It aims to create a space for students to express themselves and be it a talent, skill, learning experience or a cause that he/she advocates for. We invited our students, along with their friends or family, to share their talents with their peers. In doing so, we hope to inspire every child to reach out, step out of their comfort zone and in doing so, challenge themselves and chart their own unique course of passion.
+
+![](/images/Nanhua%20screenshot%204.png)
