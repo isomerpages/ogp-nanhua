@@ -32,9 +32,9 @@ Students have the opportunity to exercise their option at the start of the schoo
 * Scouts
 
 # Visual & Performing Arts
-* Arts and Crafts
-* Choir
-* Chinese Dance
-* Drama
-* Guzheng Ensemble
-* Percussion Ensemble
+* [Arts and Crafts](/ccas/Visual-and-Performing-Arts/artsandcrafts)
+* [Choir](/ccas/Visual-and-Performing-Arts/choir)
+* [Chinese Dance](/ccas/Visual-and-Performing-Arts/chinesedance)
+* [Drama](/ccas/Visual-and-Performing-Arts/drama)
+* [Guzheng Ensemble](/ccas/Visual-and-Performing-Arts/guzhengensemble)
+* [Percussion Ensemble](/ccas/Visual-and-Performing-Arts/percussionensemble)
