@@ -15,3 +15,12 @@ Figure 2 and Table 1 below show the locations of access gates and operating hour
 ![Figure 2: Locations of Access Gates](/images/Traffic%20Information%20-%20Figure%202.png)
 Figure 2: Locations of Access Gates
 
+**Table 1: Gates and Operating Hours**
+
+
+
+| Gate | Gate Location | Arrival | Dismissal | Remedial Lessons/ CCA Dismissal | Studnt Care Centre (Pick-up) | Visitors |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| A |  Pedestrian Access Gate (Near Bus Stop along Commonwealth Ave West)    | 6:30am to 7:30am | 1.30pm to 2.00pm (P3, P5 and P6) | Supplementary / Remedial: 2.45pm to 3.00pm & 3.30pm to 3.45pm <br><br> CCA: 5.00pm to 5.45pm </br></br>|
+
+
