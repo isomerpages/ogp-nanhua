@@ -6,8 +6,7 @@ third_nav_title: Key Programmes
 ---
 # Introduction
 
-`“The principle goal of education is to create men who are capable of doing new things, not simply of repeating what other generations have done – men who are creative, inventive and discoverers.”`
-###### Swiss Philosopher and Psychologist Jean Piaget
+`“The principle goal of education is to create men who are capable of doing new things, not simply of repeating what other generations have done – men who are creative, inventive and discoverers.”` -  Swiss Philosopher and Psychologist Jean Piaget
 
 Piaget’s wise words reflect a truth which challenges the existing notions of education within the Singaporean landscape. In its fundamental reconceptualization of the education system here, the Ministry of Education Singapore has already instituted that every primary school here must offer an Applied Learning Programme by 2017. Nan Hua Primary School has proposed and received approval for its flagship Thinking Programme as its Applied Learning Programme since 2014.
 
