@@ -19,3 +19,5 @@ Offered to P2 to P6 students
 1. To teach students the basic techniques of playing the Guzheng
 2. To provide platforms and opportunities for students to apply their Guzheng skills at competitive and non-competitive events
 3. To develop students’ self-confidence and to inculcate values such as teamwork and discipline
+
+![](/images/nanhuass7.png)
