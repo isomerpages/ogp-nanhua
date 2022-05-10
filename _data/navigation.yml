@@ -4,9 +4,8 @@ links:
     collection: our-school
   - title: Our people
     collection: our-people
-  - title: Our curriculum
-    url: /our-curriculum/philosophy
-    sublinks: []
+  - title: Our Curriculum
+    collection: our-curriculum
   - title: CONTact us
     collection: contact-us
   - title: quick links
