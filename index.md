@@ -23,8 +23,8 @@ sections:
       title: Traffic Management Plan 2022
       subtitle: News and Updates
       description: Road safety is everyone’s responsibility. Nan Hua Primary School
-        aims to raise safety awareness and exhibit the desired road safety
-        behaviors.
+        aims to help to raise safety awareness and exhibit the desired road
+        safety behaviors.
       button: Read More
       url: /trafficmanagementplan
 ---
