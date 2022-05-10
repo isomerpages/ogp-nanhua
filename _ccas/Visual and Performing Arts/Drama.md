@@ -20,3 +20,5 @@ Offered to P3 to P6 students
 2. To develop students’ ability to enter physically, emotionally and intellectually into the drama world in order to promote questing, empowering and empathetic skills
 3. To form the criteria with which to evaluate the drama texts, written or performed, to which students are continually exposed
 4. To develop in students the social skills necessary to engage openly, honestly and playfully with others
+
+![](/images/nanhuass8.png)
