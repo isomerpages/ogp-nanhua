@@ -61,3 +61,22 @@ Figure 5 shows movement during remedial lessons and CCA dismissal.
 
 <u>Figure 3: During School Arrival</u>
 ![Traffic Information - Figure 3](/images/Traffic%20Information%20-%20Figure%203.png)
+
+_Explanatory Notes to Figure 3:_
+
+For those driving from Commonwealth Avenue West,
+
+* enter the school using Gate D only
+* drop off along the bus bay area
+* exit the school using Gate D only
+* turn right only on exit towards Commonwealth Avenue West
+* no left turn from 6.45am to 7.45am (refer to LTA signage)
+* For those driving from Jalan Lempeng,
+* enter the school using Gate F only
+* make a u-turn near canteen
+* drop off along canteen and foyer area
+* exit the school using Gate F only
+* turn left only on exit towards Clementi Avenue 6
+* no right turn from 6.45am to 7.45am (refer to LTA signage)
+
+<u>Figure 4: During School Dismissal</u>
