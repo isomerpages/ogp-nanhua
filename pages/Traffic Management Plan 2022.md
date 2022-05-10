@@ -3,7 +3,7 @@ title: Traffic Management Plan 2022
 permalink: /trafficmanagementplan
 description: ""
 ---
-|Operating Hours of School Gates
+### Operating Hours of School Gates
            
 
 School’s operating hours is from 0630 hrs to 1900 hrs, during which the gates will be accessible to students, staff, parents and authorized visitors for official business.
