@@ -92,17 +92,18 @@ The Advanced programme focuses on the transition of the Concrete Operational Sta
 11. Creativity and visualization
 12. Media Issues: Social philosophy and media representation
 
-Primary 6 Suggested Topics
-1)    Advertising: Function and Effects
-2)    How to Think Like Sherlock Holmes
-3)    Great Thinkers: Leonardo Da Vinci
-4)    Creativity and “Mad” Geniuses: Heath Robinson and Rube Goldberg
-5)    Learning to Learn
-6)    Critical Literacy: Reading beyond the text
-7)    Language and Power
-8)    Moral Dilemmas: Heinz, Life-raft
-9)    Philosophical Thought Experiments: Ring of Gyges, Plank of Carneades
-10)  Problem-solving Project: Design Thinking
+**Primary 6 Suggested Topics**
+
+1. Advertising: Function and Effects
+2. How to Think Like Sherlock Holmes
+3. Great Thinkers: Leonardo Da Vinci
+4. Creativity and “Mad” Geniuses: Heath Robinson and Rube Goldberg
+5. Learning to Learn
+6. Critical Literacy: Reading beyond the text
+7. Language and Power
+8. Moral Dilemmas: Heinz, Life-raft
+9. Philosophical Thought Experiments: Ring of Gyges, Plank of Carneades
+10. Problem-solving Project: Design Thinking
 
 Programme Administration
 
