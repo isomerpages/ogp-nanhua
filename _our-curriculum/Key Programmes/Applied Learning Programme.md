@@ -42,3 +42,85 @@ A Stand-alone Course (Thinking Lessons) which explicitly teaches the tripartite 
 With these considerations in mind, the programme’s central premise is to work on Thinking lessons to develop Thinking within the individual fields, as well as the intersection of these fields. The culmination of all three aspects lie in the relatively new field of Design Thinking, and will form both as the application of learned concepts and skills throughout the programme and as an evaluation of the Transfer of Thinking Skills into real-life. The Borromean Rings below illustrate the intersection between these three fields and the major Thinking skills introduced in the programme.
 
 ![](/images/Creative%20Thinking.png)
+
+Curriculum Plan for the Thinking Programme
+Introductory Programme (Primary 3 and 4)
+
+As mentioned in the earlier section, the key focus of the Introductory Programme seeks to work within the Concrete Operational Stages as proposed by Jean Piaget. As such, the programme introduces in concrete form the manifestation of Creative, Critical and Applied Thinking through man-made artifacts and natural design. The mode of learning for Primary 3 revolves around rich media, experiments and experiences, and manipulating replicas of ingenious artifacts, while in Primary 4, stories and artifacts derived from them will serve as the main medium in which these aspects of Thinking are introduced.
+
+Selected Primary 3 Topics
+1)    Playing with Fire!
+2)    New Energy
+3)    Great Inventions across History
+4)    Introduction to Droid Programming
+5)    Man and the Environment: Improvement by Design
+6)    Design Thinking 1: Meeting the housing needs of the Elderly
+7)    Imagining the Future
+8)    Ghosts and Monsters: Beliefs and Evidence
+9)    Pokemon Go Live!: Gaming and their implications in modern society
+
+Selected Primary 4 Topics
+1)    Stories: Purpose and Effects
+2)    Creative Problem-solving: A Rescue Mission
+3)    Puzzles and codes
+4)    Pseudo-scientific beliefs and its implications on humanity
+5)    World War II and the impact on human lives and beliefs
+6)    Child Labour
+7)    The History of Education
+8)    How do we learn?
+9)    Droid Programming Wars!
+10)  Plastics and Pollution: Making an instant, biodegradable water bottle
+11)  Prejudice and Bias in society
+
+Advanced Programme
+
+The Advanced programme focuses on the transition of the Concrete Operational Stage towards the fossilization of the Formal Operational Stage as theorized by Jean Piaget. As such, it introduces abstract issues and problems which manifest themselves in myriad examples in reality, such as the impact of the Resource Curse in developing nations and how Xenophobia is exploited in politics to its ugliest extent in Nazi Germany. The mode of learning in Primary 5 is situated around problem identification and exploring social issues through discussion and debate. The mode of learning in Primary 6 will be through the pursuit of solutions and developing active plans to solve an existing problem, while engaging in Thought Experiments and philosophical principles. The Programme will result in a culminating artifact or awareness campaign designed by the Primary 6 students as manifestations of their learning during the Post-PSLE period.
+
+Primary 5 Suggested Topics
+1)    Terrorism: Cause and Effects
+2)    The Art and Practice of Design Thinking
+3)    Droid Programming to solve a real-world problem
+4)    Mind Games: Anchoring, Illusion of Control, Gambling
+5)    “Scientific Discrimination” in Eugenics and their moral implications
+6)    Myth-busting: Nutrition, Physics, Social Behaviour
+7)    Social Problems Today: Injustice, Poverty, Environmental Degradation
+8)    Fake News and their implications
+9)    Multi-tasking: What it does to us
+10)  Human Behaviour: Bandura, Milgram
+11)  Creativity and visualization
+12)  Media Issues: Social philosophy and media representation
+
+Primary 6 Suggested Topics
+1)    Advertising: Function and Effects
+2)    How to Think Like Sherlock Holmes
+3)    Great Thinkers: Leonardo Da Vinci
+4)    Creativity and “Mad” Geniuses: Heath Robinson and Rube Goldberg
+5)    Learning to Learn
+6)    Critical Literacy: Reading beyond the text
+7)    Language and Power
+8)    Moral Dilemmas: Heinz, Life-raft
+9)    Philosophical Thought Experiments: Ring of Gyges, Plank of Carneades
+10)  Problem-solving Project: Design Thinking
+
+Programme Administration
+
+Levels: All Primary 3 to 6 classes.
+
+Frequency and Duration: One 60-minute lesson per fortnight over a 40-week school year. Estimated number of lessons per year: 20
+
+Instructors: 1 Specialist Teacher per class, co-teaching with the class English Language Teacher. The Specialist Teacher will adapt each lesson to the learning needs and interests of the students within the overall principles of the Programme. Students are encouraged to suggest topics of interest to the Specialist Teacher who will in turn develop a Thinking experience based on the class-selected topic termly.
+
+Technological Infrastructure: Full ICT integration using a 1-to-1 iPad-based learning system greatly enhances the Interactive elements as well as amplify the skills and content taught in the programme. Apps range from Classroom Response and lesson delivery (Nearpod), Research (Safari, Encyclopedia), artifact creation (iMovie), Programming (Sphero Edu, Blockly), to even games for Thinking (Rubeworks).
+Conclusion
+“During times of universal deceit, telling the truth becomes a revolutionary act.”
+British Novelist George Orwell
+
+The greatest challenges faced by our students in the immediate and distant future are issues of values, notably the issues of finding truths amidst seas of lies, the pursuit of personal gains with little regard to the impact on society, and the relevance of Education to them as a human, not merely as a worker-to-be or a mere cog in the larger social machinery. Truly, as educators, we have to hold fast to the fundamental belief that the future can be a better age and that the challenges that confront society and our pupils can be resolved through a firm grounding in constructive thinking and positive values formation. The symbiosis of Critical, Creative and Applied Thinking into a Comprehensive Thinking Programme could and should be a first and important step in equipping our students to confront the challenges they will face and to be the best person they can be. This bold programme of empowerment and engagement, of dialogue and debate, of skill and will, of actions and attitudes, will result in the transformation of the students from passive fatalists to agents of positive change in a better age.
+
+Thinking Programme Contact Person:
+Thomas Lim
+Lead Teacher (English Language)
+Nan Hua Primary School
+thomas_lim_kok_tiong@moe.edu.sg
+
+NHPS Thinking Programme Website: www.teachingthinking.education
