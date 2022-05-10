@@ -16,8 +16,8 @@ Students have the opportunity to exercise their option at the start of the schoo
 * [Physical Science](/ccas/physicalscience)
 * [Infocomm Technology (Computing) Club](/ccas/Clubs-and-Societies/computingclub)
 * [Robotics](/ccas/Clubs-and-Societies/robotics)
-* Journalism
-* Broadcasting
+* [Journalism](/ccas/Clubs-and-Societies/journalism)
+* [Broadcasting](/ccas/Clubs-and-Societies/broadcasting)
 
 # Physical Sports
 * Badminton
