@@ -28,8 +28,8 @@ Students have the opportunity to exercise their option at the start of the schoo
 * [Wushu](/ccas/Physical-Sports/wushu)
 
 # Uniform Groups
-* Girl Guides (Brownies)
-* Scouts
+* [Girl Guides (Brownies)](/ccas/Uniform-Groups/brownies)
+* [Scouts](/ccas/Uniform-Groups/scouts)
 
 # Visual & Performing Arts
 * [Arts and Crafts](/ccas/Visual-and-Performing-Arts/artsandcrafts)
