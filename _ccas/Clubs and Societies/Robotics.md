@@ -18,3 +18,4 @@ Offered to P3 to P6 students
 3. To foster collaboration and teamwork leading to self-directed inquiry and life-long learning
 4. To develop students’ communication skills and to apply critical thinking skills in problem-based learning
 
+![](/images/nanhua%20ss%207.png)
