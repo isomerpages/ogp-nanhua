@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Key Programmes/Applied Learning Programme.md
       - Key Programmes/.keep
       - Curriculum Philosophy.md
