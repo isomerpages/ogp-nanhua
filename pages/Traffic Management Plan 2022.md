@@ -81,3 +81,21 @@ For those driving from Commonwealth Avenue West,
 
 <u>Figure 4: During School Dismissal</u>
 ![Traffic Information - Figure 4](/images/Traffic%20Information%20-%20Figure%204.png)
+
+<u>Explanatory Notes to Figure 4:</u>
+
+For those driving from Commonwealth Avenue West,
+
+* enter the school using Gate D only
+* pick up along the bus bay area
+* exit the school using Gate D only
+* turn right only on exit towards Commonwealth Avenue West
+* no left turn from 1.45 pm to 2.15pm (refer to LTA signage)
+* For those driving from Jalan Lempeng, 
+* enter the school using Gate F only
+* make a u-turn near canteen
+* pick up along the canteen area only
+* enter the school at a later dismissal time if there are more than one student of different level to be picked up. Drivers who enter at an earlier pick-up time will not be allowed to wait.
+* exit the school using Gate F only
+* turn left only on exit towards Clementi Avenue 6
+* no right turn from 1.45pm to 2.15pm (refer to LTA signage)
