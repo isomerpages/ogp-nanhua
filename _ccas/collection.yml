@@ -2,9 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Uniform Groups/.keep
-      - Uniform Groups/Girl Guides (Brownies).md
-      - Uniform Groups/Scouts.md
       - Clubs and Societies/.keep
       - Clubs and Societies/International Chess.md
       - Clubs and Societies/Chinese Weiqi.md
@@ -20,6 +17,9 @@ collections:
       - Physical Sports/Track and Field.md
       - Physical Sports/Volleyball.md
       - Physical Sports/Wushu.md
+      - Uniform Groups/.keep
+      - Uniform Groups/Girl Guides (Brownies).md
+      - Uniform Groups/Scouts.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Arts and Crafts.md
       - Visual and Performing Arts/Choir.md
