@@ -21,3 +21,5 @@ Offered to P3 to P6 students. A selection exercise may be conducted depending on
 1. To provide members with the opportunity to innovate and create artwork of various forms through the process of Enquire, Experiment & Explore
 2. To provide members with the opportunity to showcase their artistic talent by participating in internal & external activities
 3. To identify and develop talented members for SYF Art Exhibition and other competitions
+
+![](/images/nhss2.png)
