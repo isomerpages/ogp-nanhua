@@ -25,3 +25,4 @@ Figure 2: Locations of Access Gates
 |B| Pedestrian Access Gate (Next to Gate A along Commonwealth Ave West | 6.30am to 7.30am | **1.30 pm to 2.00pm** (P1 P3, P5, P6 students) | NIL | NIL | NIL |
 |C | Pedestrian Access Gate C (Next to Traffic Light along Commonwealth Ave West | NIL | **1.30pm to 2.00 pm** (P2 & P4 students) | NIL | NIL | NIL|
 |E| Pedestrian Access Gate (Near Security Guard Post along Jalan Lempeng) | NIL | NIL | NIL | 3.00pm to 7.00pm | 7.30am to 1.00pm <br><br>  2.00pm to 5.00pm |
+| G | Pedestrian Access Gate (Near Faber Drive along Jalan Lempeng) | 6.30am to 7.30am | **1.30 pm to 2.00pm** (for all levels of students) | NIL | NIL | NIL |
