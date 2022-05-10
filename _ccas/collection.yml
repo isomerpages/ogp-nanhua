@@ -2,13 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Physical Sports/Badminton.md
-      - Physical Sports/Football.md
-      - Physical Sports/Table Tennis.md
-      - Physical Sports/Track and Field.md
-      - Physical Sports/Volleyball.md
-      - Physical Sports/Wushu.md
-      - Physical Sports/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/International Chess.md
       - Clubs and Societies/Chinese Weiqi.md
@@ -17,3 +10,10 @@ collections:
       - Clubs and Societies/Robotics.md
       - Clubs and Societies/Journalism.md
       - Clubs and Societies/Broadcasting.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Football.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Track and Field.md
+      - Physical Sports/Volleyball.md
+      - Physical Sports/Wushu.md
