@@ -12,11 +12,11 @@ School’s operating hours is from 0630 hrs to 1900 hrs, during which the gates 
  
 Figure 2 and Table 1 below show the locations of access gates and operating hours respectively.
 
-![Figure 2: Locations of Access Gates](/images/Traffic%20Information%20-%20Figure%202.png)
 Figure 2: Locations of Access Gates
+![Figure 2: Locations of Access Gates](/images/Traffic%20Information%20-%20Figure%202.png)
+
 
 **Table 1: Gates and Operating Hours**
-
 
 
 | Gate | Gate Location | Arrival | Dismissal | Remedial Lessons/ CCA Dismissal | Studnt Care Centre (Pick-up) | Visitors |
