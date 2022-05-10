@@ -126,6 +126,6 @@ The greatest challenges faced by our students in the immediate and distant futur
 Thomas Lim
 <br> Lead Teacher (English Language)
 <br>Nan Hua Primary School
-<br>[thomas_lim_kok_tiong@moe.edu.sg](email to: thomas_lim_kok_tiong@moe.edu.sg)
+<br>[thomas_lim_kok_tiong@moe.edu.sg](mailto: thomas_lim_kok_tiong@moe.edu.sg)
 
 NHPS Thinking Programme Website: [www.teachingthinking.education](http://www.teachingthinking.education)
