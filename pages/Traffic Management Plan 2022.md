@@ -60,3 +60,4 @@ Figure 3 and 4 below depicts vehicular movement during school arrival and dismis
 Figure 5 shows movement during remedial lessons and CCA dismissal.
 
 <u>Figure 3: During School Arrival</u>
+![Traffic Information - Figure 3](/images/Traffic%20Information%20-%20Figure%203.png)
