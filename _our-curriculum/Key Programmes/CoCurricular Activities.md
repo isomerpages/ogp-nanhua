@@ -14,8 +14,8 @@ Students have the opportunity to exercise their option at the start of the schoo
 * [International Chess](/ccas/chess)
 * [Chinese Weiqi](/ccas/chineseweiqi)
 * [Physical Science](/ccas/physicalscience)
-* Infocomm Technology (Computing) Club
-* Robotics
+* [Infocomm Technology (Computing) Club](/ccas/Clubs-and-Societies/computingclub)
+* [Robotics](/ccas/Clubs-and-Societies/robotics)
 * Journalism
 * Broadcasting
 
