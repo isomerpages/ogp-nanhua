@@ -43,21 +43,22 @@ With these considerations in mind, the programme’s central premise is to work 
 
 ![](/images/Creative%20Thinking.png)
 
-Curriculum Plan for the Thinking Programme
-Introductory Programme (Primary 3 and 4)
+# Curriculum Plan for the Thinking Programme
+
+**Introductory Programme (Primary 3 and 4)**
 
 As mentioned in the earlier section, the key focus of the Introductory Programme seeks to work within the Concrete Operational Stages as proposed by Jean Piaget. As such, the programme introduces in concrete form the manifestation of Creative, Critical and Applied Thinking through man-made artifacts and natural design. The mode of learning for Primary 3 revolves around rich media, experiments and experiences, and manipulating replicas of ingenious artifacts, while in Primary 4, stories and artifacts derived from them will serve as the main medium in which these aspects of Thinking are introduced.
 
-Selected Primary 3 Topics
-1)    Playing with Fire!
-2)    New Energy
-3)    Great Inventions across History
-4)    Introduction to Droid Programming
-5)    Man and the Environment: Improvement by Design
-6)    Design Thinking 1: Meeting the housing needs of the Elderly
-7)    Imagining the Future
-8)    Ghosts and Monsters: Beliefs and Evidence
-9)    Pokemon Go Live!: Gaming and their implications in modern society
+**Selected Primary 3 Topics**
+1. Playing with Fire!
+2. New Energy
+3. Great Inventions across History
+4. Introduction to Droid Programming
+5. Man and the Environment: Improvement by Design
+6. Design Thinking 1: Meeting the housing needs of the Elderly
+7. Imagining the Future
+8. Ghosts and Monsters: Beliefs and Evidence
+9. Pokemon Go Live!: Gaming and their implications in modern society
 
 Selected Primary 4 Topics
 1)    Stories: Purpose and Effects
