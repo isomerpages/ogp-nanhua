@@ -2,31 +2,34 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Nan Hua Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 30 Jln Lempeng,
+      - "  "
+      - Singapore 128806
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.00am - 6.00pm
+        description: (School Days)
+      - days: Mon - Fri
+        time: 7.30am - 6.00pm
+        description: (School Holidays)
+      - days: Days of Closure
+        time: "   "
+        description: The School General Office is closed on Saturdays, Sundays and
+          Public Holidays
+    maps_link: https://www.google.com/maps?ll=1.319799,103.761943&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=5613249419338497889
+    title: School Location
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6123 4567
+      - email: enquiries@abc.gov.sg
+      - other: Any text here <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: careers@abc.gov.sg
+      - other: ""
+    title: Careers
 ---
