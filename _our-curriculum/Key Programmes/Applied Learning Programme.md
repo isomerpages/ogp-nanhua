@@ -105,25 +105,27 @@ The Advanced programme focuses on the transition of the Concrete Operational Sta
 9. Philosophical Thought Experiments: Ring of Gyges, Plank of Carneades
 10. Problem-solving Project: Design Thinking
 
-Programme Administration
+**Programme Administration**
 
-Levels: All Primary 3 to 6 classes.
+**Levels:** All Primary 3 to 6 classes.
 
-Frequency and Duration: One 60-minute lesson per fortnight over a 40-week school year. Estimated number of lessons per year: 20
+**Frequency and Duration:** One 60-minute lesson per fortnight over a 40-week school year. Estimated number of lessons per year: 20
 
-Instructors: 1 Specialist Teacher per class, co-teaching with the class English Language Teacher. The Specialist Teacher will adapt each lesson to the learning needs and interests of the students within the overall principles of the Programme. Students are encouraged to suggest topics of interest to the Specialist Teacher who will in turn develop a Thinking experience based on the class-selected topic termly.
+**Instructors:** 1 Specialist Teacher per class, co-teaching with the class English Language Teacher. The Specialist Teacher will adapt each lesson to the learning needs and interests of the students within the overall principles of the Programme. Students are encouraged to suggest topics of interest to the Specialist Teacher who will in turn develop a Thinking experience based on the class-selected topic termly.
 
-Technological Infrastructure: Full ICT integration using a 1-to-1 iPad-based learning system greatly enhances the Interactive elements as well as amplify the skills and content taught in the programme. Apps range from Classroom Response and lesson delivery (Nearpod), Research (Safari, Encyclopedia), artifact creation (iMovie), Programming (Sphero Edu, Blockly), to even games for Thinking (Rubeworks).
-Conclusion
-“During times of universal deceit, telling the truth becomes a revolutionary act.”
-British Novelist George Orwell
+**Technological Infrastructure:** Full ICT integration using a 1-to-1 iPad-based learning system greatly enhances the Interactive elements as well as amplify the skills and content taught in the programme. Apps range from Classroom Response and lesson delivery (Nearpod), Research (Safari, Encyclopedia), artifact creation (iMovie), Programming (Sphero Edu, Blockly), to even games for Thinking (Rubeworks).
+
+# Conclusion
+
+`“During times of universal deceit, telling the truth becomes a revolutionary act.”` - British Novelist George Orwell
 
 The greatest challenges faced by our students in the immediate and distant future are issues of values, notably the issues of finding truths amidst seas of lies, the pursuit of personal gains with little regard to the impact on society, and the relevance of Education to them as a human, not merely as a worker-to-be or a mere cog in the larger social machinery. Truly, as educators, we have to hold fast to the fundamental belief that the future can be a better age and that the challenges that confront society and our pupils can be resolved through a firm grounding in constructive thinking and positive values formation. The symbiosis of Critical, Creative and Applied Thinking into a Comprehensive Thinking Programme could and should be a first and important step in equipping our students to confront the challenges they will face and to be the best person they can be. This bold programme of empowerment and engagement, of dialogue and debate, of skill and will, of actions and attitudes, will result in the transformation of the students from passive fatalists to agents of positive change in a better age.
 
-Thinking Programme Contact Person:
+**Thinking Programme Contact Person:**
+
 Thomas Lim
-Lead Teacher (English Language)
-Nan Hua Primary School
-thomas_lim_kok_tiong@moe.edu.sg
+<br> Lead Teacher (English Language)
+<br>Nan Hua Primary School
+<br>thomas_lim_kok_tiong@moe.edu.sg
 
 NHPS Thinking Programme Website: www.teachingthinking.education
