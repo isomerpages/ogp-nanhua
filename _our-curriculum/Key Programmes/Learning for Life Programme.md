@@ -71,4 +71,4 @@ To create a school culture of serving, staff at NHPS also lead by example where 
 * P1 & 2: IPARD/C
 * P3-6: Design Thinking (ALP)
 
-![](/images/Nanhua%20screenshot%202.png)
+![](/images/Nanhua%20screenshot%203.png)
