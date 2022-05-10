@@ -23,3 +23,5 @@ Offered to P3 to P6 students
 3. To improve students’ fitness levels in preparation for the rigor of competition
 4. To build camaraderie amongst the members of the CCA
 5. To develop students’ self-confidence and to inculcate expected values of an athlete such as teamwork and discipline
+
+![](/images/nanhua%20ss2.png)
