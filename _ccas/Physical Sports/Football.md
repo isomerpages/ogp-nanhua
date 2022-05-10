@@ -18,3 +18,5 @@ Offered to P3 to P6 students
 1. To teach students the basic skills, game strategies and techniques of football
 2. To provide platforms and opportunities for students to understand and apply the basic rules in playing football (i.e. offside, throw in, goalkeeping)
 3. To develop students’ self-confidence, good sportsmanship and to inculcate values such as fair play, discipline and teamwork through playing football
+
+![](/images/nanhua%20ss4.png)
