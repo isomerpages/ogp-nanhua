@@ -14,7 +14,7 @@ description: ""
 	* [Pamphlet](https://nanhuapri.moe.edu.sg/qql/slot/u732/2021/MOE_FAS_Pamphlet_2022.pdf) _(updated on 15th September 2021)_
 <br>
 2. [Leave of absence form](https://go.gov.sg/nhps-loa-application-form) or Scan the QR Code below
-<br> ![](/images/gogovnanhua.png)
+<br> <img src="<img src="https://d33wubrfki0l68.cloudfront.net/c07ee306e66d8b164b10e6e7088281b9c1df91d4/0493f/images/gogovnanhua.png" alt="">" alt="" style="width:200px; height:282px;">
 3. [Updating of student's official address](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Quick%20Links/For%20Parents/forms/Request%20Form%20For%20Updating%20of%20Student%20Address-Annex%201B2%20-%202019.pdf)  _(updated on 15th October 2019)_
 <br>
 
