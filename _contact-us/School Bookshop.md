@@ -8,7 +8,7 @@ Pacific Bookstores Pte Ltd.
 
 14 Arumugam Road, #08-01, LTC Building C, 409959
 
-Customer Service Hotline: 6559 2269
+Customer Service Hotline: [6559 2269](tel:65592269)
 
 The Customer Service Hotline is only available from 9.00AM to 5.30PM (Monday to Friday)
 
