@@ -9,7 +9,7 @@ description: ""
 (Opposite Bedok MRT Station, above Sheng Siong)<br>
 Operating hour: 3pm-8pm (weekdays), 10am-4pm (weekends)<br>
 Closed every Tuesday and public holidays<br>
-Tel: 6276 6689
+Tel: [6276 6689](tel:62766689)
 
 [http://www.myuniformshop.com.sg/ ](http://www.myuniformshop.com.sg/ )
 
