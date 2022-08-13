@@ -9,5 +9,5 @@ description: ""
 <br>Tel: 6553 3838
 <br>Fax: 6456 0922
 <br><br>Contact : <br>
-school@comfortdelgrobus.com.sg (Feedback and Enquiries)<br>
-billing@comfortdelgrobus.com.sg (Billing)
+[school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg) (Feedback and Enquiries)<br>
+[billing@comfortdelgrobus.com.sg](mailto:billing@comfortdelgrobus.com.sg) (Billing)
