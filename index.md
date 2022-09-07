@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Nan hua pri_Hero banner.png
+      background: /images/HomePage.gif
       url: /contact-us/
       key_highlights:
         - title: News & updates
