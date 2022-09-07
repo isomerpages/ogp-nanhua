@@ -1,12 +1,12 @@
 ---
 title: School Motto
-permalink: /our-school/School-Information/school-motto
+permalink: /our-school/School-Information/school-motto/
 description: ""
 third_nav_title: School Information
 ---
-![motto.png](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20School/School%20Information/School%20Motto/motto.png)
-------------------------------------------------------------------------------------------------------------------------
+![](/images/motto.png)
 
+------------------------------------------------------------------------------------------------------------------------
 Moral development focuses on family values and the 8 values that are advocated in the school motto. Our pupils internalize these values and are able to distinguish right from wrong. They will:  
   
 
