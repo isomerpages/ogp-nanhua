@@ -1,11 +1,10 @@
 ---
 title: Wait list Application
-permalink: /our-school/School-information/wait-list-application
+permalink: /our-school/School-information/wait-list-application/
 description: ""
 third_nav_title: Admissions
 ---
-
-**For AY2021/2022**
+**For AY2023**
 
 To apply, please click **[here](https://go.gov.sg/nhps-wl)**
 
