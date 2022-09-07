@@ -1,6 +1,6 @@
 ---
 title: School Rules & Regulations
-permalink: /our-school/School-Information/school-rules-n-regulations
+permalink: /our-school/School-Information/school-rules-n-regulations/
 description: ""
 third_nav_title: School Information
 ---
@@ -34,9 +34,9 @@ Our School Rules
 School Uniform and PE Attire
 ----------------------------
 
-![PE-Shirt.jpg](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20School/School%20Information/School%20Rules%20&%20Regulations/PE-Shirt.jpg)
-
-![Uniform.jpg](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20School/School%20Information/School%20Rules%20&%20Regulations/Uniform.jpg)
+| <img src="/images/PE-Shirt.jpg"     style="max-width: 100%;" /> | <img src="/images/Uniform.jpg"     style="max-width: 100%;" /> | 
+| -------- | -------- | 
+|      |    | 
 
 *   Blouse / Shirt / T-shirt: neatly tucked in
 *   Knee-Length skirt
