@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - Alumni.md
       - School Management Committee.md
       - School staff.md
+      - Alumni.md
       - ParentConnect.md
