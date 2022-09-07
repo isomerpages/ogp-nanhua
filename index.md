@@ -13,9 +13,6 @@ sections:
         - title: News & updates
           description: ""
           url: /news-n-update
-        - title: 朗朗中秋夜，悠悠南华情 - 2021南华小学欢庆中秋
-          description: ""
-          url: /highlights1
         - title: 春满南苑百花争艳年年好，福临华堂五子登科步步高 —— 2022南华小学欢庆新年和建校105周年
           description: ""
           url: /highlights2
