@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Nan Hua Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: Read More
       url: /trafficmanagementplan
 ---
+
