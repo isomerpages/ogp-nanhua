@@ -2,8 +2,8 @@ collections:
   our-people:
     output: true
     order:
-      - Non Financial Information.md
       - School Management Committee.md
+      - Non Financial Information.md
       - School staff.md
       - Alumni.md
       - ParentConnect.md
