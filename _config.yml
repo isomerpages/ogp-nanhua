@@ -1,6 +1,6 @@
 title: Nan Hua Primary School
 url: https://www.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/NHPSLOGO_RGB.png
 colors:
   primary-color: "#1025ef"
   secondary-color: "#c00218"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-nanhua-staging.netlify.app
 prod: https://ogp-nanhua-prod.netlify.app
-shareicon: /images/NHPSLOGO_RGB.png
+shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
