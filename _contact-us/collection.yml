@@ -2,9 +2,9 @@ collections:
   contact-us:
     output: true
     order:
-      - School Student Care.md
       - School Bus.md
       - School Uniform.md
       - School Bookshop.md
       - School Dental Clinic.md
+      - School Student Care.md
       - FAQs.md
