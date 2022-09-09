@@ -13,9 +13,9 @@ sections:
         - title: News & updates
           description: ""
           url: /news-n-update
-        - title: 春满南苑百花争艳年年好，福临华堂五子登科步步高 —— 2022南华小学欢庆新年和建校105周年
+        - title: Mid-Autumn Festival and Teacher’s Day 2022 (中秋节暨教师节庆祝会 2022)
           description: ""
-          url: /highlights2
+          url: /mid-autumn-festival-and-teacher-s-day-2022-2022
   - infobar:
       title: Traffic Management Plan 2022
       subtitle: News and Updates
@@ -25,4 +25,3 @@ sections:
       button: Read More
       url: /trafficmanagementplan
 ---
-
