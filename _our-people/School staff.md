@@ -5,11 +5,93 @@ description: ""
 ---
 **Principal & Vice-Principals**
 
-<table><thead><tr><td colspan="3" align="center">Mrs Ong Hui Khim<br>Principal<br><a href="mailto:chia_hui_khim@schools.gov.sg">chia_hui_khim@schools.gov.sg</a></td></tr></thead><tbody><tr><td align="center">Mdm Josephine Ng<br>Vice-Principal<br><a href="mailto:josephine_sw_ng@schools.gov.sg">josephine_sw_ng@schools.gov.sg</a></td><td align="center">Miss Tan Peiru<br>Vice-Principal<br><a href="mailto:tan_peiru@schools.gov.sg">tan_peiru@schools.gov.sg</a></td><td align="center">Mr Lee Sech Wee<br>Vice-Principal (Admin)<br><a href="mailto:lee_sech_wee@schools.gov.sg">lee_sech_wee@schools.gov.sg</a></td></tr></tbody></table>
+<table><thead>
+	<tr>
+		<td colspan="3" align="center">Mrs Ong Hui Khim<br>Principal<br><a href="mailto:chia_hui_khim@schools.gov.sg">chia_hui_khim@schools.gov.sg</a>
+		</td>
+	</tr></thead>
+<tbody>
+	<tr>
+		<td align="center">Mdm Josephine Ng<br>Vice-Principal<br><a href="mailto:josephine_sw_ng@schools.gov.sg">josephine_sw_ng@schools.gov.sg</a>
+		</td>
+		<td align="center">Miss Tan Peiru<br>Vice-Principal<br><a href="mailto:tan_peiru@schools.gov.sg">tan_peiru@schools.gov.sg</a>
+		</td>
+		<td align="center">Mr Lee Sech Wee<br>Vice-Principal (Admin)<br><a href="mailto:lee_sech_wee@schools.gov.sg">lee_sech_wee@schools.gov.sg</a>
+		</td>
+	</tr>
+	</tbody>
+</table>
 
 **Key Personnel**
 
-<table><thead><tr><td align="center">Mr Tan Shu Hong<br>School Staff Developer<br><a href="mailto:tan_shu_hong@schools.gov.sg">tan_shu_hong@schools.gov.sg</a><br></td><td align="center">Mrs Cynthia Chen<br>HOD Mathematics<br><a href="mailto:Cynthia_Tan@schools.gov.sg">Cynthia_Tan@schools.gov.sg</a><br></td></tr></thead><tbody><tr><td align="center">Mr Hisham Bin Zainal<br>HOD Science<br><a href="mailto:Hisham_Zainal@schools.gov.sg">Hisham_Zainal@schools.gov.sg</a><br></td><td align="center">Mrs Denise Kee<br>HOD GEP<br><a href="mailto:yeo_sulyn_denise@schools.gov.sg">yeo_sulyn_denise@schools.gov.sg</a><br></td></tr><tr><td align="center">Mrs Shirlyn Seah<br>HOD CCE<br><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg">koh_lee_kun_shirlyn@schools.gov.sg</a><br></td><td align="center">Mr Choy Chong Wah Cedric<br>HOD ICT<br><a href="mailto:choy_chong_wah@schools.gov.sg">choy_chong_wah@schools.gov.sg</a><br></td></tr><tr><td align="center">Mr Henry Phua Yong Xiang<br>HOD Student Management<br><a href="mailto:henry_phua_yong_xiang@schools.gov.sg">henry_phua_yong_xiang@schools.gov.sg</a><br></td><td align="center">Mrs Kheng Mui Yee<br>Year Head (Upper Block)<br><a href="mailto:kheng_mui_yee@schools.gov.sg">kheng_mui_yee@schools.gov.sg</a><br></td></tr><tr><td align="center">Ms Chua Hock Yen<br>Year Head (Lower Block)<br><a href="mailto:chua_hock_yen@schools.gov.sg">chua_hock_yen@schools.gov.sg</a><br></td><td align="center">Mdm Cho Yue Wai<br>Asst Year Head (Middle Block)<br><a href="mailto:cho_yue_wai@schools.gov.sg">cho_yue_wai@schools.gov.sg</a><br></td></tr><tr><td align="center">Mdm Tan Yen Teng Wendy<br>LH English<br><a href="mailto:tan_yen_teng_wendy@schools.gov.sg">tan_yen_teng_wendy@schools.gov.sg</a><br></td><td align="center">Mrs Vivien Tan<br>LH English<br><a href="mailto:yu_yen_ling_vivien@schools.gov.sg">yu_yen_ling_vivien@schools.gov.sg</a><br></td></tr><tr><td align="center">Mdm Heng Kim Fei Susan<br>SH Literary Arts<br><a href="mailto:heng_kim_fei_susan@schools.gov.sg">heng_kim_fei_susan@schools.gov.sg</a><br></td><td align="center">Mrs Chew-Lim Hwee Ling<br>LH Mathematics<br><a href="mailto:lim_hwee_ling@schools.gov.sg">lim_hwee_ling@schools.gov.sg</a><br></td></tr><tr><td align="center">Miss Lim Li Li<br>LH Mathematics<br><a href="mailto:LIM_Li_Li_b@schools.gov.sg">LIM_Li_Li_b@schools.gov.sg</a><br></td><td align="center">Miss Ng Pei Sin<br>LH Chinese Language &amp; Culture<br><a href="mailto:ng_pei_sin@schools.gov.sg">ng_pei_sin@schools.gov.sg</a><br></td</tr><tr>><td align="center">Miss Zhou Jing<br>LH Chinese Language &amp; Culture<br><a href="mailto:zhou_jing_b@schools.gov.sg">zhou_jing_b@schools.gov.sg</a><br></td><td align="center">Mdm Lin Pei-Jing<br>SH GEP<br><a href="mailto:lin_pei-jing@schools.gov.sg">lin_pei-jing@schools.gov.sg</a><br></td></tr><tr><td align="center">Mr Yang Feng Yi<br>SH SAP<br><a href="mailto:yang_fengyi@schools.gov.sg">yang_fengyi@schools.gov.sg</a><br></td><td align="center">Mr Neo Eng Yeow<br>SH PE<br><a href="mailto:neo_eng_yeow@schools.gov.sg">neo_eng_yeow@schools.gov.sg</a><br></td></tr><tr><td align="center">Mdm Chew Gek Cheng Jenny<br>SH Aesthetics<br><a href="mailto:chew_gek_cheng_a@schools.gov.sg">chew_gek_cheng_a@schools.gov.sg</a></td></tr></tbody></table>
+<table><thead>
+	<tr>
+		<td align="center">Mr Tan Shu Hong<br>School Staff Developer<br><a href="mailto:tan_shu_hong@schools.gov.sg">tan_shu_hong@schools.gov.sg</a><br>
+		</td>
+		<td align="center">Mrs Cynthia Chen<br>HOD Mathematics<br><a href="mailto:Cynthia_Tan@schools.gov.sg">Cynthia_Tan@schools.gov.sg</a><br>
+		</td>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td align="center">Mr Hisham Bin Zainal<br>HOD Science<br><a href="mailto:Hisham_Zainal@schools.gov.sg">Hisham_Zainal@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mrs Denise Kee<br>HOD GEP<br><a href="mailto:yeo_sulyn_denise@schools.gov.sg">yeo_sulyn_denise@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mrs Shirlyn Seah<br>HOD CCE<br><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg">koh_lee_kun_shirlyn@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mr Choy Chong Wah Cedric<br>HOD ICT<br><a href="mailto:choy_chong_wah@schools.gov.sg">choy_chong_wah@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mr Henry Phua Yong Xiang<br>HOD Student Management<br><a href="mailto:henry_phua_yong_xiang@schools.gov.sg">henry_phua_yong_xiang@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mrs Kheng Mui Yee<br>Year Head (Upper Block)<br><a href="mailto:kheng_mui_yee@schools.gov.sg">kheng_mui_yee@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Ms Chua Hock Yen<br>Year Head (Lower Block)<br><a href="mailto:chua_hock_yen@schools.gov.sg">chua_hock_yen@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mdm Cho Yue Wai<br>Asst Year Head (Middle Block)<br><a href="mailto:cho_yue_wai@schools.gov.sg">cho_yue_wai@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mdm Tan Yen Teng Wendy<br>LH English<br><a href="mailto:tan_yen_teng_wendy@schools.gov.sg">tan_yen_teng_wendy@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mrs Vivien Tan<br>LH English<br><a href="mailto:yu_yen_ling_vivien@schools.gov.sg">yu_yen_ling_vivien@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mdm Heng Kim Fei Susan<br>SH Literary Arts<br><a href="mailto:heng_kim_fei_susan@schools.gov.sg">heng_kim_fei_susan@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mrs Chew-Lim Hwee Ling<br>LH Mathematics<br><a href="mailto:lim_hwee_ling@schools.gov.sg">lim_hwee_ling@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Miss Lim Li Li<br>LH Mathematics<br><a href="mailto:LIM_Li_Li_b@schools.gov.sg">LIM_Li_Li_b@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Miss Ng Pei Sin<br>LH Chinese Language &amp; Culture<br><a href="mailto:ng_pei_sin@schools.gov.sg">ng_pei_sin@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Miss Zhou Jing<br>LH Chinese Language &amp; Culture<br><a href="mailto:zhou_jing_b@schools.gov.sg">zhou_jing_b@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mdm Lin Pei-Jing<br>SH GEP<br><a href="mailto:lin_pei-jing@schools.gov.sg">lin_pei-jing@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mr Yang Feng Yi<br>SH SAP<br><a href="mailto:yang_fengyi@schools.gov.sg">yang_fengyi@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mr Neo Eng Yeow<br>SH PE<br><a href="mailto:neo_eng_yeow@schools.gov.sg">neo_eng_yeow@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mdm Chew Gek Cheng Jenny<br>SH Aesthetics<br><a href="mailto:chew_gek_cheng_a@schools.gov.sg">chew_gek_cheng_a@schools.gov.sg</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 **School Admin Team (SAT)**
 
