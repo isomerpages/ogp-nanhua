@@ -90,6 +90,6 @@ Please install the PG app on your smartphones to receive our school's eNotificat
 Cyber Wellness (Discerning Online Information)
 ----------------------------------------------
 
-[Helping your child discern online information](/cyberwellness)
+[Helping your child discern online information](/cyberwellness/)
 
 [Parents Tipsheet](/files/2019%20Connect%20T2%20Parents%20Tipsheet%20-%20Pri.pdf)
