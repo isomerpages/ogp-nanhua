@@ -95,7 +95,74 @@ description: ""
 
 **School Admin Team (SAT)**
 
-<table><thead><tr><td align="center">Ms Lim Xiuli<br>Administration Manager<br><a href="mailto:LIM_Xiuli@schools.gov.sg">LIM_Xiuli@schools.gov.sg</a><br></td><td align="center">Mr Png Gay Pheow<br>Operations Manager<br><a href="mailto:png_gay_pheow@schools.gov.sg">png_gay_pheow@schools.gov.sg</a><br></td><td align="center">Mr Ho Kee Kit<br>Operations Manager<br><a href="mailto:ho_kee_kit@schools.gov.sg">ho_kee_kit@schools.gov.sg</a><br></td></tr></thead><tbody><tr><td align="center">Mr Kwek Soon Cheong<br>ICT Manager<br><a href="mailto:kwek_soon_cheong@schools.gov.sg">kwek_soon_cheong@schools.gov.sg</a><br></td><td align="center">Mr Ng Seng Yeok<br>Administrative Executive<br><a href="mailto:ng_seng_yeok@schools.gov.sg">ng_seng_yeok@schools.gov.sg</a><br></td><td align="center">Mdm Shirley Han Jok Ling<br>Administrative Executive<br><a href="mailto:shirley_han_jok_ling@schools.gov.sg">shirley_han_jok_ling@schools.gov.sg</a><br></td></tr><tr><td align="center">Mr Loo Sin Yew<br>Administrative Executive<br><a href="mailto:loo_sin_yew@schools.gov.sg">loo_sin_yew@schools.gov.sg</a><br></td><td align="center">Miss Nadia Binte Razalee<br>Management Support Officer<br><a href="mailto:nadia_razalee@schools.gov.sg">nadia_razalee@schools.gov.sg</a><br></td><td align="center">Mdm Liew Moy Pin<br>Management Support Officer<br><a href="mailto:liew_moy_pin@schools.gov.sg">liew_moy_pin@schools.gov.sg</a><br></td></tr><tr><td align="center">Mdm Chu Mei Ling<br>Management Support Officer<br><a href="mailto:chu_mei_ling@schools.gov.sg">chu_mei_ling@schools.gov.sg</a><br></td><td align="center">Mdm Chan Ah Heng<br>Operations Support Officer<br><br></td><td align="center">Mr Lim Guan Kwee<br>Operations Support Officer<br><br></tr><tr></td><td align="center">Mr Tan Aik Whye<br>Operations Support Officer<br><br></td><td align="center">Mr Eric Aw Aik Hoe<br>Operations Support Officer<br><br></td><td align="center">Ms Mayandi Sedhalakshimi<br>Operations Support Officer<br><br></td></tr><tr><td align="center">Ms Chua Hwee Sang<br>Operations Support Officer<br><br></td><td align="center">Mr Tan Lye Teck<br>Operations Support Officer<br><br></td><td align="center">Ms Ruth Martha Lim<br>Admin Support Officer<br><a href="mailto:ruth_martha_lim@moe.edu.sg">ruth_martha_lim@moe.edu.sg</a><br></td></tr><tr><td align="center">Ms Low Choi Lin (Christina)<br>SMC Clerical Support Staff<br><a href="mailto:low_choi_lin@nanhuaps.moe.edu.sg">low_choi_lin@nanhuaps.moe.edu.sg</a><br></td><td align="center">Mdm Janet Lee Kwee Hio<br>Librarian<br><a href="mailto:lkweehio@staff.spydus.com.sg">lkweehio@staff.spydus.com.sg</a><br></td><td align="center">Mr Derick Enoza<br>ICT Trainer<br><a href="mailto:derick_enoza@moe.edu.sg">derick_enoza@moe.edu.sg</a><br></td></tr><tr><td align="center">Mr Tan Chee Siong<br>Desktop Engineer<br><br></td><td align="center">Mr Mohd Zulhelmy Bin Majed<br>Desktop Engineer<br><br></td><td align="center">Ms Hang Meng Geok<br>Lab Assistant<br><br></td><td><br></td></tr></tbody></table>
+<table><thead>
+	<tr>
+		<td align="center">Ms Lim Xiuli<br>Administration Manager<br><a href="mailto:LIM_Xiuli@schools.gov.sg">LIM_Xiuli@schools.gov.sg</a><br>
+		</td>
+		<td align="center">Mr Png Gay Pheow<br>Operations Manager<br><a href="mailto:png_gay_pheow@schools.gov.sg">png_gay_pheow@schools.gov.sg</a><br>
+		</td>
+		<td align="center">Mr Ho Kee Kit<br>Operations Manager<br><a href="mailto:ho_kee_kit@schools.gov.sg">ho_kee_kit@schools.gov.sg</a><br>
+		</td>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td align="center">Mr Kwek Soon Cheong<br>ICT Manager<br><a href="mailto:kwek_soon_cheong@schools.gov.sg">kwek_soon_cheong@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mr Ng Seng Yeok<br>Administrative Executive<br><a href="mailto:ng_seng_yeok@schools.gov.sg">ng_seng_yeok@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mdm Shirley Han Jok Ling<br>Administrative Executive<br><a href="mailto:shirley_han_jok_ling@schools.gov.sg">shirley_han_jok_ling@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mr Loo Sin Yew<br>Administrative Executive<br><a href="mailto:loo_sin_yew@schools.gov.sg">loo_sin_yew@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Miss Nadia Binte Razalee<br>Management Support Officer<br><a href="mailto:nadia_razalee@schools.gov.sg">nadia_razalee@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mdm Liew Moy Pin<br>Management Support Officer<br><a href="mailto:liew_moy_pin@schools.gov.sg">liew_moy_pin@schools.gov.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mdm Chu Mei Ling<br>Management Support Officer<br><a href="mailto:chu_mei_ling@schools.gov.sg">chu_mei_ling@schools.gov.sg</a><br>
+			</td>
+			<td align="center">Mdm Chan Ah Heng<br>Operations Support Officer<br><br>
+			</td>
+			<td align="center">Mr Lim Guan Kwee<br>Operations Support Officer<br><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mr Tan Aik Whye<br>Operations Support Officer<br><br>
+			</td>
+			<td align="center">Mr Eric Aw Aik Hoe<br>Operations Support Officer<br><br>
+			</td>
+			<td align="center">Ms Mayandi Sedhalakshimi<br>Operations Support Officer<br><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Ms Chua Hwee Sang<br>Operations Support Officer<br><br>
+			</td>
+			<td align="center">Mr Tan Lye Teck<br>Operations Support Officer<br><br>
+			</td>
+			<td align="center">Ms Ruth Martha Lim<br>Admin Support Officer<br><a href="mailto:ruth_martha_lim@moe.edu.sg">ruth_martha_lim@moe.edu.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Ms Low Choi Lin (Christina)<br>SMC Clerical Support Staff<br><a href="mailto:low_choi_lin@nanhuaps.moe.edu.sg">low_choi_lin@nanhuaps.moe.edu.sg</a><br>
+			</td>
+			<td align="center">Mdm Janet Lee Kwee Hio<br>Librarian<br><a href="mailto:lkweehio@staff.spydus.com.sg">lkweehio@staff.spydus.com.sg</a><br>
+			</td>
+			<td align="center">Mr Derick Enoza<br>ICT Trainer<br><a href="mailto:derick_enoza@moe.edu.sg">derick_enoza@moe.edu.sg</a><br>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">Mr Tan Chee Siong<br>Desktop Engineer<br><br>
+			</td>
+			<td align="center">Mr Mohd Zulhelmy Bin Majed<br>Desktop Engineer<br><br>
+			</td>
+			<td align="center">Ms Hang Meng Geok<br>Lab Assistant<br><br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 **P1 Form Teachers 2022**
