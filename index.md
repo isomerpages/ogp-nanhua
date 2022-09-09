@@ -2,7 +2,7 @@
 layout: homepage
 title: Nan Hua Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/NHPSLOGO_RGB.png
 permalink: /
 notification: ""
 sections:
@@ -35,3 +35,4 @@ sections:
       button: Read More
       url: https://for.edu.sg/nhps-artexhibition
 ---
+
