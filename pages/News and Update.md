@@ -85,7 +85,7 @@ PG Download Guide for Parents
 
 Please install the PG app on your smartphones to receive our school's eNotification
 
-[Read More...](https://nanhuapri.moe.edu.sg/qql/slot/u732/Others/News%20and%20Updates/Parents%20Gateway@%20NHPS%20Annex%20A%20-%20Instructional%20Guide.pdf)
+[Read More...](/files/Application%20Forms/Annex%20A_One-Time%20Onboarding.pdf)
 
 Cyber Wellness (Discerning Online Information)
 ----------------------------------------------
