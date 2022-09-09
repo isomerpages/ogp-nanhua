@@ -71,7 +71,7 @@ Road safety is everyone’s responsibility. Nan Hua Primary School aims to work 
 
 新年期间，我鼓励每一位同学能继续用南华感恩杯，为父母和长辈们敬一杯茶，表达对他们的爱、孝敬和感恩。
 
-[Read More...](https://nanhuapri.moe.edu.sg/nhps-1/2022-105)
+[Read More...](/highlights2)
 
 Consent for photography and videography
 ---------------------------------------
