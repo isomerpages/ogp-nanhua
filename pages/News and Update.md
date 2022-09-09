@@ -78,7 +78,7 @@ Consent for photography and videography
 
 Photograph(s) or video image(s) of pupils and their parents/guardians may be capture during school activities and events such as classroom lessons, during CCAs, school camps and school celebrations. The school may use and publish such as photographs...
 
-[Read More...](https://nanhuapri.moe.edu.sg/nhps-1/news-and-updates/consent-for-photography-and-videography)
+[Read More...](/consent-for-photography-and-videography/)
 
 PG Download Guide for Parents
 -----------------------------
