@@ -597,7 +597,7 @@ description: ""
 			</td>
 		</tr>
 		<tr>
-			<td align="center">Mr Ng Choon Keong (Brandon)<br>Teacher<br><a href="mailto:ng_choon_keong@schools.gov.sg">ng_choon_keong@schools.gov.sg</a><br>
+				<td align="center">Mdm Wong Lye Bing Mary Goretti<br>Teacher<br><a href="mailto:wong_lye_bing_mary@schools.gov.sg">wong_lye_bing_mary@schools.gov.sg</a><br>
 			</td>
 			<td align="center">Ms Yeo In May<br>Teacher<br><a href="mailto:yeo_in_may@schools.gov.sg">yeo_in_may@schools.gov.sg</a><br>
 			</td>
@@ -606,16 +606,6 @@ description: ""
 			<td align="center">Ms Lin Qiuhan Catherine<br>Teacher<br><a href="mailto:lin_qiuhan_catherine@schools.gov.sg">lin_qiuhan_catherine@schools.gov.sg</a><br>
 			</td>
 			<td align="center">Ms Ang Suat Sian, Karen<br>Teacher<br><a href="mailto:ang_suat_sian_karen@schools.gov.sg">ang_suat_sian_karen@schools.gov.sg</a><br>
-			</td>
-		</tr>
-		<tr>
-			<td align="center">Ms Suhaily Binte Salam<br>Teacher<br><a href="mailto:suhaily_salam@schools.gov.sg">suhaily_salam@schools.gov.sg</a><br>
-			</td>
-			<td align="center">Ms Li Hanyu<br>Teacher<br><a href="mailto:li_hanyu@moe.edu.sg">li_hanyu@moe.edu.sg</a><br>
-			</td>
-		</tr>
-		<tr>
-			<td align="center">Mdm Wong Lye Bing Mary Goretti<br>Teacher<br><a href="mailto:wong_lye_bing_mary@schools.gov.sg">wong_lye_bing_mary@schools.gov.sg</a><br>
 			</td>
 		</tr>
 	</tbody>
