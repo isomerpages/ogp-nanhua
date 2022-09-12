@@ -425,11 +425,17 @@ description: ""
 			</td>
 		</tr>
 		<tr>
-			<td>P4-H<br></td>
+			<td rowspan="2">P4-H<br></td>
 			<td align="center">Mr Muhammad Halim Bin Rosman<br><a href="mailto:muhammad_halim_rosman@schools.gov.sg">muhammad_halim_rosman@schools.gov.sg</a><br>
 			</td>
 			<td align="center">Mdm Lin Pei-Jing<br><a href="mailto:lin_pei-jing@schools.gov.sg">lin_pei-jing@schools.gov.sg</a>
 			</td>
+		</tr>
+		<tr>
+			<td align="center">Ms Yong Hwee Min<br><a href="mailto:yong_hwee_min@schools.gov.sg">yong_hwee_min@schools.gov.sg</a><br>
+		</td>
+			<td align="center"><br><br>
+		</td>
 		</tr>
 	</tbody>
 </table>
@@ -437,18 +443,14 @@ description: ""
 **P5 Form Teachers 2022**
 
 <table><thead>
-	<tr >
-		<td rowspan="2">P5-A<br></td>
-		<td align="center">Ms Yong Hwee Min<br><a href="mailto:yong_hwee_min@schools.gov.sg">yong_hwee_min@schools.gov.sg</a><br>
-		</td>
+	<tr>
+		<td>P5-A<br></td>
 		<td align="center">Mr Leo Chin Choon<br><a href="mailto:leo_chin_choon@schools.gov.sg">leo_chin_choon@schools.gov.sg</a><br>
 		</td>
-	</tr>
-	<tr>
 		<td align="center">Mr Choy Chong Wah Cedric<br><a href="mailto:choy_chong_wah@schools.gov.sg">choy_chong_wah@schools.gov.sg</a><br>
 		</td>
-		<td><br><br></td>
-	</tr></thead>
+	</tr>
+	</thead>
 	<tbody>
 		<tr>
 			<td>P5-B<br></td>
