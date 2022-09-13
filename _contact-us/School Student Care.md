@@ -18,8 +18,6 @@ The different components of the programme in the Student Care Centre are describ
 *   Mindful Leadership and Character-in-Action programmes
 *   Holiday Enrichment Programme & Outdoor Structured Activity
 
-(Closed on Sat, Sun and PH)
----------------------------
 
 (Closed on Sat, Sun and PH)
 ---------------------------
