@@ -34,7 +34,7 @@ description: ""
     
     Yes, our parent support group is called “ParentConnect”.
     
-    If you are interested to join our parent support group, please download the [application form](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Contact%20Us/FAQs/Parent%20Connect%20Application%20Form.pdf), complete and submit it to the General Office.
+    If you are interested to join our parent support group, please download the [application form](/files/application%20forms/Parent%20Connect%20Application%20Form.pdf), complete and submit it to the General Office.
 <p>    
 
   
