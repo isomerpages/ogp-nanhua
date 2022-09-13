@@ -33,7 +33,7 @@ description: ""
 </div>
 <div style="line-height: 22.4px;">
 <ul>
-<li style="text-align: justify;"><span style="">School Term: $278.20 (Inclusive of GST) per month</span>
+<li style="text-align: justify;">School Term: $278.20 (Inclusive of GST) per month
 </li>
 <li style="text-align: justify;">School Holiday: surcharge of $6.40 (Inclusive of GST) per day
 </li>
