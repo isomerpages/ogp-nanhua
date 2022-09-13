@@ -52,7 +52,7 @@ description: ""
 </div>
 <div>
 <ol>
-<li><span style="font-size: 1.0625rem;">04/07/22 – 08/07/22</span>
+<li><span style="font-size: 1.0625rem;">04/07/22 – 08/07/22
 </li>
 <li>18/07/22 – 22/07/22
 </li>
@@ -84,6 +84,6 @@ description: ""
 </div>
 <div><br>
 </div>
-</div>
+</div></span>
 <div style="text-align: justify;"><span></span>
 </div>
