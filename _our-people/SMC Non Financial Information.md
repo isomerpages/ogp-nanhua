@@ -3,8 +3,6 @@ title: SMC Non Financial Information
 permalink: /our-people/school-management-committee/non-financial-information/
 description: ""
 ---
-
-
 <table class="iveo_table ives_tab_dark" width="667" style="width: 747.766px;">
  
 <tbody class="">
@@ -48,13 +46,13 @@ description: ""
 <li style="text-align: left;"><b class=""><span style="font-size: 1.0625rem; font-weight: normal;">Provide financial assistance to needy students</span></b>
 </li>
 </ul><p></p><p></p>
-<div style="text-align: left;">For last year:
+<div style="text-align: left;"><span style="font-size: 1.0625rem; font-weight: normal;">For last year:</span>
 </div>
 <div>
 <ul>
-<li style="text-align: left;"><span style="font-size: 1.0625rem;">Support school's activities/programmes and PERI upgrading project</span>
+<li style="text-align: left;"><span style="font-size: 1.0625rem; font-weight: normal;">Support school's activities/programmes and PERI upgrading project</span>
 </li>
-<li style="text-align: left;">Provide financial assistance to needy students<br>
+<li style="text-align: left;"><span style="font-size: 1.0625rem; font-weight: normal;">Provide financial assistance to needy students</span><br>
 </li>
 </ul>
 </div><p></p>
