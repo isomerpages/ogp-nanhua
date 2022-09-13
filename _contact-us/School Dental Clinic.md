@@ -3,87 +3,36 @@ title: School Dental Clinic
 permalink: /contact-us/school-dental-clinic/
 description: ""
 ---
-<div>
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
-<tbody>   
-<tr> 
-<td style="text-align: left; width: 416px;">Opening Hours:
-</td>
-<td style="width: 417px;">
-<div style="text-align: left;">Monday to Thursday 8.00 a.m to 5.30 p.m.
-</div>
-<div style="text-align: left;">Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8.00 a.m to 5.00 p.m.
-</div>
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">School Holidays:&nbsp;
-</td>
-<td style="text-align: left;">Monday to Friday&nbsp; &nbsp; &nbsp; 8.00 a.m to 5.00 p.m.&nbsp;
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Lunch Time:&nbsp;
-</td>
-<td style="text-align: left;">12.30 p.m to 1.30 p.m&nbsp;
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Dental Therapist:&nbsp;
-</td>
-<td style="text-align: left;">Ms Lee Ying Jia&nbsp;
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Tel:&nbsp;
-</td>
-<td style="text-align: left;"> 9115 1679&nbsp;(Please call for appointment.)&nbsp;
-</td>
-</tr>
-</tbody>
-</table><br>
-</div>
-<div>
-<div>The clinic opens alternate weeks
-</div>
-<div><span style="font-weight: normal;"><u>EVEN WEEKS OF TERM 3</u></span>
-</div>
-<div><br>
-</div>
-<div>
-<ol>
-<li><span style="font-size: 1.0625rem;">04/07/22 – 08/07/22
-</li>
-<li>18/07/22 – 22/07/22
-</li>
-</ol>
-</div>
-<div><br>
-</div>
-<div>The Clinic will be closed during the following hours
-</div>
-<div><br>
-</div>
-<div>
-<ol>
-<li>04/07/22 (11am-5.30pm)
-</li>
-<li>08/07/22 (12pm-5pm)
-</li>
-<li>22/07/22 (12pm-5.30pm)
-</li>
-</ol>
-</div>
-<div><br>
-</div>
-<div>For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at <u>6435 3782</u> for assistance.
-</div>
-<div><br>
-</div>
-<div>~We are sorry for any inconvenience caused during the closure~
-</div>
-<div><br>
-</div>
-</div></span>
-<div style="text-align: justify;"><span></span>
-</div>
+School Dental Clinic
+====================
+
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 886.725px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 416px;">Opening Hours:</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Monday to Thursday 8.00 a.m to 5.30 p.m.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8.00 a.m to 5.00 p.m.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">School Holidays:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Monday to Friday&nbsp; &nbsp; &nbsp; 8.00 a.m to 5.00 p.m.&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Lunch Time:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">12.30 p.m to 1.30 p.m&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Dental Therapist:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Lee Ying Jia&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tel:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">9115 1679&nbsp;(Please call for appointment.)&nbsp;</td></tr></tbody></table>
+
+  
+
+The clinic opens alternate weeks
+
+EVEN WEEKS OF TERM 3
+
+  
+
+1.  04/07/22 – 08/07/22
+2.  18/07/22 – 22/07/22
+
+  
+
+The Clinic will be closed during the following hours
+
+  
+
+1.  04/07/22 (11am-5.30pm)
+2.  08/07/22 (12pm-5pm)
+3.  22/07/22 (12pm-5.30pm)
+
+  
+
+For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at 6435 3782 for assistance.
+
+  
+
+We are sorry for any inconvenience caused during the closure
