@@ -17,7 +17,7 @@ description: ""
     
       
     
-    To download the application form and more information on process, please refer to the school website: [/our-school/admissions/parent-volunteer-scheme](https://nanhuapri.moe.edu.sg/our-school/admissions/parent-volunteer-scheme)
+    To download the application form and more information on process, please refer to the school website: [Parent Volunteer Scheme](/our-school/admissions/parent-volunteer-scheme)
     
       
     
