@@ -12,8 +12,8 @@ description: ""
     
     For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
 <p>    
-
-2.  **How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?**
+<b>
+2.  How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</b>
     
       
     
@@ -27,8 +27,8 @@ description: ""
   
 
   
-
-3.  **Is there a parent support group in Nan Hua Primary School?**
+<b>
+	3.  Is there a parent support group in Nan Hua Primary School?</b>
     
       
     
@@ -40,8 +40,8 @@ description: ""
   
 
   
-
-4.  **How do I become a member of the Nan Hua Primary School Alumni?**
+<b>
+	4.  How do I become a member of the Nan Hua Primary School Alumni?</b>
     
       
     
