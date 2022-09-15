@@ -10,7 +10,7 @@ The Primary One Registration Exercise is conducted from June to September every 
     
       
     
-For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
+For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 
 **2.  How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?**
