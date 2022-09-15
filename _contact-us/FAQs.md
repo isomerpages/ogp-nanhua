@@ -21,7 +21,7 @@ To download the application form and more information on process, please refer t
     
       
     
-For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
+For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 
 **3.  Is there a parent support group in Nan Hua Primary School?**
