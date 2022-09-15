@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - School Location.md
       - School Bus.md
       - School Uniform.md
       - School Bookshop.md
