@@ -1,9 +1,9 @@
 ---
 title: For Students
-permalink: /quick-links/for-students
+permalink: /quick-links/for-students/
 description: ""
 ---
-Student Learning Space (SLS)
+**Student Learning Space (SLS)**
 ----------------------------
 
 [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
@@ -22,7 +22,7 @@ Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-hel
 
 [https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
 
-Google Classroom
+**Google Classroom**
 ----------------
 
 [https://classroom.google.com/](https://classroom.google.com/)  
@@ -32,7 +32,7 @@ Google Classroom
 
 Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-helpdesk)
 
-Video Conferencing Platforms
+**Video Conferencing Platforms**
 ----------------------------
 
 Google Meet  
