@@ -7,7 +7,7 @@ description: ""
 
 Tel: 6778 8050<br>
 Fax: 6778 4127<br>
-Email: [nhps@moe.edu.sg](nhps@moe.edu.sg)<br><br>
+Email: [nhps@moe.edu.sg](mailto:nhps@moe.edu.sg)<br><br>
 School Days<br>
 Mon to Fri: 7:00am to 6pm<br><br>
 School Holidays<br>
