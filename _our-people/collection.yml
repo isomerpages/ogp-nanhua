@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Management Committee/.keep
-      - School Management Committee.md
       - SMC Non Financial Information.md
       - School staff.md
       - Alumni.md
