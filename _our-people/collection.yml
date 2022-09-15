@@ -2,9 +2,9 @@ collections:
   our-people:
     output: true
     order:
-      - School Management Committee/SMC Non Financial Information.md
-      - School Management Committee/School Management Committee.md
       - School Management Committee/.keep
+      - School Management Committee/School Management Committee.md
+      - School Management Committee/SMC Non Financial Information.md
       - School staff.md
       - Alumni.md
       - ParentConnect.md
