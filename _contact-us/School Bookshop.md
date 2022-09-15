@@ -1,9 +1,9 @@
 ---
 title: School Bookshop
-permalink: /contact-us/school-bookshop
+permalink: /contact-us/school-bookshop/
 description: ""
 ---
-Pacific Bookstores Pte Ltd.
+### Pacific Bookstores Pte Ltd.
 ---------------------------
 
 14 Arumugam Road, #08-01, LTC Building C, 409959
