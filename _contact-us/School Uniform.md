@@ -1,9 +1,9 @@
 ---
 title: School Uniform
-permalink: /contact-us/school-uniform
+permalink: /contact-us/school-uniform/
 description: ""
 ---
-# MY UNIFORM SHOP (ASIA) PTE LTD
+### MY UNIFORM SHOP (ASIA) PTE LTD
 # 
 209 New Upper Changi Road #03-651 S(460209)<br>
 (Opposite Bedok MRT Station, above Sheng Siong)<br>
