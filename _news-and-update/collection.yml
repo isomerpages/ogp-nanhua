@@ -2,7 +2,6 @@ collections:
   news-and-update:
     output: true
     order:
-      - NHPS online art exhibition.md
       - NHPS 105th Anniversary.md
       - Traffic Management Plan 2022.md
       - News and Update.md
