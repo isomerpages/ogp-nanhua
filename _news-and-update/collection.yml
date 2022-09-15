@@ -2,6 +2,7 @@ collections:
   news-and-update:
     output: true
     order:
+      - Traffic Management Plan 2022.md
       - NHPS 105th Anniversary.md
       - NHPS online art exhibition.md
       - Mid Autumn Festival and Teachers Day 2022 中秋节暨教师节庆祝会 2022.md
