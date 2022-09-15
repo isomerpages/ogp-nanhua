@@ -1,5 +1,4 @@
 collections:
   news-and-update:
     output: true
-    order:
-      - News and Update.md
+    order: []
