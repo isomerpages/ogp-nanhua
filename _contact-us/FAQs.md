@@ -6,11 +6,11 @@ description: ""
 1.  **How do I register my child/ward for Primary One?**
     
   
-    The Primary One Registration Exercise is conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
+The Primary One Registration Exercise is conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
     
       
     
-    For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
+For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
 
 
 **2.  How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?**
