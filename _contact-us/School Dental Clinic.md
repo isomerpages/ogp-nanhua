@@ -12,12 +12,14 @@ School Dental Clinic
 
 The clinic opens alternate weeks
 
-EVEN WEEKS OF TERM 3
+ODD WEEKS OF TERM 4
 
   
 
-1.  04/07/22 – 08/07/22
-2.  18/07/22 – 22/07/22
+1.  12/09/22 - 16/09/22
+2.  26/09/22 - 30/09/22
+3.  10/10/22 - 14/10/22
+4.  25/10/22 - 28/10/22
 
   
 
@@ -25,9 +27,7 @@ The Clinic will be closed during the following hours
 
   
 
-1.  04/07/22 (11am-5.30pm)
-2.  08/07/22 (12pm-5pm)
-3.  22/07/22 (12pm-5.30pm)
+1.  13/09/22 (1pm - 5.30pm)
 
   
 
