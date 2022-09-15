@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HomePageHeroBanner.gif
+      background: /images/HomePageHeroBanner_Slow.gif
       url: /contact-us/
       key_highlights:
         - title: News & updates
@@ -35,5 +35,3 @@ sections:
       button: Read More
       url: https://for.edu.sg/nhps-artexhibition
 ---
-
-
