@@ -2,5 +2,6 @@ collections:
   news-and-update:
     output: true
     order:
+      - NHPS online art exhibition.md
       - Mid Autumn Festival and Teachers Day 2022 中秋节暨教师节庆祝会 2022.md
       - News and Update.md
