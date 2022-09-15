@@ -1,9 +1,9 @@
 ---
 title: School Bus
-permalink: /contact-us/school-bus
+permalink: /contact-us/school-bus/
 description: ""
 ---
-# ComfortDelGro Bus Pte Ltd
+### ComfortDelGro Bus Pte Ltd
 
 205 Braddell Road, Singapore 579701
 <br>Tel: [6553 3838](tel:65533838)
