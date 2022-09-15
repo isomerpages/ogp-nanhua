@@ -4,7 +4,7 @@ permalink: /contact-us/school-uniform/
 description: ""
 ---
 ### MY UNIFORM SHOP (ASIA) PTE LTD
-# 
+
 209 New Upper Changi Road #03-651 S(460209)<br>
 (Opposite Bedok MRT Station, above Sheng Siong)<br>
 Operating hour: 3pm-8pm (weekdays), 10am-4pm (weekends)<br>
