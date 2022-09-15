@@ -11,48 +11,38 @@ description: ""
       
     
     For more information on the Primary One Registration Exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
-<p>    
-<b>
-2.  How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?</b>
-    
-      
-    
-    To download the application form and more information on process, please refer to the school website: [Parent Volunteer Scheme](/our-school/admissions/parent-volunteer-scheme)
-    
-      
-    
-    For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
-<p>    
 
-  
 
-  
-<b>
-	3.  Is there a parent support group in Nan Hua Primary School?</b>
+**2.  How do I register as a Parent Volunteer to be eligible for Phase 2B during the Primary One registration exercise?**
     
       
     
-    Yes, our parent support group is called “ParentConnect”.
+To download the application form and more information on process, please refer to the school website: [Parent Volunteer Scheme](/our-school/admissions/parent-volunteer-scheme)
     
-    If you are interested to join our parent support group, please download the [application form](/files/application%20forms/Parent%20Connect%20Application%20Form.pdf), complete and submit it to the General Office.
-<p>    
+      
+    
+For more information on the eligibility of phases for the Primary One registration exercise, please refer to the following website: [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration)
 
-  
 
-  
-<b>
-	4.  How do I become a member of the Nan Hua Primary School Alumni?</b>
+**3.  Is there a parent support group in Nan Hua Primary School?**
     
       
     
-    To apply for NHPS Alumni member, the application form can be downloaded from the NHPS Alumni website.
+Yes, our parent support group is called “ParentConnect”.
+    
+If you are interested to join our parent support group, please download the [application form](/files/application%20forms/Parent%20Connect%20Application%20Form.pdf), complete and submit it to the General Office.
+
+**4.  How do I become a member of the Nan Hua Primary School Alumni?**
+    
+   
+To apply for NHPS Alumni member, the application form can be downloaded from the NHPS Alumni website.
     
       
     
-    For more information on Nan Hua Primary School Alumni Association, please refer to: [http://nhpsalumni.org.sg/](http://nhpsalumni.org.sg/).
+For more information on Nan Hua Primary School Alumni Association, please refer to: [http://nhpsalumni.org.sg/](http://nhpsalumni.org.sg/).
     
       
     
-    Alternatively, you can contact NHPS Alumni at [general@nhpsalumni.org.sg](mailto:general@nhpsalumni.org.sg)
+Alternatively, you can contact NHPS Alumni at [general@nhpsalumni.org.sg](mailto:general@nhpsalumni.org.sg)
     
-    (General enquiries) or [membership@nhpsalumni.org.sg](mailto:membership@nhpsalumni.org.sg) (Membership enquiries).
+(General enquiries) or [membership@nhpsalumni.org.sg](mailto:membership@nhpsalumni.org.sg) (Membership enquiries).
