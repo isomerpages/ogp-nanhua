@@ -2,6 +2,5 @@ collections:
   news-and-update:
     output: true
     order:
-      - NHPS 105th Anniversary.md
       - Traffic Management Plan 2022.md
       - News and Update.md
