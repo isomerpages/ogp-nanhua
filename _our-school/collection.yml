@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Information/SMC Non Financial Information.md
       - School Information/.keep
       - School Information/A Century of Nan Hua.md
       - School Information/Symbol of Heritage.md
