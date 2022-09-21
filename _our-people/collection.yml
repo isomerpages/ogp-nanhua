@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Management Committee.md
-      - School Management Committee/.keep
       - School staff.md
       - Alumni.md
       - ParentConnect.md
