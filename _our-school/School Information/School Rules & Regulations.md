@@ -33,10 +33,7 @@ Our School Rules
 
 School Uniform and PE Attire
 ----------------------------
-
-| <img src="/images/PE-Shirt.jpg"     style="max-width: 100%;" /> | <img src="/images/Uniform.jpg"     style="max-width: 100%;" /> | 
-| -------- | -------- | 
-|      |    | 
+ ![](/images/Uniform%20-%20Updated.jpg) 
 
 *   Blouse / Shirt / T-shirt: neatly tucked in
 *   Knee-Length skirt
