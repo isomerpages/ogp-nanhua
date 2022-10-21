@@ -1,41 +1,67 @@
 ---
 title: School Song
-permalink: /our-school/School-Information/school-song
+permalink: /our-school/School-Information/school-song/
 description: ""
 third_nav_title: School Information
 ---
 校歌
 --
+<style xmlns="http://www.w3.org/1999/xhtml">
 
-立 国 大 计 须 百 年 树 人
+p { font-size: 25px }
+
+.kt:lang(zh-CN) { font-family: "kaiti" ; color: black }
+
+</style>
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">立 国 大 计 须 百 年 树 人</span>
+</p>
 
 li guo da ji xu bai nian shu ren
 
-我 校 同 人 以 此 自 克 励
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">我 校 同 人 以 此 自 克 励</span>
+</p>
+
 
 wo xiao tong ren yi ci zi ke li
 
-小 学 教 育 与 中 学 教 育
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">小 学 教 育 与 中 学 教 育</span>
+</p>
+
 
 xiao xue jiao yu yu zhong xue jiao yu
 
-五 育 平 均 发 展 相 砥 砺
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">五 育 平 均 发 展 相 砥 砺</span>
+</p>
+
 
 wu yu ping jun fa zhan xiang di li
 
-礼 义 廉 耻 忠 孝 仁 爱 好 校 训
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">礼 义 廉 耻 忠 孝 仁 爱 好 校 训</span>
+</p>
+
 
 li yi lian chi zhong xiao ren ai hao xiao xun
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">容 忍 谦 让 热 诚 负 责 相 勉 励</span>
+</p>
 
-容 忍 谦 让 热 诚 负 责 相 勉 励
 
 rong ren qian rang re cheng fu ze xiang mian li
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">分 工 合 作 奋 向 万 里 路</span>
+</p>
 
-分 工 合 作 奋 向 万 里 路
 
 fen gong he zuo fen xiang wan li lu
+<p xmlns="http://www.w3.org/1999/xhtml">
+   <span class="kt" lang="zh-CN">他 日 学 成 为 国 家 效 力</span>
+</p>
 
-他 日 学 成 为 国 家 效 力
 
 ta ri xue cheng wei guo jia xiao li
 
