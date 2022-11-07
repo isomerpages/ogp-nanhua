@@ -19,7 +19,7 @@ description: ""
 3. [Updating of student's official address](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Quick%20Links/For%20Parents/forms/Request%20Form%20For%20Updating%20of%20Student%20Address-Annex%201B2%20-%202019.pdf)  _(updated on 15th October 2019)_
 <br>
 
-4. [Student Protection Plan](/files/Application%20Forms/Product%20Fact%20Sheet%20(Year%202022)%20(Sep%202022).pdf) (Under NTUC Income Insurance Co-Operative Ltd) *updated on 15th September 2022
+4. [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](/files/Application%20Forms/Product%20Fact%20Sheet%20(Year%202022)%20(Sep%202022).pdf) (Under NTUC Income Insurance Co-Operative Ltd) *updated on 15th September 2022
 
 
 5. Useful Information on School Smartcards 
