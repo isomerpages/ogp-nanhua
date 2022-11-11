@@ -6,8 +6,8 @@ description: ""
 ### ComfortDelGro Bus Pte Ltd
 
 205 Braddell Road, Singapore 579701
-<br>Tel: [6553 3838](tel:65533838)
-<br>Fax: [6456 0922](tel:64560922)
+<br>Tel: [6703 6835](tel:67036835)
+
 <br><br>Contact : <br>
 [school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg) (Feedback and Enquiries)<br>
 [billing@comfortdelgrobus.com.sg](mailto:billing@comfortdelgrobus.com.sg) (Billing)
