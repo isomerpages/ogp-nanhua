@@ -35,5 +35,20 @@ For Parents: 12:00 noon to 01:00 pm and 02:00 pm to 03:00 pm
 
 [P1 Booklist 2023](/files/Booklist/2023/P1%20Booklist%202023.pdf)
 
+[P2 Booklist 2023](/files/Booklist/2023/P2%20Booklist%202023.pdf)
 
+[P3 Booklist 2023](/files/Booklist/2023/P3%20Booklist%202023.pdf)
 
+[P4 Booklist 2023](/files/Booklist/2023/P4%20Booklist%202023.pdf)
+
+[P4 GEP Booklist 2023](/files/Booklist/2023/P4%20GEP%20Booklist%202023.pdf)
+
+[P5 Booklist 2023](/files/Booklist/2023/P5%20Booklist%202023.pdf)
+
+[P5 GEP Booklist 2023](/files/Booklist/2023/P1%20GEP%20Booklist%202023.pdf)
+
+[P6 Booklist 2023](/files/Booklist/2023/P6%20Booklist%202023.pdf)
+
+[P6 FDN Booklist 2023](/files/Booklist/2023/P6%20Foundation%20Booklist%202023.pdf)
+
+[P6 GEP Booklist 2023](/files/Booklist/2023/P6%20GEP%20Booklist%202023.pdf)
