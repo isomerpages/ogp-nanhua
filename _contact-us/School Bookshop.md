@@ -45,7 +45,7 @@ For Parents: 12:00 noon to 01:00 pm and 02:00 pm to 03:00 pm
 
 [P5 Booklist 2023](/files/Booklist/2023/P5%20Booklist%202023.pdf)
 
-[P5 GEP Booklist 2023](/files/Booklist/2023/P1%20GEP%20Booklist%202023.pdf)
+[P5 GEP Booklist 2023](/files/Booklist/2023/P5%20GEP%20Booklist%202023.pdf)
 
 [P6 Booklist 2023](/files/Booklist/2023/P6%20Booklist%202023.pdf)
 
