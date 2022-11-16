@@ -9,5 +9,4 @@ description: ""
 <br>Tel: [6703 6835](tel:67036835)
 
 <br><br>Contact : <br>
-[school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg) (Feedback and Enquiries)<br>
-[billing@comfortdelgrobus.com.sg](mailto:billing@comfortdelgrobus.com.sg) (Billing)
+[school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg) (Feedback, Enquiries and Payment Contact)<br>
