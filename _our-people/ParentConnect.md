@@ -1,6 +1,6 @@
 ---
 title: ParentConnect
-permalink: /our-people/parentconnect
+permalink: /our-people/parentconnect/
 description: ""
 ---
 As the saying goes “It takes a village to raise a child” and in today’s fast-paced, pressure-packed world, it certainly takes a village to educate one too.

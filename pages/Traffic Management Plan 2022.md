@@ -1,6 +1,6 @@
 ---
 title: Traffic Management Plan 2022
-permalink: /trafficmanagementplan
+permalink: /trafficmanagementplan/
 description: ""
 ---
 # Operating Hours of School Gates
