@@ -1,6 +1,6 @@
 ---
 title: Physical Science
-permalink: /ccas/physicalscience
+permalink: /ccas/physicalscience/
 description: ""
 third_nav_title: Clubs and Societies
 ---

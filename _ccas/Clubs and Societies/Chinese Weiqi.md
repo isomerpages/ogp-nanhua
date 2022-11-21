@@ -1,6 +1,6 @@
 ---
 title: Chinese Weiqi
-permalink: /ccas/chineseweiqi
+permalink: /ccas/chineseweiqi/
 description: ""
 third_nav_title: Clubs and Societies
 ---

@@ -1,6 +1,6 @@
 ---
 title: International Chess
-permalink: /ccas/chess
+permalink: /ccas/chess/
 description: ""
 third_nav_title: Clubs and Societies
 ---

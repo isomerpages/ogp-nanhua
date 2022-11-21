@@ -1,6 +1,6 @@
 ---
 title: Curriculum Philosophy
-permalink: /our-curriculum/philosophy
+permalink: /our-curriculum/philosophy/
 description: ""
 ---
 ![](/images/Curriculum%20Philosophy.jpeg)
