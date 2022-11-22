@@ -123,7 +123,7 @@ For pedestrians entering via gate E, they should make use of the pedestrian cros
 
 **Figure 5: Pedestrians and Cyclists’ Routes**
 
-
+![](/images/Safety%20Route%20Figure%205.png)
 
 **Safe Routes for Cyclists**
 
