@@ -13,9 +13,9 @@ sections:
         - title: News & updates
           description: ""
           url: /news-n-update
-        - title: Mid-Autumn Festival and Teacher’s Day 2022 (中秋节暨教师节庆祝会 2022)
+        - title: Traffic Management Plan 2023
           description: ""
-          url: /mid-autumn-festival-and-teacher-s-day-2022-2022
+          url: /trafficmanagementplan/
         - title: NHPS online art exhibition
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
