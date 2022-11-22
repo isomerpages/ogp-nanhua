@@ -20,12 +20,13 @@ sections:
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
   - infobar:
-      title: Mid Autumn Festival and Teacher's Day 2022 (中秋节暨教师节庆祝会 2022)
+      title: Traffic Management Plan 2023
       subtitle: News and Updates
-      description: 亲爱的南华小学校友：  南华小学将于2022年9月1日（星期四）11:00-12:00
-        在学校礼堂举办“朗朗中秋月，师恩照我心”2022年中秋节暨教师节庆祝会，欢迎广大校友回校共庆。  学校将于庆祝会后关闭，如果您当天想要回母校探望老师，我们建议您先跟您的老师联系，以确保老师知道您回校的具体时间。。。
+      description: School’s operating hours is from 0630 hrs to 1900 hrs on normal
+        school days and during which specific gates will be accessible to
+        students, staff, parents ...
       button: Read More
-      url: /mid-autumn-festival-and-teacher-s-day-2022-2022/
+      url: /trafficmanagementplan/
   - infobar:
       title: NHPS online art exhibition
       subtitle: News and Updates
