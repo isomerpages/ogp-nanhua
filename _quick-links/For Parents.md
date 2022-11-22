@@ -34,10 +34,10 @@ description: ""
 * [Home Access 3.0 Application Form - Auto Inclusion](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/Home%20Access%203.0%20Application%20Form%20-%20Auto%20Inclusion.pdf)
 
 # Subject-Based Banding
-[Brochure on Subject-based Banding (Primary)](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Quick%20Links/For%20Parents/1.%20MOE_SBB_ENG_1%20Mar%202018.pdf)
+[Brochure on Subject-based Banding (Primary)](/files/Information%20Sheets/1MOE_SBB_ENG_1%20Mar%202018.pdf)
 
 More information available on MOE's website:
-[https://www.moe.gov.sg/education/primary/subject-based-banding-(primary)](https://www.moe.gov.sg/education/primary/subject-based-banding-(primary))
+[https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
 # Sexuality Education
 [Sexuality Education Programme 2022](https://nanhuapri.moe.edu.sg/qql/slot/u732/Programmes/Sexuality%20Education/Sexuality%20Education%20Programme%202022.pdf)
