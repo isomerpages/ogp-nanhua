@@ -29,9 +29,10 @@ description: ""
 * [NEU PC Plus](/files/Information%20Sheets/NEU%20PC%20Plus%20Infographic.pdf)
 * [NEU PC Plus PC-Bundle Application Form for MOE-SPED FAS](/files/Application%20Forms/NPP%20Application%20Form%20for%20MOE-SPED%20FAS.pdf)
 * [NEU PC Plus PC-Bundle Application Form for Non MOE-SPED FAS](/files/Application%20Forms/NPP%20Application%20Form%20for%20NON%20MOE-SPED%20FAS.pdf)
-* [NEU PC Plus IMDA Fibre Broadband Service Application Form](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/NEU%20PC%20Plus%20IMDA%20Fibre%20Broadband%20Service%20Application%20Form.pdf)
-* [Home Access 3.0 Application Form](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/Home%20Access%203.0%20Application%20Form.pdf)
-* [Home Access 3.0 Application Form - Auto Inclusion](https://nanhuapri.moe.edu.sg/qql/slot/u732/Admin/2021/Home%20Access%203.0%20Application%20Form%20-%20Auto%20Inclusion.pdf)
+* [NEU PC Plus IMDA Fibre Broadband Service Application Form](/files/Application%20Forms/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%209%20April%202020.pdf)
+* [Home Access 3.0 Application Form](/files/Application%20Forms/Home%20Access%2030%20Application%20Form.pdf)
+* [Home Access 3.0 Application Form - Auto Inclusion](/files/Application%20Forms/Home%20Access%2030%20Application%20Form%20-%20Auto%20Inclusion.pdf)
+* [Home Access 3.0 Application Form (Online)](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login&notprotected=true)
 
 # Subject-Based Banding
 [Brochure on Subject-based Banding (Primary)](/files/Information%20Sheets/1MOE_SBB_ENG_1%20Mar%202018.pdf)
