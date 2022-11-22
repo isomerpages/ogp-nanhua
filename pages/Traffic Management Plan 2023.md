@@ -73,6 +73,7 @@ For those driving from Commonwealth Avenue West,
 * exit the school using Gate D only
 * turn right only on exit towards Commonwealth Avenue West
 * no left turn from 6.45am to 7.45am (refer to LTA signage)
+![](/images/LTA%20Signage%201.jpg)
 
 * For those driving from Jalan Lempeng,
 * enter the school using Gate F only
@@ -81,7 +82,7 @@ For those driving from Commonwealth Avenue West,
 * exit the school using Gate F only
 * turn left only on exit towards Clementi Avenue 6
 * no right turn from 6.45am to 7.45am (refer to LTA signage)
-
+![](/images/LTA%20Signage%202.jpg)
 <u>Figure 4: During School Dismissal</u>
 ![Traffic Information - Figure 4](/images/Traffic%20Information%20-%20Figure%204.png)
 
@@ -94,6 +95,7 @@ For those driving from Commonwealth Avenue West,
 * exit the school using Gate D only
 * turn right only on exit towards Commonwealth Avenue West
 * no left turn from 1.45 pm to 2.15pm (refer to LTA signage)
+![](/images/LTA%20Signage%201.jpg)
 * For those driving from Jalan Lempeng, 
 * enter the school using Gate F only
 * make a u-turn near canteen
@@ -102,16 +104,33 @@ For those driving from Commonwealth Avenue West,
 * exit the school using Gate F only
 * turn left only on exit towards Clementi Avenue 6
 * no right turn from 1.45pm to 2.15pm (refer to LTA signage)
+![](/images/LTA%20Signage%202.jpg)
 
 <u>Figure 5: After CCA/Remedial Lessons & Student Care Dismissal Pick Up</u>
 ![Traffic Information - Figure 5](/images/Traffic%20Information%20-%20Figure%205.png)
 
 _Explanatory Notes to Figure 5:_
 
-* Vehicles enter school through Gate F (nearest to the security guard post) 
-* After Gate F, vehicles head towards the bus bay and turn back towards the canteen
+* Vehicles enter school through Gate F (nearest to the security guard post) by turning right or left
+* After entering, vehicles head towards the bus bay and turn back towards the canteen
 * Drivers pick up their children / wards either from the bus bay or canteen
-* Vehicles exit school via Gate F 
+* Vehicles exit school via Gate F by turning right of left
+
+**Safe Routes for Pedestrians **
+
+Figure 5 shows the routes for pedestrians using the various access gates, as indicated in the blue dashed lines.
+For pedestrians entering via gate E, they should make use of the pedestrian crossing and look out for vehicles. There will be a security personnel to assist in the crossing during peak hours.
+
+**Figure 5: Pedestrians and Cyclists’ Routes**
+
+
+
+**Safe Routes for Cyclists**
+
+1.  With reference to Figure 5, all cyclists coming into and exiting school should only use gate B where there is a barrier-free access ramp and where bicycle lots are nearby. 
+2.  Cyclists must dismount from the bicycles before entering or leaving the school. While in school, they must also lock their bicycles.
+
+
 
 **Safety and Security Reminders**
 
