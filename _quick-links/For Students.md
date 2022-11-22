@@ -16,11 +16,11 @@ Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-hel
 
 ### \- *Requirements to run SLS*
 
-[https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/os-and-browser-requirements.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/os-and-browser-requirements.html)
+[https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html)
 
 ### \- *SLS Login issues for students*
 
-[https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
+[https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
 
 **Google Classroom**
 ----------------
