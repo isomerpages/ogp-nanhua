@@ -10,7 +10,7 @@ description: ""
 
 ### \- *SLS Helpdesk*
 
-[SLS HELPDESK.pdf](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Quick%20Links/For%20Students/SLS%20HELPDESK.pdf)
+[SLS HELPDESK.pdf](/files/Information%20Sheets/SLS%20HELPDESK.pdf)
 
 Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-helpdesk)
 
