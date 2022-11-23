@@ -118,16 +118,16 @@ _Explanatory Notes to Figure 5:_
 
 **Safe Routes for Pedestrians **
 
-Figure 5 shows the routes for pedestrians using the various access gates, as indicated in the blue dashed lines.
+Figure 6 shows the routes for pedestrians using the various access gates, as indicated in the blue dashed lines.
 For pedestrians entering via gate E, they should make use of the pedestrian crossing and look out for vehicles. There will be a security personnel to assist in the crossing during peak hours.
 
-**Figure 5: Pedestrians and Cyclists’ Routes**
+**Figure 6: Pedestrians and Cyclists’ Routes**
 
 ![](/images/Safety%20Route%20Figure%205.png)
 
 **Safe Routes for Cyclists**
 
-1.  With reference to Figure 5, all cyclists coming into and exiting school should only use gate B where there is a barrier-free access ramp and where bicycle lots are nearby. 
+1.  With reference to Figure 6, all cyclists coming into and exiting school should only use gate B where there is a barrier-free access ramp and where bicycle lots are nearby. 
 2.  Cyclists must dismount from the bicycles before entering or leaving the school. While in school, they must also lock their bicycles.
 
 
