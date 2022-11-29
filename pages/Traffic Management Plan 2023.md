@@ -116,7 +116,8 @@ _Explanatory Notes to Figure 5:_
 * Drivers pick up their children / wards either from the bus bay or canteen
 * Vehicles exit school via Gate F by turning right of left
 
-**Safe Routes for Pedestrians **
+
+**Safe Routes for Pedestrians** 
 
 Figure 6 shows the routes for pedestrians using the various access gates, as indicated in the blue dashed lines.
 For pedestrians entering via gate E, they should make use of the pedestrian crossing and look out for vehicles. There will be a security personnel to assist in the crossing during peak hours.
