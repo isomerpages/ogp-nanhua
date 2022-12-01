@@ -28,6 +28,14 @@ sections:
       button: Read More
       url: /trafficmanagementplan/
   - infobar:
+      title: 2022 NHPS eNewsletter
+      subtitle: News and Updates
+      description: It has been a year of change. With the relaxing of measures, the
+        school initiated more exciting and engaging learning for our students,
+        both indoors and outdoor
+      button: 2022 NHPS eNewsletter
+      url: https://online.flippingbook.com/view/358475637/
+  - infobar:
       title: NHPS online art exhibition
       subtitle: News and Updates
       description: Children often express their emotions and thoughts through their
