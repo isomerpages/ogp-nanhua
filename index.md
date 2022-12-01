@@ -10,12 +10,12 @@ sections:
       background: /images/HomePageHeroBanner_Slow.gif
       url: /contact-us/
       key_highlights:
-        - title: News & updates
-          description: ""
-          url: /news-n-update
         - title: Traffic Management Plan 2023
           description: ""
           url: /trafficmanagementplan/
+        - title: 2022 NHPS eNewsletter
+          description: ""
+          url: https://online.flippingbook.com/view/358475637/
         - title: NHPS online art exhibition
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
