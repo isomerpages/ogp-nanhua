@@ -4,7 +4,7 @@ permalink: /our-school/School-Information/symbol-of-heritage/
 description: ""
 third_nav_title: School Information
 ---
-![Heritage pic 1.jpg](/images/Heritage%20Picture%2001.jpg)
+![Heritage pic 1.jpg](/images/Heritage%20Picture%2001.png)
 
 Nan Hua Primary School commenced as Nan Hua Girls' School in 1917. It was established by our predecessors to provide educational opportunities for the young and to nurture them into useful citizens.
 
