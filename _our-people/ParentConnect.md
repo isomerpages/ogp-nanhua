@@ -26,10 +26,10 @@ Nobody can do everything but everyone can do something. It is with this maxim th
 
 To find out more about our _ParentConnect_, you may leave your contact details with the General Office or connect with us via Facebook ([NHPS ParentConnect](https://www.facebook.com/NHPS-ParentConnect-166925783810703)) or Instagram ([@nhpsparentconnect](https://www.instagram.com/nhpsparentconnect/)).
 
-![Pic 1.jpg](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20People/ParentConnect/Pic%201.jpg)
+![Pic 1.jpg](/images/Parent%20Connect%2001.png)
 
-![Pic 2.jpg](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20People/ParentConnect/Pic%202.jpg)
+![Pic 2.jpg](/images/Parent%20Connect%2002.png)
 
-![Pic 3.jpg](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20People/ParentConnect/Pic%203.jpg)
+![Pic 3.jpg](/images/Parent%20Connect%2003.png)
 
-![Pic 4.jpg](https://nanhuapri.moe.edu.sg/qql/slot/u732/2020/Our%20People/ParentConnect/Pic%204.jpg)
+![Pic 4.jpg](/images/Parent%20Connect%2004.png)
