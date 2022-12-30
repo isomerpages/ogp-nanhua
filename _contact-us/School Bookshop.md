@@ -28,7 +28,7 @@ Opening Hours: Mon to Fri (Closed on public and school holidays)
 
 For Students: 08:30 am to 03:00 pm
 
-For Parents: 12:00 noon to 01:00 pm and 02:00 pm to 03:00 pm
+For Parents: 11:00 am to 01:00 pm and 02:00 pm to 03:00 pm
 
 
 **Booklist 2023**
