@@ -41,6 +41,6 @@ More information available on MOE's website:
 [https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
 # Sexuality Education
-[Sexuality Education Programme 2022](/files/Information%20Sheets/Sexuality%20Education%20Programme%202022.pdf)
+[Sexuality Education Programme 2023](/files/Information%20Sheets/Sexuality%20Education%20Programme%202023.pdf)
 
-[Parents Opt Out Form](/files/Application%20Forms/2022%20Parents%20opt%20out%20form.pdf)
+[Parents Opt Out Form](/files/Application%20Forms/2023%20Parents%20opt%20out%20form.pdf)
