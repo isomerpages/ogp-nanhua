@@ -86,7 +86,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-nrix">Mrs Koo Xi Yan<br>SH Student Management<br><a href="mailto:koo_ong_xiyan@schools.gov.sg" target="_blank" rel="noopener noreferrer">koo_ong_xiyan@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+        <td class="tg-nrix">Mdm Fu Yinghui<br>LH Science<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a>   </td>
   </tr>
 </tbody>
 </table>
