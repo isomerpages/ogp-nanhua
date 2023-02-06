@@ -12,14 +12,14 @@ description: ""
 
 The clinic opens alternate weeks
 
-ODD WEEKS OF TERM 4
+ODD WEEKS OF TERM 1
 
   
 
-1.  12/09/22 - 16/09/22
-2.  26/09/22 - 30/09/22
-3.  10/10/22 - 14/10/22
-4.  25/10/22 - 28/10/22
+1. 04/01/2023 – 06/01/2023
+2. 16/02/2023 – 20/01/2023
+3. 30/01/2023 – 03/02/2023 etc
+
 
   
 
@@ -27,7 +27,7 @@ The Clinic will be closed during the following hours
 
   
 
-1.  13/09/22 (1pm - 5.30pm)
+1.  03/01/2023
 
   
 
@@ -35,4 +35,4 @@ For emergencies such as dental trauma, facial/gum swelling or toothache, please 
 
   
 
-We are sorry for any inconvenience caused during the closure
+*We are sorry for any inconvenience caused during the closure*
