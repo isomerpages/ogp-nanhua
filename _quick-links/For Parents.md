@@ -21,10 +21,7 @@ description: ""
 
 4. [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](/files/Application%20Forms/Product%20Fact%20Sheet%20Year%202023.pdf) (Under NTUC Income Insurance Co-Operative Ltd) ****updated on 19th January 2023***
 
-5. Useful Information on School Smartcards 
-* [Application form for student smart card](/files/Application%20Forms/Application%20For%20School%20Smart%20Card%20(SSC).pdf) 
-
-6. NEU PC Plus Programme
+5. NEU PC Plus Programme
 * [NEU PC Plus](/files/Information%20Sheets/NEU%20PC%20Plus%20Infographic.pdf)
 * [NEU PC Plus PC-Bundle Application Form for MOE-SPED FAS](/files/Application%20Forms/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
 * [NEU PC Plus PC-Bundle Application Form for Non MOE-SPED FAS](/files/Application%20Forms/NPP-Application-Form-for-NON-MOE-SPED-FAS.pdf)
