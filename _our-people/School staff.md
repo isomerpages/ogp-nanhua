@@ -163,14 +163,10 @@ P1 Form Teachers 2023
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow" rowspan="2">P1A<br></th>
-    <th class="tg-c3ow">Ms Ng Pei Sin<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a></th>
-    <th class="tg-c3ow">Mrs Vivien Tan<br><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" target="_blank" rel="noopener noreferrer">yu_yen_ling_vivien@schools.gov.sg</a></th>
-  </tr>
-  <tr>
-    <th class="tg-c3ow">Mdm Sabrina Lee Sabai<br><a href="mailto:sabrina_lee_sabai@schools.gov.sg" target="_blank" rel="noopener noreferrer">sabrina_lee_sabai@schools.gov.sg</a><br></th>
-    <th class="tg-c3ow"></th>
-  </tr>
+    <td class="tg-c3ow">P1A<br></td>
+    <td class="tg-c3ow">Ms Ng Pei Sin<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a></td>
+    <td class="tg-c3ow">Mdm Sabrina Lee Sabai<br><a href="mailto:sabrina_lee_sabai@schools.gov.sg" target="_blank" rel="noopener noreferrer">sabrina_lee_sabai@schools.gov.sg</a><br></td>
+   </tr>
 </thead>
 <tbody>
   <tr>
@@ -254,7 +250,7 @@ P2 Form Teachers 2023
   <tr>
     <td class="tg-8d8j">P2F</td>
     <td class="tg-8d8j">Miss Zhaolin Alexandra Goh <br><a href="mailto:zhaolin_alexandra_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer">zhaolin_alexandra_goh@schools.gov.sg</a></td>
-    <td class="tg-8d8j"> <br><a href="mailto:" target="_blank" rel="noopener noreferrer"></a></td>
+    <td class="tg-8d8j">Mrs Vivien Tan<br><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" target="_blank" rel="noopener noreferrer">yu_yen_ling_vivien@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-8d8j">P2G</td>
