@@ -77,17 +77,14 @@ Key Personnel
     <td class="tg-nrix">Miss Ng Pei Sin<br>LH Chinese Language &amp; Culture<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a>   </td>
   </tr>
   <tr>
-     <td class="tg-nrix">Mr Yang Feng Yi<br>SH SAP<br><a href="mailto:yang_fengyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">yang_fengyi@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Mdm Lin Pei-Jing<br>SH GEP<br><a href="mailto:lin_pei-jing@schools.gov.sg" target="_blank" rel="noopener noreferrer">lin_pei-jing@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Fu Yinghui<br>LH Science<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Mdm Chew Gek Cheng Jenny<br>SH Aesthetics<br><a href="mailto:chew_gek_cheng_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_gek_cheng_a@schools.gov.sg</a>   </td>
+     <td class="tg-nrix">Mdm Fu Yinghui<br>LH Science<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a>   </td>
+    <td class="tg-nrix">Mr Yang Feng Yi<br>SH SAP<br><a href="mailto:yang_fengyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">yang_fengyi@schools.gov.sg</a>   </td>
   </tr>
   <tr>
     <td class="tg-nrix">Mrs Koo Xi Yan<br>SH Student Management<br><a href="mailto:koo_ong_xiyan@schools.gov.sg" target="_blank" rel="noopener noreferrer">koo_ong_xiyan@schools.gov.sg</a>   </td>
-        <td class="tg-nrix"><br><br><a href="" target="_blank" rel="noopener noreferrer"></a>   </td>
+    <td class="tg-nrix">Mdm Chew Gek Cheng Jenny<br>SH Aesthetics<br><a href="mailto:chew_gek_cheng_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_gek_cheng_a@schools.gov.sg</a>   </td>
   </tr>
+  
 </tbody>
 </table>
 
