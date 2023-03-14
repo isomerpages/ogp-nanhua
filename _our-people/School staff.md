@@ -49,44 +49,44 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix">Mrs Denise Kee<br>HOD GEP<br><a href="mailto:yeo_sulyn_denise@schools.gov.sg" target="_blank" rel="noopener noreferrer">yeo_sulyn_denise@schools.gov.sg</a></td>
+     <td class="tg-nrix">Mr Choy Chong Wah Cedric<br>HOD ICT<br><a href="mailto:choy_chong_wah@schools.gov.sg" target="_blank" rel="noopener noreferrer">choy_chong_wah@schools.gov.sg</a></td>
     <td class="tg-nrix">Mrs Shirlyn Seah<br>HOD CCE<br><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg" target="_blank" rel="noopener noreferrer">koh_lee_kun_shirlyn@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Choy Chong Wah Cedric<br>HOD ICT<br><a href="mailto:choy_chong_wah@schools.gov.sg" target="_blank" rel="noopener noreferrer">choy_chong_wah@schools.gov.sg</a></td>
-    <td class="tg-nrix">Mr Henry Phua Yong Xiang<br>HOD Student Management<br><a href="mailto:henry_phua_yong_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">henry_phua_yong_xiang@schools.gov.sg</a></td>
-  </tr>
-  <tr>
+     <td class="tg-nrix">Mr Henry Phua Yong Xiang<br>HOD Student Management<br><a href="mailto:henry_phua_yong_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">henry_phua_yong_xiang@schools.gov.sg</a></td>
     <td class="tg-nrix">Mdm Tan Yen Teng Wendy<br>HOD English Language<br><a href="mailto:tan_yen_teng_wendy@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_yen_teng_wendy@schools.gov.sg</a>   </td>
+  </tr>
+  <tr>
     <td class="tg-nrix">Mr Neo Eng Yeow<br>HOD PE, Aesthetics &amp; CCA<br><a href="mailto:neo_eng_yeow@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_eng_yeow@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td class="tg-nrix">Mrs Kheng Mui Yee<br>Year Head (Upper Block)<br><a href="mailto:kheng_mui_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">kheng_mui_yee@schools.gov.sg</a></td>
+  </tr>
+  <tr>
     <td class="tg-nrix">Ms Chua Hock Yen<br>Year Head (Lower Block)<br><a href="mailto:chua_hock_yen@schools.gov.sg" target="_blank" rel="noopener noreferrer">chua_hock_yen@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
     <td class="tg-nrix">Mdm Cho Yue Wai<br>Asst Year Head (Middle Block)<br><a href="mailto:cho_yue_wai@schools.gov.sg" target="_blank" rel="noopener noreferrer">cho_yue_wai@schools.gov.sg</a></td>
+  </tr>
+  <tr>
     <td class="tg-nrix">Mrs Vivien Tan<br>Asst Year Head (Lower Block)<br><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" target="_blank" rel="noopener noreferrer">yu_yen_ling_vivien@schools.gov.sg</a></td>
+     <td class="tg-nrix">Mdm Heng Kim Fei Susan<br>LH English Language<br><a href="mailto:heng_kim_fei_susan@schools.gov.sg" target="_blank" rel="noopener noreferrer">heng_kim_fei_susan@schools.gov.sg</a>   </td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mdm Heng Kim Fei Susan<br>LH English Language<br><a href="mailto:heng_kim_fei_susan@schools.gov.sg" target="_blank" rel="noopener noreferrer">heng_kim_fei_susan@schools.gov.sg</a>   </td>
     <td class="tg-nrix">Mrs Chew-Lim Hwee Ling<br>LH Mathematics<br><a href="mailto:lim_hwee_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_hwee_ling@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Miss Lim Li Li<br>LH Mathematics<br><a href="mailto:LIM_Li_Li_b@schools.gov.sg" target="_blank" rel="noopener noreferrer">LIM_Li_Li_b@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Miss Ng Pei Sin<br>LH Chinese Language &amp; Culture<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a>   </td>
+     <td class="tg-nrix">Miss Lim Li Li<br>LH Mathematics<br><a href="mailto:LIM_Li_Li_b@schools.gov.sg" target="_blank" rel="noopener noreferrer">LIM_Li_Li_b@schools.gov.sg</a>   </td>
   </tr>
   <tr>
     <td class="tg-nrix">Miss Zhou Jing<br>LH Chinese Language &amp; Culture<br><a href="mailto:zhou_jing_b@schools.gov.sg" target="_blank" rel="noopener noreferrer">zhou_jing_b@schools.gov.sg</a>   </td>
+    <td class="tg-nrix">Miss Ng Pei Sin<br>LH Chinese Language &amp; Culture<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a>   </td>
+  </tr>
+  <tr>
+     <td class="tg-nrix">Mr Yang Feng Yi<br>SH SAP<br><a href="mailto:yang_fengyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">yang_fengyi@schools.gov.sg</a>   </td>
     <td class="tg-nrix">Mdm Lin Pei-Jing<br>SH GEP<br><a href="mailto:lin_pei-jing@schools.gov.sg" target="_blank" rel="noopener noreferrer">lin_pei-jing@schools.gov.sg</a>   </td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Yang Feng Yi<br>SH SAP<br><a href="mailto:yang_fengyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">yang_fengyi@schools.gov.sg</a>   </td>
+    <td class="tg-nrix">Mdm Fu Yinghui<br>LH Science<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a>   </td>
     <td class="tg-nrix">Mdm Chew Gek Cheng Jenny<br>SH Aesthetics<br><a href="mailto:chew_gek_cheng_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_gek_cheng_a@schools.gov.sg</a>   </td>
   </tr>
   <tr>
     <td class="tg-nrix">Mrs Koo Xi Yan<br>SH Student Management<br><a href="mailto:koo_ong_xiyan@schools.gov.sg" target="_blank" rel="noopener noreferrer">koo_ong_xiyan@schools.gov.sg</a>   </td>
-        <td class="tg-nrix">Mdm Fu Yinghui<br>LH Science<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a>   </td>
+        <td class="tg-nrix"><br><br><a href="" target="_blank" rel="noopener noreferrer"></a>   </td>
   </tr>
 </tbody>
 </table>
@@ -163,10 +163,14 @@ P1 Form Teachers 2023
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-c3ow">P1A<br></td>
+    <td class="tg-c3ow" rowspan="2">P1A<br></td>
     <td class="tg-c3ow">Ms Ng Pei Sin<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a></td>
-    <td class="tg-c3ow">Mdm Sabrina Lee Sabai<br><a href="mailto:sabrina_lee_sabai@schools.gov.sg" target="_blank" rel="noopener noreferrer">sabrina_lee_sabai@schools.gov.sg</a><br></td>
+    <td class="tg-c3ow">Mdm Long Liping<br><a href="mailto:long_liping@schools.gov.sg" target="_blank" rel="noopener noreferrer">long_liping@schools.gov.sg</a><br></td>
    </tr>
+	<tr>
+		<td class="tg-c3ow">Mdm Sabrina Lee Sabai<br><a href="mailto:sabrina_lee_sabai@schools.gov.sg" target="_blank" rel="noopener noreferrer">sabrina_lee_sabai@schools.gov.sg</a><br></td>
+	</tr>
+		
 </thead>
 <tbody>
   <tr>
@@ -297,13 +301,9 @@ P3 Form Teachers 2023
     <td class="tg-8d8j">Ms Low Yu Hui <br><a href="mailto:low_yu_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer">low_yu_hui@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-8d8j" rowspan="2">P3D</td>
+    <td class="tg-8d8j" >P3D</td>
     <td class="tg-8d8j">Mr Muhammad Halim Bin Rosman <br><a href="mailto:muhammad_halim_rosman@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_halim_rosman@schools.gov.sg</a></td>
     <td class="tg-8d8j">Mrs Jesslyn Loh <br><a href="mailto:jesslyn_low_chai_leng@schools.gov.sg" target="_blank" rel="noopener noreferrer">jesslyn_low_chai_leng@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-8d8j">Mdm Fu Yinghui <br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a></td>
-    <td class="tg-baqh"> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-8d8j">P3E</td>
@@ -313,16 +313,13 @@ P3 Form Teachers 2023
   <tr>
     <td class="tg-8d8j">P3F</td>
     <td class="tg-8d8j">Mdm Lim Lin <br><a href="mailto:lim_lin@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_lin@schools.gov.sg</a></td>
-    <td class="tg-8d8j">Mrs Jolene Low <br><a href="mailto:cheah_li_ping_jolene@schools.gov.sg" target="_blank" rel="noopener noreferrer">cheah_li_ping_jolene@schools.gov.sg</a></td>
+    <td class="tg-8d8j">Mdm Fu Yinghui<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-8d8j" rowspan="2">P3G</td>
+    <td class="tg-8d8j" >P3G</td>
     <td class="tg-8d8j">Mdm Leong Pui Fong (Eunice) <br><a href="mailto:eunice_leong@schools.gov.sg" target="_blank" rel="noopener noreferrer">eunice_leong@schools.gov.sg</a></td>
-    <td class="tg-8d8j">Miss Siti Hajar Binte Abdul Hamid <br><a href="mailto:siti_hajar_abdul_hamid@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_hajar_abdul_hamid@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-8d8j">Mdm Xie Wei <br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
-    <td class="tg-baqh"> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td class="tg-8d8j">Mdm Xie Wei <br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
+    <td class="tg-baqh">
   </tr>
   <tr>
     <td class="tg-8d8j">P3H</td>
@@ -368,10 +365,15 @@ P4 Form Teachers 2023
     <td class="tg-baqh">Ms Ching Feng Qi, Stephanie <br><a href="mailto:ching_feng_qi_stephanie@schools.gov.sg" target="_blank" rel="noopener noreferrer">ching_feng_qi_stephanie@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh">P4E</td>
+    <td class="tg-baqh" rowspan="2">P4E</td>
     <td class="tg-baqh">Ms Yeoh Li Shan <br><a href="mailto:Yeoh_LI_SHAN@schools.gov.sg" target="_blank" rel="noopener noreferrer">Yeoh_LI_SHAN@schools.gov.sg</a></td>
     <td class="tg-baqh">Ms Serena Kim Ai Leng <br><a href="mailto:kim_ai_leng_serena@schools.gov.sg" target="_blank" rel="noopener noreferrer">kim_ai_leng_serena@schools.gov.sg</a></td>
   </tr>
+	<tr>
+	<td class="tg-baqh">Mdm Tan Lay Cheng <br><a href="mailto:" target="_blank" rel="noopener noreferrer"></a></td>
+    <td class="tg-baqh">Mdm Cho Yue Wai<br><a href="mailto:cho_yue_wai@schools.gov.sg" target="_blank" rel="noopener noreferrer">cho_yue_wai@schools.gov.sg</a></td>	
+	</tr>
+	
   <tr>
     <td class="tg-baqh">P4F</td>
     <td class="tg-baqh">Mr Ganesan S/O Ramasamy <br><a href="mailto:ganesan_ramasamy@schools.gov.sg" target="_blank" rel="noopener noreferrer">ganesan_ramasamy@schools.gov.sg</a></td>
@@ -437,19 +439,20 @@ P5 Form Teachers 2023
     <td class="tg-8d8j">Mdm Huang Xiuqin <br><a href="mailto:huang_xiuqin@schools.gov.sg" target="_blank" rel="noopener noreferrer">huang_xiuqin@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-8d8j">P5G</td>
+    <td class="tg-8d8j" rowspan="2">P5G</td>
     <td class="tg-8d8j">Mdm Goh Chiew Hoon <br><a href="mailto:goh_chiew_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer">goh_chiew_hoon@schools.gov.sg</a></td>
-    <td class="tg-8d8j">Mr Wong Yi Xiang <br><a href="mailto:wong_yixiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_yixiang@schools.gov.sg</a></td>
+    <td class="tg-8d8j">Ms Lindy Chia<br><a href="mailto:chia_siew_kiah_lindy@schools.gov.sg" target="_blank" rel="noopener noreferrer">chia_siew_kiah_lindy@schools.gov.sg</a></td>
   </tr>
+	<tr>
+		<td class="tg-8d8j">Mrs Shirlyn Seah<br><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg" target="_blank" rel="noopener noreferrer">koh_lee_kun_shirlyn@schools.gov.sg</a></td>
+		<td class="tg-8d8j">Mrs Chew-Lim Hwee Ling <br><a href="mailto:lim_hwee_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_hwee_ling@schools.gov.sg</a></td>
+	</tr>
   <tr>
-    <td class="tg-8d8j" rowspan="2">P5H</td>
+    <td class="tg-8d8j" >P5H</td>
     <td class="tg-8d8j">Ms Ho Kit Mun Julia <br><a href="mailto:ho_kit_mun_julia@schools.gov.sg" target="_blank" rel="noopener noreferrer">ho_kit_mun_julia@schools.gov.sg</a></td>
-    <td class="tg-8d8j">Mdm Lin Pei-Jing <br><a href="mailto:lin_pei-jing@schools.gov.sg" target="_blank" rel="noopener noreferrer">lin_pei-jing@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td class="tg-8d8j">Ms Suhaily Binte Salam <br><a href="mailto:suhaily_salam@schools.gov.sg" target="_blank" rel="noopener noreferrer">suhaily_salam@schools.gov.sg</a></td>
-    <td class="tg-baqh"> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
+  
 </tbody>
 </table>
 
@@ -515,24 +518,7 @@ P6 Form Teachers 2023
 </tbody>
 </table>
 
-Teachers
---------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:bold;color:#484848">Mdm Long Liping</span><br>Senior Teacher<br><a href="mailto:long_liping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#303D98;background-color:transparent">long_liping@schools.gov.sg</span></a></td>
-  </tr>
-</thead>
-</table>
 
 AEDs
 ----
