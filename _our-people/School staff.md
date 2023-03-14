@@ -3,8 +3,7 @@ title: School staff
 permalink: /our-people/school-staff/
 description: ""
 ---
-Principal & Vice-Principals
----------------------------
+## Principal & Vice-Principals
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,8 +28,7 @@ Principal & Vice-Principals
 </tbody>
 </table>
 
-Key Personnel
--------------
+## Key Personnel
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -88,8 +86,7 @@ Key Personnel
 </tbody>
 </table>
 
-School Admin Team (SAT)
------------------------
+## School Admin Team (SAT)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -146,8 +143,7 @@ School Admin Team (SAT)
 </tbody>
 </table>
 
-P1 Form Teachers 2023
----------------------
+## P1 Form Teachers 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -208,8 +204,7 @@ P1 Form Teachers 2023
 </tbody>
 </table>
 
-P2 Form Teachers 2023
----------------------
+## P2 Form Teachers 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -266,8 +261,7 @@ P2 Form Teachers 2023
 </tbody>
 </table>
 
-P3 Form Teachers 2023
----------------------
+## P3 Form Teachers 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -327,8 +321,7 @@ P3 Form Teachers 2023
 </table>
 
 
-P4 Form Teachers 2023
----------------------
+## P4 Form Teachers 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -391,8 +384,7 @@ P4 Form Teachers 2023
 </table>
 
 
-P5 Form Teachers 2023
----------------------
+## P5 Form Teachers 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -456,8 +448,7 @@ P5 Form Teachers 2023
 </table>
 
 
-P6 Form Teachers 2023
----------------------
+## P6 Form Teachers 2023
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -520,8 +511,8 @@ P6 Form Teachers 2023
 
 
 
-AEDs
-----
+## AEDs
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
