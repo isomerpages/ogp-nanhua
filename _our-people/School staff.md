@@ -273,14 +273,13 @@ description: ""
 .tg .tg-8d8j{text-align:center;vertical-align:bottom}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-8d8j">P3A</th>
     <th class="tg-8d8j">Mr Abdul Talip Bin Ali <br><a href="mailto:abdul_talip_ali@schools.gov.sg" target="_blank" rel="noopener noreferrer">abdul_talip_ali@schools.gov.sg</a></th>
     <th class="tg-8d8j">Ms Gao Xiaotong <br><a href="mailto:gao_xiaotong@schools.gov.sg" target="_blank" rel="noopener noreferrer">gao_xiaotong@schools.gov.sg</a></th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-8d8j">P3B</td>
     <td class="tg-8d8j">Mdm Ong Wei Lin <br><a href="mailto:ong_wei_lin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ong_wei_lin@schools.gov.sg</a></td>
@@ -332,14 +331,13 @@ description: ""
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-baqh">P4A</th>
     <th class="tg-baqh">Mrs Chua Fang <br><a href="mailto:cheoh_fang@schools.gov.sg" target="_blank" rel="noopener noreferrer">cheoh_fang@schools.gov.sg</a></th>
     <th class="tg-baqh">Mr Chiang Da Wei, Gerald <br><a href="mailto:chiang_da_wei_gerald@schools.gov.sg" target="_blank" rel="noopener noreferrer">chiang_da_wei_gerald@schools.gov.sg</a></th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-baqh">P4B</td>
     <td class="tg-baqh">Ms Nicole Foo Jie Lin <br><a href="mailto:Nicole_FOO_JIE_LIN@schools.gov.sg" target="_blank" rel="noopener noreferrer">Nicole_FOO_JIE_LIN@schools.gov.sg</a></td>
@@ -396,14 +394,13 @@ description: ""
 .tg .tg-8d8j{text-align:center;vertical-align:bottom}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-8d8j">P5A</th>
     <th class="tg-8d8j">Mrs Wee Hui Wen <br><a href="mailto:chan_hui_wen@schools.gov.sg" target="_blank" rel="noopener noreferrer">chan_hui_wen@schools.gov.sg</a></th>
     <th class="tg-8d8j">Miss Janelle Lim Qi Qi <br><a href="mailto:Janelle_Lim_qi_qi@schools.gov.sg" target="_blank" rel="noopener noreferrer">Janelle_Lim_qi_qi@schools.gov.sg</a></th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-8d8j">P5B</td>
     <td class="tg-8d8j">Mdm Tan Keng Hui Lena <br><a href="mailto:tan_keng_hui_lena@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_keng_hui_lena@schools.gov.sg</a></td>
@@ -459,14 +456,13 @@ description: ""
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-baqh">P6A</th>
     <th class="tg-baqh">Mr Leo Chin Choon <br><a href="mailto:leo_chin_choon@schools.gov.sg" target="_blank" rel="noopener noreferrer">leo_chin_choon@schools.gov.sg</a></th>
     <th class="tg-baqh">Ms Yong Hwee Min <br><a href="mailto:yong_hwee_min@schools.gov.sg" target="_blank" rel="noopener noreferrer">yong_hwee_min@schools.gov.sg</a></th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-baqh">P6B</td>
     <td class="tg-baqh">Mr Neo Eng Yeow <br><a href="mailto:neo_eng_yeow@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_eng_yeow@schools.gov.sg</a></td>
