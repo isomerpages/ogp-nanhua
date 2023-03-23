@@ -99,33 +99,33 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-nrix">Mr Thomas Lim<br>Lead Teacher<br><a href="mailto:thomas_lim_kok_tiong@schools.gov.sg" target="_blank" rel="noopener noreferrer">thomas_lim_kok_tiong@schools.gov.sg</a></th>
-    <th class="tg-nrix">Mdm Wong Lai Yin<br>Lead Teacher<br><a href="mailto:wong_lai_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_lai_yin@schools.gov.sg</a></th>
+    <th class="tg-nrix">Mr Thomas Lim<br>Lead Teacher (English Language)<br><a href="mailto:thomas_lim_kok_tiong@schools.gov.sg" target="_blank" rel="noopener noreferrer">thomas_lim_kok_tiong@schools.gov.sg</a></th>
+    <th class="tg-nrix">Mdm Wong Lai Yin<br>Lead Teacher (Chinese Language & Culture)<br><a href="mailto:wong_lai_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_lai_yin@schools.gov.sg</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
      <td class="tg-nrix">Ms Ho Kit Mun Julia
-<br>Senior Teacher<br><a href="mailto:ho_kit_mun_julia@schools.gov.sg" target="_blank" rel="noopener noreferrer">ho_kit_mun_julia@schools.gov.sg</a></td>
+<br>Senior Teacher (English Language)<br><a href="mailto:ho_kit_mun_julia@schools.gov.sg" target="_blank" rel="noopener noreferrer">ho_kit_mun_julia@schools.gov.sg</a></td>
     <td class="tg-nrix">Ms Yong Hwee Min
-<br>Senior Teacher<br><a href="mailto:yong_hwee_min@schools.gov.sg" target="_blank" rel="noopener noreferrer">yong_hwee_min@schools.gov.sg</a></td>
+<br>Senior Teacher (English Language)<br><a href="mailto:yong_hwee_min@schools.gov.sg" target="_blank" rel="noopener noreferrer">yong_hwee_min@schools.gov.sg</a></td>
   </tr>
   <tr>
      <td class="tg-nrix">Mdm Vithiya d/o Variyah
-<br>Senior Teacher<br><a href="mailto:vithiya_variyah@schools.gov.sg" target="_blank" rel="noopener noreferrer">vithiya_variyah@schools.gov.sg</a></td>
+<br>Senior Teacher (Lower Primary Learners)<br><a href="mailto:vithiya_variyah@schools.gov.sg" target="_blank" rel="noopener noreferrer">vithiya_variyah@schools.gov.sg</a></td>
     <td class="tg-nrix">Mdm Lee Bee Choo
-<br>Senior Teacher<br><a href="mailto:lee_bee_choo@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_bee_choo@schools.gov.sg</a>   </td>
+<br>Senior Teacher (Mathematics)<br><a href="mailto:lee_bee_choo@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_bee_choo@schools.gov.sg</a>   </td>
   </tr>
   <tr>
     <td class="tg-nrix">Mdm Xie Wei
-<br>Senior Teacher<br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
+<br>Senior Teacher (Chinese Language & Culture)<br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
     <td class="tg-nrix">Mrs Goh Lai Peng
-<br>Senior Teacher<br><a href="mailto:tan_lai_peng@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_lai_peng@schools.gov.sg</a></td>
+<br>Senior Teacher (Chinese Language & Culture)<br><a href="mailto:tan_lai_peng@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_lai_peng@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mdm Chiew Sook Yee<br>Senior Teacher<br><a href="mailto:chiew_sook_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">chiew_sook_yee@schools.gov.sg</a>   </td>
+    <td class="tg-nrix">Mdm Chiew Sook Yee<br>Senior Teacher (High Ability Learners)<br><a href="mailto:chiew_sook_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">chiew_sook_yee@schools.gov.sg</a>   </td>
     <td class="tg-nrix">Mdm Long Liping
-<br>Senior Teacher<br><a href="mailto:long_liping@schools.gov.sg" target="_blank" rel="noopener noreferrer">long_liping@schools.gov.sg</a></td>
+<br>Senior Teacher (Special Educational Needs)<br><a href="mailto:long_liping@schools.gov.sg" target="_blank" rel="noopener noreferrer">long_liping@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
