@@ -100,7 +100,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-nrix">Mr Thomas Lim<br>Lead Teacher (English Language)<br><a href="mailto:thomas_lim_kok_tiong@schools.gov.sg" target="_blank" rel="noopener noreferrer">thomas_lim_kok_tiong@schools.gov.sg</a></th>
-    <th class="tg-nrix">Mdm Wong Lai Yin<br>Lead Teacher (Chinese Language & Culture)<br><a href="mailto:wong_lai_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_lai_yin@schools.gov.sg</a></th>
+    <th class="tg-nrix">Mdm Wong Lai Yin<br>Lead Teacher (Chinese Language)<br><a href="mailto:wong_lai_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_lai_yin@schools.gov.sg</a></th>
   </tr>
 </thead>
 <tbody>
@@ -118,9 +118,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix">Mdm Xie Wei
-<br>Senior Teacher (Chinese Language & Culture)<br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
+<br>Senior Teacher (Chinese Language)<br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
     <td class="tg-nrix">Mrs Goh Lai Peng
-<br>Senior Teacher (Chinese Language & Culture)<br><a href="mailto:tan_lai_peng@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_lai_peng@schools.gov.sg</a></td>
+<br>Senior Teacher (Chinese Language)<br><a href="mailto:tan_lai_peng@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_lai_peng@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-nrix">Mdm Chiew Sook Yee<br>Senior Teacher (High Ability Learners)<br><a href="mailto:chiew_sook_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">chiew_sook_yee@schools.gov.sg</a>   </td>
