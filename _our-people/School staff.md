@@ -3,7 +3,7 @@ title: School staff
 permalink: /our-people/school-staff/
 description: ""
 ---
-## Principal & Vice-Principals
+## Principal &amp; Vice-Principals
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -204,9 +204,7 @@ description: ""
     <td class="tg-c3ow">Ms Ng Pei Sin<br><a href="mailto:ng_pei_sin@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_pei_sin@schools.gov.sg</a></td>
     <td class="tg-c3ow">Mdm Long Liping<br><a href="mailto:long_liping@schools.gov.sg" target="_blank" rel="noopener noreferrer">long_liping@schools.gov.sg</a><br></td>
    </tr>
-	<tr>
-		<td class="tg-c3ow">Mdm Sabrina Lee Sabai<br><a href="mailto:sabrina_lee_sabai@schools.gov.sg" target="_blank" rel="noopener noreferrer">sabrina_lee_sabai@schools.gov.sg</a><br></td>
-	</tr>
+	
 		
 </thead>
 <tbody>
@@ -335,7 +333,7 @@ description: ""
     <td class="tg-8d8j">Ms Low Yu Hui <br><a href="mailto:low_yu_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer">low_yu_hui@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-8d8j" >P3D</td>
+    <td class="tg-8d8j">P3D</td>
     <td class="tg-8d8j">Mr Muhammad Halim Bin Rosman <br><a href="mailto:muhammad_halim_rosman@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_halim_rosman@schools.gov.sg</a></td>
     <td class="tg-8d8j">Mrs Jesslyn Loh <br><a href="mailto:jesslyn_low_chai_leng@schools.gov.sg" target="_blank" rel="noopener noreferrer">jesslyn_low_chai_leng@schools.gov.sg</a></td>
   </tr>
@@ -350,7 +348,7 @@ description: ""
     <td class="tg-8d8j">Mdm Fu Yinghui<br><a href="mailto:fu_yinghui@schools.gov.sg" target="_blank" rel="noopener noreferrer">fu_yinghui@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-8d8j" >P3G</td>
+    <td class="tg-8d8j">P3G</td>
     <td class="tg-8d8j">Mdm Leong Pui Fong (Eunice) <br><a href="mailto:eunice_leong@schools.gov.sg" target="_blank" rel="noopener noreferrer">eunice_leong@schools.gov.sg</a></td>
      <td class="tg-8d8j">Mdm Xie Wei <br><a href="mailto:xie_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">xie_wei@schools.gov.sg</a></td>
    
@@ -399,7 +397,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-baqh" rowspan="2">P4E</td>
-    <td class="tg-baqh">Ms Yeoh Li Shan <br><a href="mailto:Yeoh_LI_SHAN@schools.gov.sg" target="_blank" rel="noopener noreferrer">Yeoh_LI_SHAN@schools.gov.sg</a></td>
+    <td class="tg-baqh">Mrs Teo Li Shan <br><a href="mailto:Yeoh_LI_SHAN@schools.gov.sg" target="_blank" rel="noopener noreferrer">Yeoh_LI_SHAN@schools.gov.sg</a></td>
     <td class="tg-baqh">Ms Serena Kim Ai Leng <br><a href="mailto:kim_ai_leng_serena@schools.gov.sg" target="_blank" rel="noopener noreferrer">kim_ai_leng_serena@schools.gov.sg</a></td>
   </tr>
 	<tr>
@@ -480,7 +478,7 @@ description: ""
 		<td class="tg-8d8j">Mrs Chew-Lim Hwee Ling <br><a href="mailto:lim_hwee_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_hwee_ling@schools.gov.sg</a></td>
 	</tr>
   <tr>
-    <td class="tg-8d8j" >P5H</td>
+    <td class="tg-8d8j">P5H</td>
     <td class="tg-8d8j">Ms Ho Kit Mun Julia <br><a href="mailto:ho_kit_mun_julia@schools.gov.sg" target="_blank" rel="noopener noreferrer">ho_kit_mun_julia@schools.gov.sg</a></td>
     <td class="tg-8d8j">Ms Suhaily Binte Salam <br><a href="mailto:suhaily_salam@schools.gov.sg" target="_blank" rel="noopener noreferrer">suhaily_salam@schools.gov.sg</a></td>
   </tr>
@@ -571,8 +569,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:bold;color:#484848">Ms Nur Amani Bte Ahmad</span><br>Special Educational Needs (SEN) Officer<br><a href="mailto:nur_amani_binti_ahmad@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#303D98;background-color:transparent">nur_amani_binti_ahmad@schools.gov.sg</span></a></td>
     <td class="tg-baqh"><span style="font-weight:bold;color:#484848">Ms Suzzanna Bte Shariff</span><br>Special Educational Needs (SEN) Officer<br><a href="mailto:suzzanna_shariff@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#303D98;background-color:transparent">suzzanna_shariff@schools.gov.sg</span></a></td>
+		<td class="tg-baqh"><span style="font-weight:bold;color:#484848"></span><br><br><a href="" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#303D98;background-color:transparent"></span></a></td>
   </tr>
 </tbody>
 </table>
