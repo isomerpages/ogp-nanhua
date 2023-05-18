@@ -2,9 +2,9 @@ collections:
   contact-us:
     output: true
     order:
-      - School Bus/School Bus Advertisements.md
-      - School Bus/School Bus.md
       - School Bus/.keep
+      - School Bus/School Bus.md
+      - School Bus/School Bus Advertisements.md
       - School Location.md
       - School Uniform.md
       - School Bookshop.md
