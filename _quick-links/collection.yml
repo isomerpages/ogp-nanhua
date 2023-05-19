@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - For Vendor/.keep
       - For Parents.md
       - For Students.md
       - For Staff.md
+      - For Vendor/.keep
