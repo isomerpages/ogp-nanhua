@@ -2,8 +2,8 @@ collections:
   contact-us:
     output: true
     order:
-      - School Bus.md
       - School Location.md
+      - School Bus.md
       - School Uniform.md
       - School Bookshop.md
       - School Dental Clinic.md
