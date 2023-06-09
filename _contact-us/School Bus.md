@@ -3,10 +3,12 @@ title: School Bus
 permalink: /contact-us/school-bus/
 description: ""
 ---
-### ComfortDelGro Bus Pte Ltd
+### Goh Transport Services Co Pte Ltd
 
-205 Braddell Road, Singapore 579701
-<br>Tel: [6703 6835](tel:67036835)
+Mailing Address: PO Box 1019 Ghim Moh Estate Post Office S(912701)
 
-<br><br>Contact : <br>
-[school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg) (Feedback, Enquiries and Payment Contact)<br>
+Contact No/ Person: 8218 5115
+Office : 6775 5115 
+
+Email Address: NanHua@gohtpt.com.sg
+>
