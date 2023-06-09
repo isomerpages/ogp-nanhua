@@ -12,4 +12,3 @@ Contact No/ Person: 8218 5115
 Office : 6775 5115 
 
 Email Address: NanHua@gohtpt.com.sg
->
