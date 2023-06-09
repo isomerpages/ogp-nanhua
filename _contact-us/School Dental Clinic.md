@@ -12,26 +12,9 @@ description: ""
 
 The clinic opens alternate weeks
 
-ODD WEEKS OF TERM 1
-
-  
-
-1. 30/01/2023 – 03/02/2023 
-2. 13/02/2023 – 17/02/2023 etc
-
-
-
-  
-
 The Clinic will be closed during the following hours
 
-  
-
-1.  03/01/2023
-
-  
-
-For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at 6435 3782 for assistance.
+For emergencies such as dental trauma, facial/gum swelling or toothache, please call the Health Promotion Board’s School Dental Centre at&nbsp;6435 3782&nbsp;for assistance.
 
   
 
