@@ -10,13 +10,7 @@ description: ""
 
   
 
-### Open:
 
-**05/06/2023**
- 
-**21/06/2023 – 23/06/2023**
- 
-**Clinic will resume to open alternate week w.e.f Term 3 Week 2**
 
 
 Pupils who require **urgent** dental treatment can contact the following school dental clinic for appointment. Please call to ensure that a dental staff is on duty before going to the clinic.
