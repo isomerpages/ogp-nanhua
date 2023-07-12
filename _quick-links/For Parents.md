@@ -10,7 +10,7 @@ description: ""
 
 # Forms and Guides
 1. MOE Financial Assistance Scheme (FAS)
-	* [Application Form](/files/Application%20Forms/MOE-FAS-application-form.pdf) _(updated on 21st September 2021)_
+	* [Application Form](/files/Application%20Forms/MOE-FAS-Application-Form-Oct-2022.pdf) _(updated on 12 July 2023)_
 	* [Pamphlet](/files/Information%20Sheets/MOE_FAS_Pamphlet_2023.pdf) _(updated on 23rd November 2022)_
 <br>
 2. [Leave of absence form](https://go.gov.sg/nhps-loa-application-form) or Scan the QR Code below
