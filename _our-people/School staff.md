@@ -469,7 +469,7 @@ description: ""
   </tr>
 	<tr>
        <td class="tg-8d8j">Miss
-Chelsea Lin <br><a rel="noopener noreferrer" target="_blank" href="mailto:"></a></td>
+Chelsea Lin <br><a rel="noopener noreferrer" target="_blank" href="mailto:Lin_Jiemin_Chelsea_A@schools.gov.sg">Lin_Jiemin_Chelsea_A@schools.gov.sg</a></td>
     <td class="tg-8d8j"></td>
   </tr>
   <tr>
