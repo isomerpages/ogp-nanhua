@@ -21,7 +21,7 @@ Submit PV application via online form (<a href="https://go.gov.sg/nhps-pv" targe
 <tr>
 <td colspan="4" style="text-align: center; padding: 10px;">
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-Parent Volunteer applications (for children born<br> in 2018) will be closed by 31 Mar 2023
+Parent Volunteer applications (for children born<br> in 2019) will be closed by 31 Mar 2024
 </div>
 ↓
 </td>  
@@ -37,7 +37,7 @@ Parents will receive automated acknowledgement
 <tr>
 <td colspan="4" style="text-align: center; padding: 10px;">
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-School conducts short-listing process. <span style="font-weight: normal;"><u>Only shortlisted applicants<br> will be notified and invited for an interview by 30 June 2023</u></span>
+School conducts short-listing process. <span style="font-weight: normal;"><u>Only shortlisted applicants<br> will be notified and invited for an interview by 30 June 2024</u></span>
 </div>
 ↓
 </td>  
@@ -71,7 +71,7 @@ To be notified and<br> commence service
 </td>
 <td colspan="2" style="padding: 10px;">
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-To be notified by 30 June<br> 2023
+To be notified by 30 June<br> 2024
 </div>
 </td>
 </tr>
@@ -104,4 +104,4 @@ Contact General Office for further clarification<br>
 
 
 
-To apply for NHPS Parent Volunteer Scheme, please click [here](https://go.gov.sg/nhps-pv)
+To apply for NHPS Parent Volunteer Scheme, please click&nbsp;[here](https://go.gov.sg/nhps-pv)
