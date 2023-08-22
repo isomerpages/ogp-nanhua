@@ -20,6 +20,14 @@ sections:
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
   - infobar:
+      title: Teachers’ Day Celebration on 31 August 2023
+      subtitle: NEWS AND UPDATES
+      description: Dear former students of NHPS,  As our school is a designated
+        polling centre on 1 Sept Friday and the school will need to be closed
+        for the set up on 31 August..
+      button: Read More
+      url: /nhps-teachers-day-celebration/
+  - infobar:
       title: Traffic Management Plan 2023
       subtitle: News and Updates
       description: School’s operating hours is from 0630 hrs to 1900 hrs on normal
