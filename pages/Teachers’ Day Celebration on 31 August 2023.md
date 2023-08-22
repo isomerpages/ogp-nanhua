@@ -9,6 +9,6 @@ As our school is a designated polling centre on 1 Sept Friday and the school wil
 
 We encourage you to pen your note of thanks to your teachers via the link below. 
 
-https://go.gov.sg/nhps-gratitude-message-2023
+[https://go.gov.sg/nhps-gratitude-message-2023](https://go.gov.sg/nhps-gratitude-message-2023)
 
 Thank you for your understanding and support.
