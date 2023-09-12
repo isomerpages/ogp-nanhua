@@ -24,7 +24,7 @@ sections:
       subtitle: NEWS AND UPDATES
       description: 中秋节是华人的传统节日，也是家庭团聚和传承文化的好机会。为了提供平台让学生深入了解传统习俗...
       button: Read More
-      url: /nhps-teachers-day-celebration/
+      url: /maf-notification-on-school-website_final.pdf
   - infobar:
       title: Traffic Management Plan 2023
       subtitle: News and Updates
