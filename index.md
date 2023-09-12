@@ -20,13 +20,11 @@ sections:
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
   - infobar:
-      title: Teachers’ Day Celebration on 31 August 2023
+      title: 南华小学2023年中秋节庆祝晚会
       subtitle: NEWS AND UPDATES
-      description: Dear former students of NHPS,  As our school is a designated
-        polling centre on 1 Sept Friday and the school will need to be closed
-        for the set up on 31 August..
+      description: 中秋节是华人的传统节日，也是家庭团聚和传承文化的好机会。为了提供平台让学生深入了解传统习俗...
       button: Read More
-      url: /nhps-teachers-day-celebration/
+      url: /files/maf-notification-on-school-website_final.pdf
   - infobar:
       title: Traffic Management Plan 2023
       subtitle: News and Updates
