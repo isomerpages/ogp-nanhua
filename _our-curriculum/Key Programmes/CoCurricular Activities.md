@@ -52,6 +52,7 @@ Following their experiences in Primary 3, the students will then decide and comm
 
 
 **Extra training session days (During competition season only)**
+
 | CCAs on Thursday, 2.30 p.m. - 4.30 p.m. | CCAs on Friday, 2.30 p.m. - 4.30 p.m. | 
 | -------- | -------- | 
 | Badminton     | Volleyball     |
