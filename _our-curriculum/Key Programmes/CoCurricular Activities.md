@@ -40,6 +40,7 @@ Following their experiences in Primary 3, the students will then decide and comm
 | Physical Science Club     |      |
 | Journalism & Broadcasting     |      |
 
+
 | CCAs on Tuesday, 2.30 p.m. - 4.30 p.m. | CCAs on Tuesday, 2.30 p.m. - 5.30 p.m. | 
 | -------- | -------- | 
 | Wushu     | Football     |
@@ -48,6 +49,7 @@ Following their experiences in Primary 3, the students will then decide and comm
 | Dance     |      |
 | Brownies     |      |
 | Robotics (Flourish & Experiential Program)     |      |
+
 
 **Extra training session days (During competition season only)**
 | CCAs on Thursday, 2.30 p.m. - 4.30 p.m. | CCAs on Friday, 2.30 p.m. - 4.30 p.m. | 
@@ -66,7 +68,7 @@ Following their experiences in Primary 3, the students will then decide and comm
 * [Physical Science](/ccas/physicalscience)
 * [Infocomm Technology (Computing) Club](/ccas/Clubs-and-Societies/computingclub)
 * [Robotics](/ccas/Clubs-and-Societies/robotics)
-* [Journalism & Broadcasting](/ccas/Clubs-and-Societies/journalism-and-broadcasting)
+* [Journalism & Broadcasting](/ccas/clubs-and-societies/journalism-and-broadcasting)
 
 
 # Physical Sports
