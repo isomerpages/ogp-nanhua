@@ -25,7 +25,7 @@ In this Flourish Program, Primary 3 students will get to experience a different 
 Following their experiences in Primary 3, the students will then decide and commit to a CCA in Primary 4. In order to benefit from their involvement in the CCA, the school strongly encourages students to invest sufficient time in developing interests and talents and remain in their CCAs from Primary 4-6. As such, Primary 4 – 6 Students will only allowed to change their CCAs with valid reasons.
 
 # CCA Days & Timings
-
+**Monday**
 
 | CCAs on Monday, 2.30 p.m. - 4.30 p.m. | CCAs on Monday, 2.30 p.m. - 5.30 p.m. | 
 | -------- | -------- | 
@@ -40,6 +40,7 @@ Following their experiences in Primary 3, the students will then decide and comm
 | Physical Science Club     |      |
 | Journalism & Broadcasting     |      |
 
+**Tuesday**
 
 | CCAs on Tuesday, 2.30 p.m. - 4.30 p.m. | CCAs on Tuesday, 2.30 p.m. - 5.30 p.m. | 
 | -------- | -------- | 
