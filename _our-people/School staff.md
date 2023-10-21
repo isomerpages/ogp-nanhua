@@ -21,7 +21,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">Mdm Josephine Ng<br>Vice-Principal<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
+    <td class="tg-c3ow">Ms Anne Teh<br>Vice-Principal<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
     <td class="tg-c3ow">Ms Tan Peiru<br>Vice-Principal<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
     <td class="tg-c3ow">Mr Lee Sech Wee<br>Vice-Principal (Admin)<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
   </tr>
