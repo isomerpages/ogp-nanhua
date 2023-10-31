@@ -352,14 +352,11 @@ description: ""
     <td class="tg-8d8j">Mdm Fu Yinghui<br><a rel="noopener noreferrer" target="_blank" href="mailto:fu_yinghui@schools.gov.sg">fu_yinghui@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td rowspan="2" class="tg-8d8j">P3G</td>
+    <td class="tg-8d8j">P3G</td>
     <td class="tg-8d8j">Mdm Leong Pui Fong (Eunice) <br><a rel="noopener noreferrer" target="_blank" href="mailto:eunice_leong@schools.gov.sg">eunice_leong@schools.gov.sg</a></td>
      <td class="tg-8d8j">Mdm Xie Wei <br><a rel="noopener noreferrer" target="_blank" href="mailto:xie_wei@schools.gov.sg">xie_wei@schools.gov.sg</a></td>
   </tr>
-	<tr>    
-    <td class="tg-8d8j">Miss Tan Yi Ying <br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_yi_ying_c@schools.gov.sg">tan_yi_ying_c@schools.gov.sg</a></td>
-    <td class="tg-8d8j"></td>
-  </tr>
+
   <tr>
     <td class="tg-8d8j">P3H</td>
     <td class="tg-8d8j">Mr Tay Wei Seng <br><a rel="noopener noreferrer" target="_blank" href="mailto:tay_wei_seng@schools.gov.sg">tay_wei_seng@schools.gov.sg</a></td>
