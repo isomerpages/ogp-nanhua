@@ -40,7 +40,7 @@ Figure 2: Gate Locations
 * No vehicles should park within school compound except when given prior permissions by the school or picking up unwell/injured students.
 * Drivers must follow the instructions of duty personnel and traffic signs so as not to impede traffic flows. 
 * Drivers should ensure that students to get in and get out of the vehicles quickly in order not to hold up the queue. 
-* Drivers should look out and give way at the pedestrian crossing near the security guard post. 
+* Drivers should keep a look out and give way at the pedestrian crossing near the security guard post. 
 * There should be no waiting outside school gates or bus stop before or during dismissal time.
 
 **3. Pedestrians Entering and Exiting School**
