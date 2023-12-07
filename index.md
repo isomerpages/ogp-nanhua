@@ -10,7 +10,7 @@ sections:
       background: /images/HomePageHeroBanner_Slow.gif
       url: /contact-us/
       key_highlights:
-        - title: Traffic Management Plan 2023
+        - title: Traffic Management Plan 2024
           description: ""
           url: /trafficmanagementplan/
         - title: 2022 NHPS eNewsletter
