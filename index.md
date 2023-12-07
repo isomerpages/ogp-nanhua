@@ -20,12 +20,6 @@ sections:
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
   - infobar:
-      title: 南华小学2023年中秋节庆祝晚会
-      subtitle: NEWS AND UPDATES
-      description: 中秋节是华人的传统节日，也是家庭团聚和传承文化的好机会。为了提供平台让学生深入了解传统习俗...
-      button: Read More
-      url: /files/maf-notification-on-school-website_final.pdf
-  - infobar:
       title: Traffic Management Plan 2024
       subtitle: News and Updates
       description: School’s operating hours is from 0630 hrs to 1900 hrs on normal
@@ -33,6 +27,12 @@ sections:
         students, staff, parents ...
       button: Read More
       url: /trafficmanagementplan/
+  - infobar:
+      title: 南华小学2023年中秋节庆祝晚会
+      subtitle: NEWS AND UPDATES
+      description: 中秋节是华人的传统节日，也是家庭团聚和传承文化的好机会。为了提供平台让学生深入了解传统习俗...
+      button: Read More
+      url: /files/maf-notification-on-school-website_final.pdf
   - infobar:
       title: 2022 NHPS eNewsletter
       subtitle: News and Updates
