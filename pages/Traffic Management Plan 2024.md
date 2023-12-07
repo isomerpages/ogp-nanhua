@@ -2,7 +2,7 @@
 title: Traffic Management Plan 2024
 permalink: /trafficmanagementplan/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 # Operating Hours of School Gates
            
@@ -35,7 +35,7 @@ Figure 2: Gate Locations
 **2. Vehicles Entering and Exiting School**
 
 * All vehicles must use only gates D or F following the gates opening hours as well as safe routes indicated below (figures 3, 4 and 5)
-* Drivers should turn on directional signals before turning into the schools to indicate their intention to other drivers waiting to exit from the gates. 
+* Before turning into school, drivers should turn on their vehicle directional signals to indicate their intention to other drivers waiting to exit from the gates.
 * Drivers must strictly keep within the speed limit of 15km/h while driving in school. They are to be cautious of merged lanes and when overtaking.
 * No vehicles should park within school compound except when given prior permissions by the school or picking up unwell/injured students.
 * Drivers must follow the instructions of duty personnel and traffic signs so as not to impede traffic flows. 
@@ -46,28 +46,28 @@ Figure 2: Gate Locations
 **3. Pedestrians Entering and Exiting School**
 
 * All students and staff entering or exiting school must use gates A, B, C and G following the gates opening hours. They will be assisted in crossing in front of gates D and F during peak hours but they must not enter or exit the school using these two gates.
-* Wherever possible, they must avoid jaywalking and use the pedestrian crossings around the school for safe road crossing.
-* Visitors including parents should use only Gate E to enter/exit the school during non-peak hours. They need to register at the Security Guard Post and put on a security sticker. They should also use the pedestrian crossing between the security guard post and foyer to access the General Office or Canteen.
+* They must avoid jaywalking and use foot paths, pedestrian crossings around the school for their safety.
+* Visitors including parents should use only Gate E to enter/exit the school during non-peak hours. They need to register at the Security Guard Post and put on a security sticker. They should also use the pedestrian crossing between the security guard post and foyer to access the General Office or the Canteen.
 
 **4. Cyclists Entering and Exiting school**
  
 * All cyclists entering and exiting school must dismount from their bicycles when they are within the school compound. They are not allowed to cycle on the road or pedestrian walkways within the school.
 * Cyclists must only park their bicycles at designated lots located near gate A.
-* Parents should inform their child’s form teacher if their child will be cycling to and from school daily or regularly
+* If students are cycling to and from school daily or regularly, Operations Manager should be notified. Parents will have to sign an acknowledgment form and the student will be briefed individually on safety on cycling.
 
  
  
 **Safe Routes for Vehicles**
  
 Figure 3 and 4 below depicts vehicular movement during school arrival and dismissal respectively.
-Figure 5 shows movement during remedial lessons and CCA dismissal.
+Figure 5 shows movement during remedial lessons, CCA dismissal and other after-school activities.
 
 <u>Figure 3: During School Arrival</u>
 ![Traffic Information - Figure 3](/images/Traffic%20Information%20-%20Figure%203.png)
 
 _Explanatory Notes to Figure 3:_
 
-For those driving from Commonwealth Avenue West,
+**For those driving from Commonwealth Avenue West,**
 
 * enter the school using Gate D only
 * drop off along the bus bay area
@@ -76,7 +76,8 @@ For those driving from Commonwealth Avenue West,
 * no left turn from 6.45am to 7.45am (refer to LTA signage)
 ![](/images/LTA%20Signage%201.jpg)
 
-* For those driving from Jalan Lempeng,
+**For those driving from Jalan Lempeng,**
+
 * enter the school using Gate F only
 * make a u-turn near canteen
 * drop off along canteen and foyer area
@@ -84,12 +85,13 @@ For those driving from Commonwealth Avenue West,
 * turn left only on exit towards Clementi Avenue 6
 * no right turn from 6.45am to 7.45am (refer to LTA signage)
 ![](/images/LTA%20Signage%202.jpg)
-<u>Figure 4: During School Dismissal</u>
+
+<u>**Figure 4: During School Dismissal**</u>
 ![Traffic Information - Figure 4](/images/Traffic%20Information%20-%20Figure%204.png)
 
 _Explanatory Notes to Figure 4:_
 
-For those driving from Commonwealth Avenue West,
+**For those driving from Commonwealth Avenue West,**
 
 * enter the school using Gate D only
 * pick up along the bus bay area
@@ -97,17 +99,18 @@ For those driving from Commonwealth Avenue West,
 * turn right only on exit towards Commonwealth Avenue West
 * no left turn from 1.45 pm to 2.15pm (refer to LTA signage)
 ![](/images/LTA%20Signage%201.jpg)
-* For those driving from Jalan Lempeng, 
+
+**For those driving from Jalan Lempeng, **
+
 * enter the school using Gate F only
 * make a u-turn near canteen
 * pick up along the canteen area only
-* enter the school at a later dismissal time if there are more than one student of different level to be picked up. Drivers who enter at an earlier pick-up time will not be allowed to wait.
 * exit the school using Gate F only
 * turn left only on exit towards Clementi Avenue 6
 * no right turn from 1.45pm to 2.15pm (refer to LTA signage)
 ![](/images/LTA%20Signage%202.jpg)
 
-<u>Figure 5: After CCA/Remedial Lessons &amp; Student Care Dismissal Pick Up</u>
+<u>**Figure 5: After CCA/Remedial Lessons &amp; Student Care Dismissal Pick Up**</u>
 ![Traffic Information - Figure 5](/images/Traffic%20Information%20-%20Figure%205.png)
 
 _Explanatory Notes to Figure 5:_
