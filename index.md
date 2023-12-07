@@ -26,7 +26,7 @@ sections:
       button: Read More
       url: /files/maf-notification-on-school-website_final.pdf
   - infobar:
-      title: Traffic Management Plan 2023
+      title: Traffic Management Plan 2024
       subtitle: News and Updates
       description: School’s operating hours is from 0630 hrs to 1900 hrs on normal
         school days and during which specific gates will be accessible to
