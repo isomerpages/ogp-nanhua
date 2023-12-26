@@ -22,11 +22,11 @@ Figure 2: Gate Locations
 
 | Gate | Gate Location | Arrival | Dismissal | Remedial Lessons/ CCA Dismissal | Student Care Centre (Pick-up) | Visitors |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| A |  Pedestrian Access Gate (Near Bus Stop along Commonwealth Ave West)    | 6:30am to 7:30am | **1.30pm to 2.00pm** (P3, P5 and P6) | Supplementary / Remedial: 2.45pm to 3.00pm &amp; 3.30pm to 3.45pm <br><br> CCA: 4.30pm to 5.00pm &amp; 5.30pm to 6.00pm | NIL | NIL |
-|B| Pedestrian Access Gate (Next to Gate A along Commonwealth Ave West | 6.30am to 7.30am | **1.30pm to 2.00pm** (P1 P3, P5, P6 students) | NIL | NIL | NIL |
-|C | Pedestrian Access Gate C (Next to Traffic Light along Commonwealth Ave West | NIL | **1.30pm to 2.00 pm** (P2 &amp; P4 students) | NIL | NIL | NIL|
+| A |  Pedestrian Access Gate (Near Bus Stop along Commonwealth Ave West)    | 6:30am to 7:30am | **1.30pm to 2.00pm** (P3, P5 and P6) | Remedial: 2.45pm to 3.00pm <br><br> 3.30pm to 3.45pm <br><br> CCA: 4.30pm to 5.00pm <br><br> 5.30pm to 6.00pm | NIL | NIL |
+|B| Pedestrian Access Gate (Next to Gate A along Commonwealth Ave West) | 6.30am to 7.30am | **1.30pm to 2.00pm** <br>(P1 P3, P5, P6 students) | NIL | NIL | NIL |
+|C | Pedestrian Access Gate C (Next to Traffic Light along Commonwealth Ave West) | NIL | **1.30pm to 2.00 pm** <br>(P2 &amp; P4 students) | NIL | NIL | NIL|
 |E| Pedestrian Access Gate (Near Security Guard Post along Jalan Lempeng) | NIL | NIL | NIL | 3.00pm to 7.00pm | 7.30am to 1.00pm <br><br>  2.00pm to 5.00pm |
-| G | Pedestrian Access Gate (Near Faber Drive along Jalan Lempeng) | 6.30am to 7.30am | **1.30 pm to 2.00pm** (for all levels of students) | NIL | NIL | NIL |
+| G | Pedestrian Access Gate (Near Faber Drive along Jalan Lempeng) | 6.30am to 7.30am | **1.30 pm to 2.00pm** <br>(for all levels of students) | NIL | NIL | NIL |
 |D| Vehicle Access Gate (Near Commonwealth Ave West and Jalan Lempeng Junction) | 6.30am to 7.30am | 1.45pm to 2.15pm Opened only after all school buses have exited) |  NIL | NIL | NIL |
 |F| Vehicle Access Gate (Next to Security Guard Post along Jalan Lempeng) | 6.30am to 7.30am | 1.40pm to 2.15pm | 3.00pm to 7.00pm (For entry and exit) | 3.00pm to 7.00pm (For entry and exit) | NIL |
 
@@ -38,6 +38,7 @@ Figure 2: Gate Locations
 * Before turning into school, drivers should turn on their vehicle directional signals to indicate their intention to other drivers waiting to exit from the gates.
 * Drivers must strictly keep within the speed limit of 15km/h while driving in school. They are to be cautious of merged lanes and when overtaking.
 * No vehicles should park within school compound except when given prior permissions by the school or picking up unwell/injured students.
+* In the event that vehicles are allowed to park and wait, it should not exceed waiting time of 15 minutes or other time limit as specified by the Security Officer. Otherwise, the driver should leave and return as instructed. 
 * Drivers must follow the instructions of duty personnel and traffic signs so as not to impede traffic flows. 
 * Drivers should ensure that students to get in and get out of the vehicles quickly in order not to hold up the queue. 
 * Drivers should keep a look out and give way at the pedestrian crossing near the security guard post. 
@@ -48,6 +49,7 @@ Figure 2: Gate Locations
 * All students and staff entering or exiting school must use gates A, B, C and G following the gates opening hours. They will be assisted in crossing in front of gates D and F during peak hours but they must not enter or exit the school using these two gates.
 * They must avoid jaywalking and use foot paths, pedestrian crossings around the school for their safety.
 * Visitors including parents should use only Gate E to enter/exit the school during non-peak hours. They need to register at the Security Guard Post and put on a security sticker. They should also use the pedestrian crossing between the security guard post and foyer to access the General Office or the Canteen.
+* Parents fetching students in CCAs, remedial lessons or student care centre should use Gate E to enter/exit. They are to **strictly** wait in the canteen area and are not allowed to access other school areas.  
 
 **4. Cyclists Entering and Exiting school**
  
