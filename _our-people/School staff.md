@@ -7,10 +7,10 @@ variant: markdown
 ## Principal &amp; Vice-Principals
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| Mrs Grace Ong     | Principal     | nhps@moe.edu.sg     |
-| Ms Anne Teh     | Vice-Principal     | nhps@moe.edu.sg     |
-| Ms Tan Peiru    | Vice-Principal     | nhps@moe.edu.sg     |
-| Mr Lee Sech Wee     | Vice-Principal (Admin)     | nhps@moe.edu.sg     |
+| Mrs Grace Ong | Principal | nhps@moe.edu.sg |
+| Ms Anne Teh | Vice-Principal | nhps@moe.edu.sg |
+| Ms Tan Peiru | Vice-Principal | nhps@moe.edu.sg |
+| Mr Lee Sech Wee | Vice-Principal (Admin) | nhps@moe.edu.sg |
 
 
 ## Key Personnel
