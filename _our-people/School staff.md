@@ -5,10 +5,7 @@ description: ""
 variant: markdown
 ---
 ## Principal &amp; Vice-Principals
-
-
-
-| Name | Designation | Email |
+| Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Grace Ong     | Principal     | nhps@moe.edu.sg     |
 | Ms Anne Teh     | Vice-Principal     | nhps@moe.edu.sg     |
@@ -17,8 +14,7 @@ variant: markdown
 
 
 ## Key Personnel
-
-| Name | Designation | Email |
+| Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Angie Poh | Year Head (P1 - P3) | lim_chai_ying@schools.gov.sg |
 | Mr Marcus Cheng | Year Head (P4 - P6) | cheng_tai_chew_marcus@schools.gov.sg |
@@ -43,12 +39,8 @@ variant: markdown
 | Mrs Koo Xiyan | SH Student Management | koo_ong_xiyan@schools.gov.sg |
 | Ms Ng Pei Sin | SH Data Management | ng_pei_sin@schools.gov.sg |
 
-
-
-
 ## Teacher Leaders
-
-| Name | Designation | Email |
+| Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mr Thomas Lim | Lead Teacher (English Language) | thomas_lim_kok_tiong@schools.gov.sg |
 | Mdm Wong Lai Yin | Lead Teacher (Chinese Language) | wong_lai_yin@schools.gov.sg |
@@ -61,8 +53,7 @@ variant: markdown
 | Mdm Long Liping | Senior Teacher (Special Educational Needs) | long_liping@schools.gov.sg |
 
 ## School Admin Team (SAT)
-
-| Name | Designation | Email |
+| Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Ms Lim Xiuli | Administration Manager | lim_xiuli@schools.gov.sg |
 | Mr Png Gay Pheow | Operations Manager | png_gay_pheow@schools.gov.sg |
@@ -87,30 +78,31 @@ variant: markdown
 | Mr Tan Chee Siong | Desktop Engineer	|  |
 | Mr Mohd Zulhelmy Bin Majed | Desktop Engineer	|  |
 
-## P1 Form Teachers 2024
+## Primary 1 2024
+| Class | Form Teachers | Email Address | 
+| -------- | -------- | -------- | 
 
 
-## P2 Form Teachers 2024
+## Primary 2 2024
 
 
-## P3 Form Teachers 2024
+## Primary 3 2024
 
 
-## P4 Form Teachers 2024
+## Primary 4 2024
 
 
-## P5 Form Teachers 2024
+## Primary 5 2024
 
 
-## P6 Form Teachers 2024
+## Primary 6 2024
 
 
 
 
 
 ## AEDs
-
-| Name | Designation | Email |
+| Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Ms Sheena Tan Yi Lin | School Counsellor | sheena_tan_yi_lin@schools.gov.sg |
 | Mr Herbert Goh Guang Yang | Special Educational Needs (SEN) Officer | herbert_goh_guang_yang@schools.gov.sg |
