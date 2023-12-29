@@ -48,47 +48,17 @@ variant: markdown
 
 ## Teacher Leaders
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-nrix">Mr Thomas Lim<br>Lead Teacher (English Language)<br><a rel="noopener noreferrer" target="_blank" href="mailto:thomas_lim_kok_tiong@schools.gov.sg">thomas_lim_kok_tiong@schools.gov.sg</a></th>
-    <th class="tg-nrix">Mdm Wong Lai Yin<br>Lead Teacher (Chinese Language)<br><a rel="noopener noreferrer" target="_blank" href="mailto:wong_lai_yin@schools.gov.sg">wong_lai_yin@schools.gov.sg</a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-     <td class="tg-nrix">Ms Ho Kit Mun Julia
-<br>Senior Teacher (English Language)<br><a rel="noopener noreferrer" target="_blank" href="mailto:ho_kit_mun_julia@schools.gov.sg">ho_kit_mun_julia@schools.gov.sg</a></td>
-    <td class="tg-nrix">Ms Yong Hwee Min
-<br>Senior Teacher (English Language)<br><a rel="noopener noreferrer" target="_blank" href="mailto:yong_hwee_min@schools.gov.sg">yong_hwee_min@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-     <td class="tg-nrix">Mdm Vithiya d/o Variyah
-<br>Senior Teacher (Lower Primary Learners)<br><a rel="noopener noreferrer" target="_blank" href="mailto:vithiya_variyah@schools.gov.sg">vithiya_variyah@schools.gov.sg</a></td>
-    <td class="tg-nrix">Mdm Lee Bee Choo
-<br>Senior Teacher (Mathematics)<br><a rel="noopener noreferrer" target="_blank" href="mailto:lee_bee_choo@schools.gov.sg">lee_bee_choo@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Xie Wei
-<br>Senior Teacher (Chinese Language)<br><a rel="noopener noreferrer" target="_blank" href="mailto:xie_wei@schools.gov.sg">xie_wei@schools.gov.sg</a></td>
-    <td class="tg-nrix">Mrs Goh Lai Peng
-<br>Senior Teacher (Chinese Language)<br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_lai_peng@schools.gov.sg">tan_lai_peng@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Chiew Sook Yee<br>Senior Teacher (High Ability Learners)<br><a rel="noopener noreferrer" target="_blank" href="mailto:chiew_sook_yee@schools.gov.sg">chiew_sook_yee@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Mdm Long Liping
-<br>Senior Teacher (Special Educational Needs)<br><a rel="noopener noreferrer" target="_blank" href="mailto:long_liping@schools.gov.sg">long_liping@schools.gov.sg</a></td>
-  </tr>
-</tbody>
-</table>
+| Name | Designation | Email |
+| -------- | -------- | -------- |
+| Mr Thomas Lim | Lead Teacher (English Language) | thomas_lim_kok_tiong@schools.gov.sg |
+| Mdm Wong Lai Yin | Lead Teacher (Chinese Language) | wong_lai_yin@schools.gov.sg |
+| Ms Ho Kit Mun Julia | Senior Teacher (English Language) | ho_kit_mun_julia@schools.gov.sg |
+| Ms Yong Hwee Min | Senior Teacher (English Language) | yong_hwee_min@schools.gov.sg |
+| Mdm Vithiya d/o Variyah | Senior Teacher (Lower Primary Learners) | vithiya_variyah@schools.gov.sg |
+| Mdm Lee Bee Choo | Senior Teacher (Mathematics) | lee_bee_choo@schools.gov.sg |
+| Mrs Goh Lai Peng | Senior Teacher (Chinese Language) | tan_lai_peng@schools.gov.sg |
+| Mdm Chiew Sook Yee | Senior Teacher (High Ability Learners) | chiew_sook_yee@schools.gov.sg |
+| Mdm Long Liping | Senior Teacher (Special Educational Needs) | long_liping@schools.gov.sg |
 
 ## School Admin Team (SAT)
 
