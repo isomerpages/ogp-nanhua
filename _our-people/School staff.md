@@ -2,89 +2,49 @@
 title: School staff
 permalink: /our-people/school-staff/
 description: ""
+variant: markdown
 ---
 ## Principal &amp; Vice-Principals
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="3" class="tg-c3ow">Mrs Grace Ong<br>Principal<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">Ms Anne Teh<br>Vice-Principal<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
-    <td class="tg-c3ow">Ms Tan Peiru<br>Vice-Principal<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
-    <td class="tg-c3ow">Mr Lee Sech Wee<br>Vice-Principal (Admin)<br><a rel="noopener noreferrer" target="_blank" href="mailto:nhps@moe.edu.sg">nhps@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
+
+
+| Name | Designation | Email |
+| -------- | -------- | -------- |
+| Mrs Grace Ong     | Principal     | nhps@moe.edu.sg     |
+| Ms Anne Teh     | Vice-Principal     | nhps@moe.edu.sg     |
+| Ms Tan Peiru    | Vice-Principal     | nhps@moe.edu.sg     |
+| Mr Lee Sech Wee     | Vice-Principal (Admin)     | nhps@moe.edu.sg     |
+
 
 ## Key Personnel
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-nrix">Mr Tan Shu Hong<br>School Staff Developer<br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_shu_hong@schools.gov.sg">tan_shu_hong@schools.gov.sg</a></th>
-    <th class="tg-nrix">Mrs Cynthia Chen<br>HOD Mathematics<br><a rel="noopener noreferrer" target="_blank" href="mailto:Cynthia_Tan@schools.gov.sg">Cynthia_Tan@schools.gov.sg</a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-     <td class="tg-nrix">Mr Choy Chong Wah Cedric<br>HOD ICT<br><a rel="noopener noreferrer" target="_blank" href="mailto:choy_chong_wah@schools.gov.sg">choy_chong_wah@schools.gov.sg</a></td>
-    <td class="tg-nrix">Mrs Shirlyn Seah<br>HOD CCE<br><a rel="noopener noreferrer" target="_blank" href="mailto:koh_lee_kun_shirlyn@schools.gov.sg">koh_lee_kun_shirlyn@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-     <td class="tg-nrix">Mr Henry Phua Yong Xiang<br>HOD Student Management<br><a rel="noopener noreferrer" target="_blank" href="mailto:henry_phua_yong_xiang@schools.gov.sg">henry_phua_yong_xiang@schools.gov.sg</a></td>
-    <td class="tg-nrix">Mdm Tan Yen Teng Wendy<br>HOD English Language<br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_yen_teng_wendy@schools.gov.sg">tan_yen_teng_wendy@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mr Neo Eng Yeow<br>HOD PE, Aesthetics &amp; CCA<br><a rel="noopener noreferrer" target="_blank" href="mailto:neo_eng_yeow@schools.gov.sg">neo_eng_yeow@schools.gov.sg</a></td>
-    <td class="tg-nrix">Mrs Kheng Mui Yee<br>Year Head (Upper Block)<br><a rel="noopener noreferrer" target="_blank" href="mailto:kheng_mui_yee@schools.gov.sg">kheng_mui_yee@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Ms Chua Hock Yen<br>Year Head (Lower Block)<br><a rel="noopener noreferrer" target="_blank" href="mailto:chua_hock_yen@schools.gov.sg">chua_hock_yen@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Mdm Cho Yue Wai<br>Asst Year Head (Middle Block)<br><a rel="noopener noreferrer" target="_blank" href="mailto:cho_yue_wai@schools.gov.sg">cho_yue_wai@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mrs Vivien Tan<br>Asst Year Head (Lower Block)<br><a rel="noopener noreferrer" target="_blank" href="mailto:yu_yen_ling_vivien@schools.gov.sg">yu_yen_ling_vivien@schools.gov.sg</a></td>
-     <td class="tg-nrix">Mdm Heng Kim Fei Susan<br>LH English Language<br><a rel="noopener noreferrer" target="_blank" href="mailto:heng_kim_fei_susan@schools.gov.sg">heng_kim_fei_susan@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mrs Chew-Lim Hwee Ling<br>LH Mathematics<br><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hwee_ling@schools.gov.sg">lim_hwee_ling@schools.gov.sg</a>   </td>
-     <td class="tg-nrix">Miss Lim Li Li<br>LH Mathematics<br><a rel="noopener noreferrer" target="_blank" href="mailto:LIM_Li_Li_b@schools.gov.sg">LIM_Li_Li_b@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Miss Zhou Jing<br>LH Chinese Language &amp; Culture<br><a rel="noopener noreferrer" target="_blank" href="mailto:zhou_jing_b@schools.gov.sg">zhou_jing_b@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Miss Ng Pei Sin<br>LH Chinese Language &amp; Culture<br><a rel="noopener noreferrer" target="_blank" href="mailto:ng_pei_sin@schools.gov.sg">ng_pei_sin@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-     <td class="tg-nrix">Mdm Fu Yinghui<br>LH Science<br><a rel="noopener noreferrer" target="_blank" href="mailto:fu_yinghui@schools.gov.sg">fu_yinghui@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Mr Yang Feng Yi<br>SH SAP<br><a rel="noopener noreferrer" target="_blank" href="mailto:yang_fengyi@schools.gov.sg">yang_fengyi@schools.gov.sg</a>   </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mrs Koo Xi Yan<br>SH Student Management<br><a rel="noopener noreferrer" target="_blank" href="mailto:koo_ong_xiyan@schools.gov.sg">koo_ong_xiyan@schools.gov.sg</a>   </td>
-    <td class="tg-nrix">Mdm Chew Gek Cheng Jenny<br>SH Aesthetics<br><a rel="noopener noreferrer" target="_blank" href="mailto:chew_gek_cheng_a@schools.gov.sg">chew_gek_cheng_a@schools.gov.sg</a>   </td>
-  </tr>
-  
-</tbody>
-</table>
+| Name | Designation | Email |
+| -------- | -------- | -------- |
+| Mrs Angie Poh | Year Head (P1 - P3) | lim_chai_ying@schools.gov.sg |
+| Mr Marcus Cheng | Year Head (P4 - P6) | cheng_tai_chew_marcus@schools.gov.sg |
+| Ms Zhou Jing | HOD Mother Tongue | zhou_jing_b@schools.gov.sg |
+| Mdm Tan Yen Teng Wendy | HOD English Language | tan_yen_teng_wendy@schools.gov.sg |
+| Mrs Cynthia Chen | HOD Mathematics | cynthia_tan@schools.gov.sg |
+| Mr Neo Eng Yeow | HOD PE, Aesthetics &amp; CCA | neo_eng_yeow@schools.gov.sg |
+| Mrs Shirlyn Seah | HOD CCE | koh_lee_kun_shirlyn@schools.gov.sg |
+| Mr Henry Phua Yong Xiang | HOD Student Management | henry_phua_yong_xiang@schools.gov.sg |
+| Mr Choy Chong Wah Cedric | HOD ICT | choy_chong_wah@schools.gov.sg |
+| Ms Chua Hock Yen | HOD SAP | chua_hock_yen@schools.gov.sg |
+| Mr Tan Shu Hong | School Staff Developer | tan_shu_hong@schools.gov.sg |
+| Mrs Vivien Tan | Asst Year Head (Lower Block) | yu_yen_ling_vivien@schools.gov.sg |
+| Mdm Heng Kim Fei Susan | LH English Language | heng_kim_fei_susan@schools.gov.sg |
+| Mrs Chew-Lim Hwee Ling | LH Mathematics | lim_hwee_ling@schools.gov.sg |
+| Miss Lim Li Li | LH Mathematics | lim_li_li_b@schools.gov.sg |
+| Mdm Fu Yinghui | LH Science | fu_yinghui@schools.gov.sg |
+| Mdm Chew Gek Cheng Jenny | SH Aesthetics | chew_gek_cheng_a@schools.gov.sg |
+| Mr Yang Fengyi | SH GEP(CL) | yang_fengyi@schools.gov.sg |
+| Mr Ng Wei Sheng | SH GEP (Internal) | ng_wei_sheng@schools.gov.sg |
+| Mdm Cho Yue Wai | SH Partnership | cho_yue_wai@schools.gov.sg |
+| Mrs Koo Xiyan | SH Student Management | koo_ong_xiyan@schools.gov.sg |
+| Ms Ng Pei Sin | SH Data Management | ng_pei_sin@schools.gov.sg |
+
+
+
 
 ## Teacher Leaders
 
