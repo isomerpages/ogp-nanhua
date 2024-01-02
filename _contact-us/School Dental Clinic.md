@@ -2,19 +2,20 @@
 title: School Dental Clinic
 permalink: /contact-us/school-dental-clinic/
 description: ""
+variant: markdown
 ---
 ### School Dental Clinic
 
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 886.725px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 416px;">Opening Hours:</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Monday and Friday&nbsp; &nbsp;8.00 a.m to 5.00 p.m.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Tuesday to Thursday&nbsp; &nbsp;8.00 a.m to 5.30 p.m.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">School Holidays:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Monday to Friday&nbsp; &nbsp; &nbsp; 8.00 a.m to 5.00 p.m.&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Lunch Time:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">12.30 p.m to 1.30 p.m&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Dental Therapist:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Lee Ying Jia&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tel:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">9115 1679&nbsp;(Please call for appointment.)&nbsp;</td></tr></tbody></table>
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 886.725px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 416px;">Opening Hours:</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Monday / Wednesday / Friday&nbsp; &nbsp;8.00 a.m to 5.00 p.m.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Tuesday to Thursday&nbsp; &nbsp;8.00 a.m to 5.30 p.m.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">School Holidays:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Monday to Friday&nbsp; &nbsp; &nbsp; 8.00 a.m to 5.00 p.m.&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Lunch Time:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">12.30 p.m to 1.30 p.m&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Dental Therapist:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Lee Ying Jia&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tel:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">9115 1679&nbsp;(Please call for appointment.)&nbsp;</td></tr></tbody></table>
 
-**Clinic opens alternate week, on ODD WEEKS OF TERM 4**
+**Clinic opens alternate week, on ODD WEEKS OF TERM 1**
 
-**25/09/2023 - 29/09/2023**
+**02/01/2024 - 05/01/2024**
  
-**09/10/2023 – 13/10/2023**
+**15/01/2024 – 19/01/2024**
 
-**Clinic will be closed on 27/09/2023 (11am - 5.30pm)**
+**Clinic will be closed on 17/01/2024 (11am - 5.00pm)**
 
 
 
@@ -73,23 +74,7 @@ Pupils who require **urgent** dental treatment can contact the following school 
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.5pt" valign="top" width="157"><p class="MsoNoSpacing"><span style="font-size:12.0pt;mso-bidi-font-size:
   14.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-bidi-font-weight:bold;
-  mso-bidi-font-style:italic" lang="EN-SG">98379967</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:35.5pt"><td style="width:161.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:35.5pt" valign="top" width="216"><p class="MsoNoSpacing"><span style="font-size:12.0pt;mso-bidi-font-size:
-  14.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-bidi-font-weight:bold;
-  mso-bidi-font-style:italic" lang="EN-SG">Mobile Dental Clinic 19 @</span></p><p class="MsoNoSpacing"><span style="font-size:12.0pt;mso-bidi-font-size:
-  14.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-bidi-font-weight:bold;
-  mso-bidi-font-style:italic" lang="EN-SG">Dunearn Secondary School</span></p></td><td style="width:171.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.5pt" valign="top" width="228"><p class="MsoNoSpacing"><span style="font-size:12.0pt;mso-bidi-font-size:
-  14.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-bidi-font-weight:bold;
-  mso-bidi-font-style:italic" lang="EN-SG">21 Bukit Batok West Ave 2, Singapore 659204</span></p></td><td style="width:118.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.5pt" valign="top" width="157"><p class="MsoNoSpacing"><span style="font-size:12.0pt;mso-bidi-font-size:
-  14.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-bidi-font-weight:bold;
-  mso-bidi-font-style:italic" lang="EN-SG">93895041</span></p></td></tr></tbody></table>
+  mso-bidi-font-style:italic" lang="EN-SG">98379967</span></p></td></tr></tbody></table>
 
 *Clinic opening days are subject to changes.
 We are sorry for any inconvenience caused during the closure.*
