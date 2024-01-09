@@ -13,9 +13,9 @@ sections:
         - title: Traffic Management Plan 2024
           description: ""
           url: /trafficmanagementplan/
-        - title: 2022 NHPS eNewsletter
+        - title: 2023 NHPS eNewsletter
           description: ""
-          url: https://online.flippingbook.com/view/358475637/
+          url: https://online.flippingbook.com/view/453668479/
         - title: NHPS online art exhibition
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
