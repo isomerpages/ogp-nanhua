@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /ccas/Visual-and-Performing-Arts/guzhengensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 # Overview:
 
@@ -12,7 +13,7 @@ The CCA also provides a platform for students to interact with their peers and t
 
 ## Target Groups:
 
-Offered to P2 to P6 students
+Offered to P3 to P6 students
 
 ## Objectives:
 
