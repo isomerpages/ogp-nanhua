@@ -3,6 +3,7 @@ title: Arts and Crafts
 permalink: /ccas/Visual-and-Performing-Arts/artsandcrafts/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 # Overview:
 
@@ -14,7 +15,7 @@ The club also ensures that students participate actively in events organized by 
 
 ## Target Groups:
 
-Offered to P3 to P6 students. A selection exercise may be conducted depending on the sign up rate.
+Offered to P3 to P6 students. 
 
 ## Objectives:
 

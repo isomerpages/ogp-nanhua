@@ -3,6 +3,7 @@ title: Choir
 permalink: /ccas/Visual-and-Performing-Arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 # Overview:
 
@@ -15,7 +16,7 @@ The choir members have always been eager and determined to improve their singing
 
 ## Target Groups:
 
-Offered to P3 to P6 Students. Audition will be conducted for new members.
+Offered to P3 to P6 Students. 
 
 ## Objectives:
 
