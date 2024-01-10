@@ -3,6 +3,7 @@ title: Wushu
 permalink: /ccas/Physical-Sports/wushu/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # Overview:
 Chinese martial art, also known as wushu, is widely practised for improving health, self-defence, mental discipline, as well as for recreation.
@@ -11,7 +12,7 @@ Wushu improves one’s flexibility, speed, strength, co-ordination and endurance
 
 ## Target Groups:
 
-Offered to P2 to P6 students
+Offered to P3 to P6 students
 
 ## Objectives:
 
