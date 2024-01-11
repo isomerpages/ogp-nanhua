@@ -1,5 +1,5 @@
 title: Nan Hua Primary School
-url: https://www.open.gov.sg
+url: https://nanhuapri.moe.edu.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#214096"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
