@@ -982,7 +982,7 @@ variant: tiptap
 <p>P2-A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Pei Sin</p>
+<p>Ms Ng Pei Sin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_pei_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_sin@schools.gov.sg</a>
