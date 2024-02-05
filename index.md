@@ -23,7 +23,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Chinese New Year Celebration
+        - title: Chinese New Year Celebration on 9 February 2024
           date: 05 February 2024
           announcement: >-
             Dear Alumni of NHPS
