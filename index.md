@@ -19,6 +19,19 @@ sections:
         - title: NHPS online art exhibition
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Chinese New Year Celebration
+          date: 05 February 2024
+          announcement: >+
+            Dear Alumni of NHPS
+
+            The school will be celebrating CNY on 9 Feb and the school hours will be till 10.30 a.m.
+
+          link_text: Read More
+          link_url: /
   - infobar:
       title: Traffic Management Plan 2024
       subtitle: News and Updates
