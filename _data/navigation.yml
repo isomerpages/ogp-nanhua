@@ -1,0 +1,12 @@
+logo: /images/NHPSLOGO_RGB.png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Contact us
+    collection: contact-us
+  - title: Quick Links
+    collection: quick-links
