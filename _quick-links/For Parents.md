@@ -19,7 +19,7 @@ variant: markdown
 <br>
 2. [Leave of absence form](https://go.gov.sg/nhps-loa-application-form) or Scan the QR Code below
 <br>
-<img src="https://d33wubrfki0l68.cloudfront.net/c07ee306e66d8b164b10e6e7088281b9c1df91d4/0493f/images/gogovnanhua.png" alt="" style="width:300px; height:332px;">
+<img src="/images/gogovnanhua.png" alt="" style="width:300px; height:332px;">
 3. [Updating of student's official address](/files/Application%20Forms/Request%20Form%20For%20Updating%20of%20Student%20Address-Annex%201B2%20-%202019.pdf)  _(updated on 15th October 2019)_
 
 
