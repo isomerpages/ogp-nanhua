@@ -721,6 +721,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Khairie Sufyan Mohamed Neezam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairie_sufyan_mohamed_neezam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairie_sufyan_mohamed_neezam@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Janet Lee Kwee Hio</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1169,6 +1181,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Violet Ng Hui Zhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:violet_ng_hui_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">violet_ng_hui_zhi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Primary 3 2024</h2>
@@ -1558,6 +1582,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ai_foon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_foon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Wenling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_wenling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_wenling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -2149,6 +2185,41 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Chien Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chien_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chien_nee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Julie See</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shahidah Begum Binte Syed Sultan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shahidah_begum_syed_sultan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahidah_begum_syed_sultan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>AEDs</h2>
@@ -2198,6 +2269,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suzzanna_shariff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suzzanna_shariff@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amani Binti Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_amani_binti_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amani_binti_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
