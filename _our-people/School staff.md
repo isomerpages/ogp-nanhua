@@ -2205,7 +2205,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:julie_see_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julie_see_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
