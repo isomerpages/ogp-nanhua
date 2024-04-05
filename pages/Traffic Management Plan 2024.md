@@ -26,7 +26,7 @@ Figure 2: Gate Locations
 |B| Pedestrian Access Gate (Next to Gate A along Commonwealth Ave West) | 6.30am to 7.30am | **1.30pm to 2.00pm** <br>(P1 P3, P5, P6 students) | NIL | NIL | NIL |
 |C | Pedestrian Access Gate C (Next to Traffic Light along Commonwealth Ave West) | NIL | **1.30pm to 2.00 pm** <br>(P2 &amp; P4 students) | NIL | NIL | NIL|
 |E| Pedestrian Access Gate (Near Security Guard Post along Jalan Lempeng) | NIL | NIL | NIL | 3.00pm to 7.00pm | 7.30am to 1.00pm <br><br>  2.00pm to 5.00pm |
-| G | Pedestrian Access Gate (Near Faber Drive along Jalan Lempeng) | 6.30am to 7.30am | **1.30 pm to 2.00pm** <br>(for all levels of students) | **NEW (from 8 Apr)** <br><br>CCA (Mondays &amp; Tuesdays) <br><br>4.30pm to 5.00pm <br><br> 5.30pm to 6.00pm | NIL | NIL |
+| G | Pedestrian Access Gate (Near Faber Drive along Jalan Lempeng) | 6.30am to 7.30am | **1.30 pm to 2.00pm** <br>(for all levels of students) |<font color="#ff0000">  *NEW (from 8 Apr)* <br><br>CCA (Mondays &amp; Tuesdays) <br><br>4.30pm to 5.00pm <br><br> 5.30pm to 6.00pm </font>| NIL | NIL |
 |D| Vehicle Access Gate (Near Commonwealth Ave West and Jalan Lempeng Junction) | 6.30am to 7.30am | 1.45pm to 2.15pm Opened only after all school buses have exited) |  NIL | NIL | NIL |
 |F| Vehicle Access Gate (Next to Security Guard Post along Jalan Lempeng) | 6.30am to 7.30am | 1.40pm to 2.15pm | 3.00pm to 7.00pm (For entry and exit) | 3.00pm to 7.00pm (For entry and exit) | NIL |
 
