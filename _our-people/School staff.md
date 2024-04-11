@@ -2281,7 +2281,7 @@ variant: tiptap
 <p>Special Educational Needs (SEN) Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_amani_binti_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amani_binti_ahmad@schools.gov.sg</a>
+<p><a href="mailto:nur_amani_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amani_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
