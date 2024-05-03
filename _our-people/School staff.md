@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>Principal &amp; Vice-Principals</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,7 +74,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Key Personnel</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -349,7 +359,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Teacher Leaders</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -473,7 +488,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>School Admin Team (SAT)</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -768,7 +788,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 1 2024</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -976,7 +1001,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 2 2024</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1196,7 +1226,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 3 2024</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1254,6 +1289,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hazel_ong_li_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hazel_ong_li_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jolene Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheah_li_ping_jolene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_ping_jolene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1404,7 +1451,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 4 2024</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1624,7 +1676,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 5 2024</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1832,7 +1889,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 6 2024</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2040,7 +2102,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Non-FTs</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2224,7 +2291,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>AEDs</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
