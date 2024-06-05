@@ -2134,18 +2134,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Suat Sian, Karen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_suat_sian_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_suat_sian_karen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Candice Soh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2165,18 +2153,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_say_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_say_lian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Khong Kay Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khong_kay_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khong_kay_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -2254,30 +2230,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Li Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:li_ying_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_ying_c@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Chien Nee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chien_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chien_nee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Julie See</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2285,18 +2237,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:julie_see_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julie_see_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Shahidah Begum Binte Syed Sultan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shahidah_begum_syed_sultan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahidah_begum_syed_sultan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
