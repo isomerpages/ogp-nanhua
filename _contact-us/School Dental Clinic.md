@@ -9,13 +9,13 @@ variant: markdown
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 886.725px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 416px;">Opening Hours:</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 417px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Monday / Wednesday / Friday&nbsp; &nbsp;8.00 a.m to 5.00 p.m.</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 23.8px; text-align: left;">Tuesday to Thursday&nbsp; &nbsp;8.00 a.m to 5.30 p.m.</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">School Holidays:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Monday to Friday&nbsp; &nbsp; &nbsp; 8.00 a.m to 5.00 p.m.&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Lunch Time:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">12.30 p.m to 1.30 p.m&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Dental Therapist:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms Lee Ying Jia&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tel:&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">9115 1679&nbsp;(Please call for appointment.)&nbsp;</td></tr></tbody></table>
 
-**Clinic opens alternate week, on ODD WEEKS OF TERM 1**
+**Clinic opens alternate week, on EVEN WEEKS OF TERM 3**
 
-**02/01/2024 - 05/01/2024**
+**01/07/2024 - 05/07/2024**
  
-**15/01/2024 – 19/01/2024**
+**15/07/2024 – 19/07/2024**
 
-**Clinic will be closed on 17/01/2024 (11am - 5.00pm)**
+**Clinic will be closed on 1/07/2024 (12noon - 5.00pm)**
 
 
 
