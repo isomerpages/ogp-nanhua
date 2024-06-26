@@ -2237,7 +2237,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sabrina_lee_sabai_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sabrina_lee_sabai_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2248,7 +2249,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:xie_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2259,7 +2261,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_nabilah_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nabilah_othman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
