@@ -1034,6 +1034,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Yong Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yong_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_kwang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P2-B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1362,18 +1374,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_bee_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_bee_choo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Yong Kwang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_kwang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
