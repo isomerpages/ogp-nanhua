@@ -12,4 +12,3 @@ Contact No: 8218 5115
 
 Email Address: [NanHua@gohtpt.com.sg](mailto:NanHua@gohtpt.com.sg)
 
-[Request for School Bus Services Form for 2025](/files/School%20Bus/request_for_school_bus_services.pdf)
