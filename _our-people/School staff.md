@@ -592,6 +592,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nurul Atika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_atika_fadhil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_atika_fadhil@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Nadia Binte Razalee</p>
 </td>
 <td rowspan="1" colspan="1">
