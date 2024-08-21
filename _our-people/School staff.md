@@ -600,7 +600,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_atika_fadhil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_atika_fadhil@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -2373,5 +2372,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
