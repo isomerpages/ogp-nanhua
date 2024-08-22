@@ -23,7 +23,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Ex-students visiting NHPS on Teachers' Day, 29 August 2024
+        - title: Former students visiting NHPS on Teachers' Day, 29 August 2024
           date: 23 August 2024
           announcement: Please click on the following click for more information
           link_text: More Information
