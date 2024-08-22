@@ -23,12 +23,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Ex-students visiting NHPS on Teachers' Day, 29 August 2024
+          date: 23 August 2024
+          announcement: Please click on the following click for more information
+          link_text: More Information
+          link_url: /teachers-day-2024/
         - title: Chinese New Year Celebration on 9 February 2024
           date: 05 February 2024
-          announcement: >-
-            Dear Alumni of NHPS
-
-            The school will be celebrating CNY on 9 Feb and the school hours will be till 10.30 a.m. We welcome you back to visit your teachers to show appreciation...
+          announcement: Dear Alumni of NHPS The school will be celebrating CNY on 9 Feb
+            and the school hours will be till 10.30 a.m. We welcome you back to
+            visit your teachers to show appreciation...
           link_text: Read More
           link_url: /cny-celebration/
   - infobar:
