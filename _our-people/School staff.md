@@ -2129,6 +2129,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Nicole Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nicole_foo_jie_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_foo_jie_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Miss Janelle Lim</p>
 </td>
 <td rowspan="1" colspan="1">
