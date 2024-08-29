@@ -3,8 +3,9 @@ title: Wait list Application
 permalink: /our-school/School-information/wait-list-application/
 description: ""
 third_nav_title: Admissions
+variant: markdown
 ---
-**For AY2024**
+**For AY2025**
 
 To apply, please click **[here](https://go.gov.sg/nhps-wl)**
 
