@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /ccas/Visual-and-Performing-Arts/chinesedance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 # Overview:
 
@@ -24,4 +25,4 @@ Offered to P3 to P6 students
 
 ![](/images/nanhuass9.png)
 
-[Video](https://drive.google.com/file/d/1JXiK0GR6gH6Nvq8uZKfHOlHZcN8I4sKv/view)
+[Video](https://drive.google.com/file/d/1YapJk7EHgZc_nqKm3sqKwUP7iBMFH_ph/view?t=11)
