@@ -10,13 +10,16 @@ variant: markdown
 [Information on Primary School Transfer Service for Change of Address](/files/Information%20Sheets/Annex%20B%20-%20Information%20sheet%20for%20parents.pdf)
 
 # Forms and Guides
-1. MOE Financial Assistance Scheme (FAS)
+1. Financial Assistance Scheme (FAS)
 	* [Application Form](/files/Application%20Forms/2024%20moe%20fas%20application%20form.pdf) _(updated on 31st October 2023)_
 	* [Pamphlet](/files/Information%20Sheets/moe_fas_pamphet_oct_2023.pdf) _(updated on 31st October 2023)_
 	* [MOE Financial Assistance Application Form (eFAS) for 2024](https://go.gov.sg/moe-efas) or Scan the QR Code below
 <br>
 <img src="/images/moe-efas.jpg" alt="" style="width:300px; height:332px;">
 <br>
+If you do not meet the income criteria for the MOE Financial Assistance Scheme (FAS), you can approach our school. The school can consider your child for its school-based financial assistance scheme.
+<br>
+
 2. [Leave of absence form](https://go.gov.sg/nhps-loa-application-form) or Scan the QR Code below
 <br>
 <img src="/images/gogovnanhua.png" alt="" style="width:300px; height:332px;">
