@@ -12,7 +12,7 @@ variant: markdown
 # Forms and Guides
 1. Financial Assistance Scheme (FAS)
 	* [Application Form](/files/Application%20Forms/MOE_FAS_Application_Form_2025.pdf) _(updated on 30th September 2024)_
-	* [Pamphlet](/files/Information%20Sheets/MOE_FAS_Pamphlet_2024.pdf) _(updated on 30th September 2024)_
+	* [Pamphlet](/files/Information%20Sheets/moe_fas_pamphlet_2024.pdf) _(updated on 30th September 2024)_
 	* [MOE Financial Assistance Application Form (eFAS) for 2024](https://go.gov.sg/moe-efas) or Scan the QR Code below
 <br>
 <img src="/images/moe-efas.jpg" alt="" style="width:300px; height:332px;">
