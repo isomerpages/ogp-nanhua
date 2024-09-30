@@ -3,6 +3,7 @@ title: CoCurricular Activities
 permalink: /our-curriculum/Key-Programmes/cca/
 description: ""
 third_nav_title: Key Programmes
+variant: markdown
 ---
 Co-Curricular Activities plays an integral part in the holistic development of all students. It provides an avenue for our students to discover and develop their areas of interest and strength. The CCA sessions allow students to acquire skills, cultivate healthy habits, inculcate sound values, build character strengths and forge friendships.
 
@@ -57,10 +58,12 @@ Following their experiences in Primary 3, the students will then decide and comm
 | CCAs on Thursday, 2.30 p.m. - 4.30 p.m. | CCAs on Friday, 2.30 p.m. - 4.30 p.m. | 
 | -------- | -------- | 
 | Badminton     | Volleyball     |
-| Table Tennis     | Track and Field     |
-| Guzheng     | Wushu     |
-| Robotics     | Dance     |
-| Football     | Choir     |
+| Football     | Track and Field     |
+| Wushu     | Table Tennis     |
+| Choir     | Dance     |
+| Guzheng     | Journalism and Broadcasting     |
+| Robotics     |      |
+| Percussion     |      |
 
 
 
