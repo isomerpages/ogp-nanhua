@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Peiru</p>
+<p>Mr Lim Peng Yuan Andy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
