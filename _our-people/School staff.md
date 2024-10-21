@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Peiru</p>
+<p>Mr Lim Peng Yuan Andy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -2274,30 +2274,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:julie_see_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">julie_see_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sabrina Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_lee_sabai_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sabrina_lee_sabai_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Xie Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xie_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
