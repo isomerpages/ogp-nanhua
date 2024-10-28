@@ -11,7 +11,7 @@ fast-paced, pressure-packed world, it also takes a village to educate one.</p>
 plays a significant role in this “village.” We work hand in hand with the
 school to create a nurturing and positive environment where each child
 can thrive and reach their full potential.</p>
-<h5><strong>ParentConnect serves as:</strong></h5>
+<h4><strong>ParentConnect serves as:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>A platform for parents to <strong>complement the school</strong> by aligning
@@ -30,7 +30,7 @@ and the school; and</p>
 the school.</p>
 </li>
 </ul>
-<h5><strong>Be part of the school's celebration</strong></h5>
+<h4><strong>Be part of the school's celebration</strong></h4>
 <p>ParentConnect is actively involved in the school’s major celebrations.
 These include:</p>
 <ul>
@@ -91,8 +91,7 @@ support our students.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Be part of your child’s learning journey</strong>
-</p>
+<h4><strong>Be part of your child’s learning journey</strong></h4>
 <p></p>
 <p>The school and ParentConnect organise various exciting activities for
 students to learn and explore in fun and engaging ways while allowing parents
@@ -144,8 +143,7 @@ students from 37 schools in 2022.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Be part of the parents’ network, creating memorable experiences together</strong>
-</p>
+<h4><strong>Be part of the parents’ network, creating memorable experiences together</strong></h4>
 <p></p>
 <p>ParentConnect fosters bonding and networking among parents through various
 activities, such as dialogues, the Yuanxiao (元宵) gathering, Appreciation
@@ -188,8 +186,7 @@ in supporting the school and our children.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Why You Should Join ParentConnect:</strong>
-</p>
+<h4><strong>Why You Should Join ParentConnect:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be actively involved in your child’s school journey</p>
