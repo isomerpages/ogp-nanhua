@@ -14,11 +14,12 @@ can thrive and reach their full potential.</p>
 <h5><strong>ParentConnect serves as:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>A platform for parents to complement the school by aligning with the school’s
-objectives;</p>
+<p>A platform for parents to <strong>complement the school</strong> by aligning
+with the school’s objectives;</p>
 </li>
 <li>
-<p>A bridge for parents to engage in their children’s school activities;</p>
+<p>A bridge for <strong>parents to engage</strong> in their children’s school
+activities;</p>
 </li>
 <li>
 <p>A community for <strong>bonding and networking</strong> between parents
