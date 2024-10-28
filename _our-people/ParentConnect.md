@@ -153,7 +153,40 @@ These gatherings strengthen connections within the school community, bringing
 parents together in a supportive environment. These events also serve to
 acknowledge and appreciate our regular volunteers for their dedicated efforts
 in supporting the school and our children.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Why You Should Join ParentConnect:</strong>
 </p>
 <ul data-tight="true" class="tight">
