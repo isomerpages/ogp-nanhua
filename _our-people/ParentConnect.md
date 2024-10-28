@@ -68,7 +68,6 @@ support our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -78,13 +77,11 @@ support our students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
@@ -107,4 +104,85 @@ meaningful, helping students develop important values and teamwork skills.
 As parents, we create memorable experiences as we get involved and make
 a difference in our child’s learning experience!</p>
 <p></p>
+<p>“<strong><em>Students are more engaged with school and enjoy it better when their parents take an interest in their school life by getting involved in activities, such as volunteering, parent-teacher meetings or school events</em></strong>”,
+The Straits Times reported in a study conducted by NIE involving some 7,500
+students from 37 schools in 2022.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Be part of the parents’ network, creating memorable experiences together</strong>
+</p>
+<p></p>
+<p>ParentConnect fosters bonding and networking among parents through various
+activities, such as dialogues, the Yuanxiao (元宵) gathering, Appreciation
+Day, and social events like bowling, movie screenings, and outdoor outings.
+These gatherings strengthen connections within the school community, bringing
+parents together in a supportive environment. These events also serve to
+acknowledge and appreciate our regular volunteers for their dedicated efforts
+in supporting the school and our children.</p>
+<p></p>
+<p><strong>Why You Should Join ParentConnect:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be actively involved in your child’s school journey</p>
+</li>
+<li>
+<p>Strengthen the school-parent partnership</p>
+</li>
+<li>
+<p>Build a supportive parent community</p>
+</li>
+<li>
+<p>Celebrate milestones together</p>
+</li>
+</ul>
+<p></p>
+<p>Nobody can do everything, but everyone can do something. By joining ParentConnect,
+you will become part of a big family that shares the joy of giving back
+to the school community in a meaningful way to make a lasting impact on
+the school community. Together, we can make a difference and foster a positive,
+supportive environment for all children.</p>
+<p></p>
+<p>Join us in ParentConnect by clicking the <a href="https://docs.google.com/forms/d/e/1FAIpQLScoLfZDkpfJ9Ofoz9vWECPyz1yyuR1lddi1losE7RUF_-na_w/viewform" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+be part of the village that raises and educates every child! Connect with
+us via Facebook (NHPS ParentConnect) and Instagram (@nhpsparentconnect).</p>
+<p>~ ParentConnect Exco</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
 <p></p>
