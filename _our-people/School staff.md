@@ -696,6 +696,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kwe Han Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chua Hwee Sang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -754,13 +765,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khairie Sufyan Mohamed Neezam</p>
+<p>Mr Seow Jia Shen, Shawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Trainer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khairie_sufyan_mohamed_neezam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairie_sufyan_mohamed_neezam@schools.gov.sg</a>
+<p><a href="mailto:seow_jia_shen_shawn@nanhuaps.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_jia_shen_shawn@nanhuaps.moe.edu.sg</a>
 </p>
 </td>
 </tr>
