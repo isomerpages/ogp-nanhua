@@ -17,15 +17,17 @@ variant: markdown
 <br>
 **Week 11:**
 <br>
-18/11/2024 - 22/11/2024
+20/11/2024 - 22/11/2024
 <br><br>
 **Clinic will be closed on**
 <br>**Week 8 :**
-<br>28/10/2024 to 01/11/2024 
+<br>28/10/2024 - 01/11/2024 
 <br>**Week 10 :**
-<br>11/11/2024 to 15/11/2024 
+<br>11/11/2024 - 15/11/2024 
+<br>**Week 11 :**
+<br>18/11/2024 - 19/11/2024
 <br>**Week 12 :**
-<br>25/11/2024 to 29/11/2024
+<br>25/11/2024 - 29/11/2024
 
 Pupils who require **urgent** dental treatment can contact the following school dental clinic for appointment. Please call to ensure that a dental staff is on duty before going to the clinic.
 
