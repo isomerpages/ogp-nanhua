@@ -44,9 +44,9 @@ For Parents:&nbsp;11:00 am to 01:00 pm&nbsp;and&nbsp;02:00 pm to 03:00 pm
 
 [P4 GEP Booklist 2025](/files/Booklist/2025/Primary_4__GEP__Booklist_Year_2025.pdf)
 
-[P5 Booklist 2025](/files/Booklist/2024/Primary_5_Booklist_Year_2025.pdf)
+[P5 Booklist 2025](/files/Booklist/2025/Primary_5_Booklist_Year_2025.pdf)
 
-[P5 FDN Booklist 2025](/files/Booklist/2024/Primary_5__FDN__Booklist_Year_2025.pdf)
+[P5 FDN Booklist 2025](/files/Booklist/2025/Primary_5__FDN__Booklist_Year_2025.pdf)
 
 [P5 GEP Booklist 2025](/files/Booklist/2025/Primary_5__GEP__Booklist_Year_2025.pdf)
 
