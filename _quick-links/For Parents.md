@@ -40,3 +40,11 @@ More information available on MOE's website:
 [Sexuality Education Programme 2024](https://drive.google.com/file/d/1pb52HxJCm_m5TDRJeCK8EyosEDkmvc9D/view)
 
 [Parents Opt-Out Form](/files/Application%20Forms/2024_SEd_Parents_Opt_Out_Form.pdf)
+
+
+# “和书一起飞”阅读计划（家长指引）
+[“和书一起飞”阅读计划_小一_家长指引（英文）](https://drive.google.com/file/d/1-iPOlW_RgYGPTnsg9f5bw_mg7zRz5v9B/view?usp=drive_link)
+
+[“和书一起飞”小图书 家长导读指引 (上）](https://drive.google.com/file/d/1CiFmAads0lR93gOLrjXttmcuZ2Zb6LUo/view?usp=drive_link)
+
+[“和书一起飞”小图书 家长导读指引 (下）](https://drive.google.com/file/d/1hzk7syLEDLND6L8OIKZAdeO7QtXBp1Sx/view?usp=drive_link)
