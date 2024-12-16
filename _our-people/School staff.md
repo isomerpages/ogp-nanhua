@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Sech Wee</p>
+<p>Mdm Jodie Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
@@ -725,18 +725,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Low Choi Lin (Christina)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SMC Clerical Support Staff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_choi_lin@nanhuaps.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_choi_lin@nanhuaps.moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
