@@ -799,7 +799,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Primary 1 2024</h2>
+<h2>Primary 1 - 2025</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -919,7 +919,7 @@ variant: tiptap
 <p>P1-E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koo Xi Yan</p>
+<p>Mrs Koo Xiyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koo_ong_xiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koo_ong_xiyan@schools.gov.sg</a>
@@ -1012,7 +1012,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Primary 2 2024</h2>
+<h2>Primary 2 - 2025</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1036,10 +1036,10 @@ variant: tiptap
 <p>P2-A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Pei Sin</p>
+<p>Mdm Long LiPing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_pei_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_sin@schools.gov.sg</a>
+<p><a href="mailto:long_liping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">long_liping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1048,22 +1048,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chua Fang</p>
+<p>Mdm Goh Mui Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheoh_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheoh_fang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Yong Kwang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_kwang@schools.gov.sg</a>
+<p><a href="mailto:goh_mui_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mui_gek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1072,10 +1060,10 @@ variant: tiptap
 <p>P2-B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teffany Chan</p>
+<p>Mrs Marie Young</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teffany_chia_mui_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teffany_chia_mui_leng@schools.gov.sg</a>
+<p><a href="mailto:hau_ee_ping_marie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hau_ee_ping_marie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1084,10 +1072,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Song Fang</p>
+<p>Mdm Shen Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:song_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">song_fang@schools.gov.sg</a>
+<p><a href="mailto:shen_rong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_rong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1096,10 +1084,10 @@ variant: tiptap
 <p>P2-C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Pei Hoon</p>
+<p>Miss Gao Xiaotong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_pei_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_pei_hoon@schools.gov.sg</a>
+<p><a href="mailto:gao_xiaotong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gao_xiaotong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1108,10 +1096,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Suhaily Bte Salam</p>
+<p>Madam Eunice Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suhaily_salam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaily_salam@schools.gov.sg</a>
+<p><a href="mailto:eunice_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1120,10 +1108,10 @@ variant: tiptap
 <p>P2-D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yvonne Ng</p>
+<p>Mrs Jolene Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_xin_yuan_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xin_yuan_yvonne@schools.gov.sg</a>
+<p><a href="mailto:cheah_li_ping_jolene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_ping_jolene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1132,10 +1120,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Jianguo</p>
+<p>Miss Stephanie Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_jianguo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jianguo@schools.gov.sg</a>
+<p><a href="mailto:ching_feng_qi_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ching_feng_qi_stephanie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1144,11 +1132,10 @@ variant: tiptap
 <p>P2-E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vithiya d/o Variyah</p>
+<p>Mrs Susan Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vithiya_variyah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vithiya_variyah@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1156,10 +1143,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Violet Ng</p>
+<p>Miss Tey Ker Hann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:violet_ng_hui_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">violet_ng_hui_zhi@schools.gov.sg</a>
+<p><a href="mailto:tey_ker_hann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ker_hann@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1168,10 +1155,10 @@ variant: tiptap
 <p>P2-F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Elizabeth Yang</p>
+<p>Mrs Vivien Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_hwee_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_hwee_eng@schools.gov.sg</a>
+<p><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yen_ling_vivien@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1180,11 +1167,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Hock Yen</p>
+<p>Ms Li Lingbo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_hock_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hock_yen@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1192,10 +1178,10 @@ variant: tiptap
 <p>P2-G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuratika</p>
+<p>Mrs Lai Peiling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuratika_azami@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuratika_azami@schools.gov.sg</a>
+<p><a href="mailto:wu_peiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_peiling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1204,10 +1190,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cho Yue Wai</p>
+<p>Miss Felicia Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cho_yue_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cho_yue_wai@schools.gov.sg</a>
+<p><a href="mailto:teo_sze_yin_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_yin_felicia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1216,10 +1202,10 @@ variant: tiptap
 <p>P2-H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sher Ong</p>
+<p>Miss Loo Lee Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chiew_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chiew_har@schools.gov.sg</a>
+<p><a href="mailto:loo_lee_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lee_fen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1228,16 +1214,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Heng Kim Fei Susan</p>
+<p>Mrs Cynthia Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_kim_fei_susan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_kim_fei_susan@schools.gov.sg</a>
+<p><a href="mailto:cynthia_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cynthia_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2>Primary 3 2024</h2>
+<h2>Primary 3 - 2025</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
