@@ -36,7 +36,7 @@ sections:
           link_text: Read More
           link_url: /cny-celebration/
   - infobar:
-      title: Traffic Management Plan 2024
+      title: Traffic Management Plan 2025
       subtitle: News and Updates
       description: School’s operating hours is from 0630 hrs to 1900 hrs on normal
         school days and during which specific gates will be accessible to
