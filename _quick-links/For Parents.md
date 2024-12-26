@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # Useful Information
-[Traffic Management Plan for Academic Year 2024](/trafficmanagementplan/)
+[Traffic Management Plan for Academic Year 2025](/trafficmanagementplan/)
 
 [Information on Primary School Transfer Service for Change of Address](/files/Information%20Sheets/Annex%20B%20-%20Information%20sheet%20for%20parents.pdf)
 
