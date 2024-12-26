@@ -149,3 +149,5 @@ For pedestrians entering via gate E, they should make use of the pedestrian cros
 * Follow traffic rules and drive safely
 * Pedestrians are to walk on footpaths and use only pedestrian gates to enter or exit the school
 * All visitors including parents to register at the security guard post to access school for official business, e.g. buying books /uniforms, meetings, fetching unwell students. They should not access school areas other than those permitted.
+
+*Information accurate as of 26/12/2024*
