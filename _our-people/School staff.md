@@ -154,6 +154,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Yaw Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_yaw_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yaw_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Neo Eng Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,18 +173,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_eng_yeow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_eng_yeow@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Wei Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD GEP (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wei_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_sheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -233,6 +233,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yen_ling_vivien@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (P1 - P3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -305,6 +317,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_gek_cheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_gek_cheng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Wei Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH GEP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wei_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_sheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1284,6 +1308,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Chien Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Chien_Nee_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Chien_Nee_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Hazel Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1407,7 +1443,8 @@ variant: tiptap
 <p>Ms Ng Yaw Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_yaw_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yaw_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
