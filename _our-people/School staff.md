@@ -176,7 +176,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Henry Phua Yong Xiang</p>
@@ -378,7 +377,6 @@ variant: tiptap
 <p>Email Address</p>
 </th>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Lai Yin</p>
@@ -913,6 +911,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_xiuqin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_xiuqin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Lai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_lai_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lai_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -2106,7 +2116,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Julie See</p>
