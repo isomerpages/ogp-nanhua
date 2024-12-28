@@ -1088,7 +1088,8 @@ variant: tiptap
 <p>Mrs Susan Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:heng_kim_fei_susan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_kim_fei_susan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
