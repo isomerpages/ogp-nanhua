@@ -1277,7 +1277,7 @@ variant: tiptap
 <p>Ms Hazel Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Hazel_Ong_Li_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hazel_Ong_Li_Ying@schools.gov.sg</a>
+<p><a href="mailto:hazel_ong_li_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hazel_ong_li_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
