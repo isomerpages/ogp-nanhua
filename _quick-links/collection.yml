@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents.md
+      - For Parents  家长资讯.md
       - For Students.md
       - For Staff.md
       - For Vendor/School Bus Service.md
