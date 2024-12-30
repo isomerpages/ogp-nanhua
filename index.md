@@ -10,14 +10,14 @@ sections:
       background: /images/HomePageHeroBanner_Slow.gif
       url: /contact-us/
       key_highlights:
-        - title: Traffic Management Plan 2025
+        - title: Traffic Management Plan 2025  交通管理计划2025
           description: ""
           url: /trafficmanagementplan/
-        - title: NHPS online art exhibition
+        - title: NHPS online art exhibition  南华线上艺术展
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
   - announcements:
-      title: Announcements
+      title: Announcements  学校公告
       id: announcements
       announcement_items:
         - title: Former students visiting NHPS on Teachers' Day, 29 August 2024
