@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Information  学校信息/.keep
-      - School Information  学校信息/A Century of Nan Hua.md
+      - School Information  学校信息/A Century of Nan Hua 南华百年.md
       - School Information  学校信息/Symbol of Heritage.md
       - School Information  学校信息/School Vision & Mission.md
       - School Information  学校信息/School Motto.md
