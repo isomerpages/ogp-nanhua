@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Location  学校地址.md
-      - School Bus.md
+      - School Bus  校车服务.md
       - School Uniform.md
       - School Bookshop.md
       - School Dental Clinic.md
