@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - School Management Committee  学校董事会.md
-      - School staff.md
+      - School staff  教职人员.md
       - Alumni.md
       - ParentConnect.md
