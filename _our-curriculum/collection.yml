@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Curriculum Philosophy.md
+      - Curriculum Philosophy  课程理念.md
       - Key Programmes/.keep
       - Key Programmes/Applied Learning Programme.md
       - Key Programmes/Learning for Life Programme.md
