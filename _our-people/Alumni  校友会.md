@@ -4,5 +4,6 @@ permalink: /our-people/alumni/
 description: ""
 variant: tiptap
 ---
-layout: redirect
-    redirect_to: "https://www.nhpsalumni.org.sg/"
+<pre><code class="language-yaml">layout: redirect
+redirect_to: "https://www.nhpsalumni.org.sg/"</code></pre>
+<p></p>
