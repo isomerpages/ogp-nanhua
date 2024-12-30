@@ -6,8 +6,6 @@ variant: markdown
 ---
 
 
-
-		
 		<title>Redirect to NHPS Alumni</title>
 
 
