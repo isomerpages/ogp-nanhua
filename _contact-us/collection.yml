@@ -2,10 +2,10 @@ collections:
   contact-us:
     output: true
     order:
-      - School Location.md
-      - School Bus.md
-      - School Uniform.md
-      - School Bookshop.md
-      - School Dental Clinic.md
-      - School Student Care.md
-      - FAQs.md
+      - School Location  学校地址.md
+      - School Bus  校车服务.md
+      - School Uniform  校服服务.md
+      - School Bookshop  书店服务.md
+      - School Dental Clinic  牙医诊所服务.md
+      - School Student Care  学校学生托管中心.md
+      - FAQs  问答区.md

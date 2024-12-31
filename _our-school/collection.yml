@@ -2,19 +2,19 @@ collections:
   our-school:
     output: true
     order:
-      - School Information/.keep
-      - School Information/A Century of Nan Hua.md
-      - School Information/Symbol of Heritage.md
-      - School Information/School Vision & Mission.md
-      - School Information/School Motto.md
-      - School Information/School Crest.md
-      - School Information/School Song.md
-      - School Information/School Rules & Regulations.md
-      - School Information/SMC Non Financial Information.md
-      - Admissions/.keep
-      - Admissions/Admissions.md
-      - Admissions/P1 Registration.md
-      - Admissions/School Vacancies by Phases.md
-      - Admissions/Direct School Admissions.md
-      - Admissions/Parent Volunteer Scheme.md
-      - Admissions/Wait list Application.md
+      - School Information  学校信息/.keep
+      - School Information  学校信息/A Century of Nan Hua  南华百年.md
+      - School Information  学校信息/Symbol of School Heritage  学校文物象征.md
+      - School Information  学校信息/School Vision & Mission  学校愿景和使命.md
+      - School Information  学校信息/School Motto  校训.md
+      - School Information  学校信息/School Crest  校徽.md
+      - School Information  学校信息/School Song  校歌.md
+      - School Information  学校信息/School Rules & Regulations  校规.md
+      - School Information  学校信息/SMC Non Financial Information  学校董事会非财务信息.md
+      - Admissions 入学资讯/.keep
+      - Admissions 入学资讯/Admissions  入学资讯.md
+      - Admissions 入学资讯/P1 Registration  小一新生报名.md
+      - Admissions 入学资讯/School Vacancies by Phases  学校阶段学额.md
+      - Admissions 入学资讯/Direct School Admissions  直接招生计划.md
+      - Admissions 入学资讯/Parent Volunteer Scheme  家长义工计划.md
+      - Admissions 入学资讯/Wait list Application  等候名单申请.md
