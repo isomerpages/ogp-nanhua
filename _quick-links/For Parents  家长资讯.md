@@ -26,7 +26,7 @@ If you do not meet the income criteria for the MOE Financial Assistance Scheme (
 3. [Updating of student's official address](/files/Application%20Forms/Request%20Form%20For%20Updating%20of%20Student%20Address-Annex%201B2%20-%202019.pdf)  _(updated on 15th October 2019)_
 
 
-4. [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](/files/Application%20Forms/Product_Fact_Sheet__Year_2024_May__Revised.pdf) (Under NTUC Income Insurance Co-Operative Ltd) ****updated on 9th May 2024***
+4. [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](/files/Application%20Forms/Product_Fact_Sheet__Year_2024_May__Revised.pdf) (Under NTUC Income Insurance Co-Operative Ltd) ****updated on 2 January 2025***
 
 5. [DigitalAccess@Home - Infocomm Media Development Authority (imda.gov.sg)](https://www.imda.gov.sg/dah)
 
