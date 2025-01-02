@@ -241,7 +241,7 @@ variant: tiptap
 <p>Miss Lim Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (P1 - P3)</p>
+<p>Asst Year Head (P4 - P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lin@schools.gov.sg</a>
