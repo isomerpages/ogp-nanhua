@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 <p><strong>➡ 14 Jan 2025 to 17 Jan 2025</strong>
 </p>
-<p><strong>➡ 27 Jan 2025 to 27 Jan 2025</strong>
+<p><strong>➡ 27 Jan 2025 to 28 Jan 2025</strong>
 </p>
 <p><strong>➡ 31 Jan 2025</strong>
 </p>
