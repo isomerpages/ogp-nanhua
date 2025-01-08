@@ -682,6 +682,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Zarina Binte Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jeannie Ong</p>
 </td>
 <td rowspan="1" colspan="1">
