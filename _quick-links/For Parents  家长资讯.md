@@ -39,7 +39,7 @@ More information available on MOE's website:
 # Sexuality Education
 [Sexuality Education Programme 2025](/files/Application%20Forms/2025_Info_on_SEd_for_schs_website.pdf)
 
-[Parents Opt-Out Form](https://form.gov.sg/677e37d772fecec93095e2d0)
+[Parent Opt-out Form](https://form.gov.sg/677e37d772fecec93095e2d0)
 
 
 # “和书一起飞”阅读计划（家长指引）
