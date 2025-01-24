@@ -20,8 +20,8 @@ sections:
       title: Announcements  学校公告
       id: announcements
       announcement_items:
-        - title: Former students visiting NHPS on Teachers' Day, 29 August 2024
-          date: 23 August 2024
+        - title: Former students visiting NHPS on CNY's eve, 28 Jan 2025
+          date: 24 January 2025
           announcement: Please click on the following click for more information
           link_text: More Information
           link_url: /teachers-day-2024/
