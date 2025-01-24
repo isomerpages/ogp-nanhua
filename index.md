@@ -24,7 +24,7 @@ sections:
           date: 24 January 2025
           announcement: Please click on the following click for more information
           link_text: More Information
-          link_url: /teachers-day-2024/
+          link_url: /chinese-new-year-2025/
   - infobar:
       title: Traffic Management Plan 2025
       subtitle: News and Updates
