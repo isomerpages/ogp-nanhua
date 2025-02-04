@@ -55,22 +55,22 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Clinic opens on</h5>
-<p><strong>➡ 3 Jan 2025</strong>
+<p><strong>➡ 10 Feb 2025 to 12 Feb 2025</strong>
 </p>
-<p><strong>➡ 14 Jan 2025 to 17 Jan 2025</strong>
+<p><strong>➡ 14 Feb 2025</strong>
 </p>
-<p><strong>➡ 27 Jan 2025 to 28 Jan 2025</strong>
+<p><strong>➡ 24 Feb 2025 to 26 Feb 2025</strong>
 </p>
-<p><strong>➡ 31 Jan 2025</strong>
+<p><strong>➡ 27 Feb 2025 (8am - 11am)</strong>
+</p>
+<p><strong>➡ 28 Feb 2025 (8am - 12pm)</strong>
 </p>
 <h5>Clinic will be closed from</h5>
-<p><strong>➡ 6 Jan 2025 to 10 Jan 2025</strong>
+<p><strong>➡ 3 Feb 2025 to 7 Feb 2025</strong>
 </p>
-<p><strong>➡ 13 Jan 2025</strong>
+<p><strong>➡ 13 Feb 2025</strong>
 </p>
-<p><strong>➡ 20 Jan 2025 to 24 Jan 2025</strong>
-</p>
-<p><strong>➡ 29 Jan 2025 to 30 Jan 2025</strong>
+<p><strong>➡ 17 Feb 2025 to 21 Feb 2025</strong>
 </p>
 <p></p>
 <p>Pupils who require <strong>urgent</strong> dental treatment can contact

@@ -2,7 +2,7 @@
 title: FAQs  问答区
 permalink: /contact-us/faqs/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 1.  **How do I register my child/ward for Primary One?**
     
@@ -40,7 +40,7 @@ To apply for NHPS Alumni member, the application form can be downloaded from the
     
       
     
-For more information on Nan Hua Primary School Alumni Association, please refer to: [http://nhpsalumni.org.sg/](http://nhpsalumni.org.sg/).
+For more information on Nan Hua Primary School Alumni Association, please refer to: [https://www.nhpsalumni.org.sg/](https://www.nhpsalumni.org.sg/).
     
       
     

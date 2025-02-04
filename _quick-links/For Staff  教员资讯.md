@@ -2,14 +2,13 @@
 title: For Staff  教员资讯
 permalink: /quick-links/for-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 [HRP](https://www.hrp.gov.sg/)  
 [MOE HR Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)  
 [MIMS Password Reset](https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?%20forceAuth=TRUE&logoutURL=https://portal.mims.moe.gov.sg/AGLogout)  
 [MOE Intranet Application](https://intranet.moe.gov.sg/Pages/Home.aspx)  
 [MOE iEXAMS2](https://iexams.seab.gov.sg/login)  
-[MOE mCARE 2.0](https://mcare.moe.gov.sg/)  
 [MOE OPAL 2.0](https://opal2.moe.edu.sg/)  
 [MOE Parents Gateway](https://pg.moe.edu.sg/)  
 [MOE SC Mobile](https://scmobile.moe.edu.sg/)  
