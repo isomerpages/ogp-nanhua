@@ -134,6 +134,7 @@ that a dental staff is on duty before going to the clinic.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Email address : </strong><a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
 <p><em>Clinic opening days are subject to changes. We are sorry for any inconvenience caused during the closure.</em>
 </p>
