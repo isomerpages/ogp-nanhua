@@ -55,22 +55,24 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Clinic opens on</h5>
-<p><strong>➡ 10 Feb 2025 to 12 Feb 2025</strong>
+<p><strong>➡ 10 March 2025 - 14 March 2025</strong>
 </p>
-<p><strong>➡ 14 Feb 2025</strong>
+<p><strong>➡ 10 March 2025 (8am - 12pm)</strong>
 </p>
-<p><strong>➡ 24 Feb 2025 to 26 Feb 2025</strong>
+<p><strong>➡ 12 March 2025 (8am - 10am)</strong>
 </p>
-<p><strong>➡ 27 Feb 2025 (8am - 11am)</strong>
+<p></p>
+<p><strong>➡ 24 March 2025 - 28 March 2025</strong>
 </p>
-<p><strong>➡ 28 Feb 2025 (8am - 12pm)</strong>
+<p><strong>➡ 27 March 2025 (8am - 1pm)</strong>
 </p>
+<p></p>
 <h5>Clinic will be closed from</h5>
-<p><strong>➡ 3 Feb 2025 to 7 Feb 2025</strong>
+<p><strong>➡ 3 March 2025 to 7 March 2025</strong>
 </p>
-<p><strong>➡ 13 Feb 2025</strong>
+<p><strong>➡ 17 March 2025 to 21 March 2025</strong>
 </p>
-<p><strong>➡ 17 Feb 2025 to 21 Feb 2025</strong>
+<p><strong>➡ 31 March 2025 to 4 April 2025</strong>
 </p>
 <p></p>
 <p>Pupils who require <strong>urgent</strong> dental treatment can contact
@@ -99,14 +101,13 @@ that a dental staff is on duty before going to the clinic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boon Lay Garden Primary School</p>
+<p>Xingnan Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Boon Lay Dr,</p>
-<p>Singapore 649930</p>
+<p>5 Jurong West Street 91, Singapore 649036</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91141896</p>
+<p>98326884</p>
 </td>
 </tr>
 <tr>
@@ -122,16 +123,18 @@ that a dental staff is on duty before going to the clinic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fuhua Primary School</p>
+<p>Jurong Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65 Jurong East Street 13, Singapore 609647</p>
+<p>320 Jurong East Street 32 Singapore 609476</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>98379967</p>
+<p>91148918</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>Email address : </strong><a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
 <p><em>Clinic opening days are subject to changes. We are sorry for any inconvenience caused during the closure.</em>
 </p>
