@@ -101,14 +101,13 @@ that a dental staff is on duty before going to the clinic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boon Lay Garden Primary School</p>
+<p>Xingnan Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Boon Lay Dr,</p>
-<p>Singapore 649930</p>
+<p>5 Jurong West Street 91, Singapore 649036</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>91141896</p>
+<p>98326884</p>
 </td>
 </tr>
 <tr>
@@ -124,16 +123,17 @@ that a dental staff is on duty before going to the clinic.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fuhua Primary School</p>
+<p>Jurong Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65 Jurong East Street 13, Singapore 609647</p>
+<p>320 Jurong East Street 32 Singapore 609476</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>98379967</p>
+<p>91148918</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><em>Clinic opening days are subject to changes. We are sorry for any inconvenience caused during the closure.</em>
 </p>
