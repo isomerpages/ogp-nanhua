@@ -1261,18 +1261,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fu Yinghui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fu_yinghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fu_yinghui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hazel Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1691,6 +1679,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ai_foon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_foon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Anishar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anishar_chinthamathar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anishar_chinthamathar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -2146,30 +2146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nabilah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nabilah_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nabilah_othman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Chien Nee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chien_nee_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chien_nee_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Xie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2206,18 +2182,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Chia Cheng Kuen Lydia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_cheng_kuen_lydia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_cheng_kuen_lydia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ng Leh See</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2236,7 +2200,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:audrey_loh_sok_mun_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_loh_sok_mun_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2259,7 +2224,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kee_wui_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kee_wui_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
