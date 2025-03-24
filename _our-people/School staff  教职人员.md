@@ -286,18 +286,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fu Yinghui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fu_yinghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fu_yinghui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lin Pei-Jing</p>
 </td>
 <td rowspan="1" colspan="1">
