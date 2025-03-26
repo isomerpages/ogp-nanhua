@@ -2230,7 +2230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Yoke Cheng</p>
+<p>Ms Lee Yoke Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -2242,7 +2242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Firhad Bin Rahani</p>
+<p>Mr Firhad Bin Rahani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -2282,6 +2282,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sheena_tan_yi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheena_tan_yi_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chrissa Toh Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chrissa_toh_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chrissa_toh_xin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
