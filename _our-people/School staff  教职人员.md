@@ -681,6 +681,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Seng Yeok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMC Clerk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_seng_yeok@nanhuaps.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_seng_yeok@nanhuaps.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jeannie Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -701,6 +713,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lkweehio@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">lkweehio@staff.spydus.com.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Margaret Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1643,18 +1666,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_pei-jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_pei-jing@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chan Jing Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_jing_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jing_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
