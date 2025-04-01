@@ -1674,18 +1674,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan Jing Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_jing_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jing_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Lee Ai Foon</p>
 </td>
 <td rowspan="1" colspan="1">
