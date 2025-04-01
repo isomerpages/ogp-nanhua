@@ -681,6 +681,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Seng Yeok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMC Clerk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_seng_yeok@nanhuaps.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_seng_yeok@nanhuaps.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jeannie Ong</p>
 </td>
 <td rowspan="1" colspan="1">
