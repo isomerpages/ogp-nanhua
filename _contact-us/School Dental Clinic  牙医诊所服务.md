@@ -55,25 +55,23 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Clinic opens on</h5>
-<p><strong>➡ 10 March 2025 (8am - 1pm)</strong>
+<p><strong>➡ 7 April 2025 - 9 April 2025</strong>
 </p>
-<p><strong>➡ 11,13,14 March 2025</strong>
+<p><strong>➡ 11 April 2025</strong>
 </p>
-<p></p>
-<p><strong>➡ 24 March 2025 - 28 March 2025</strong>
-</p>
-<p><strong>➡ 27 March 2025 (8am - 1pm)</strong>
+<p><strong>➡ 21 April 2025 - 25 April 2025</strong>
 </p>
 <p></p>
 <h5>Clinic will be closed from</h5>
-<p><strong>➡ 3 March 2025 to 7 March 2025</strong>
+<p><strong>➡ 1 April 2025 - 4 April 2025</strong>
 </p>
-<p><strong>➡ 12 March 2025</strong>
+<p><strong>➡ 10 April 2025</strong>
 </p>
-<p><strong>➡ 17 March 2025 to 21 March 2025</strong>
+<p><strong>➡14 April 2025 - 18 April 2025</strong>
 </p>
-<p><strong>➡ 31 March 2025 to 4 April 2025</strong>
+<p><strong>➡ 28 April 2025 - 30 April 2025</strong>
 </p>
+<p></p>
 <p></p>
 <p>Pupils who require <strong>urgent</strong> dental treatment can contact
 the following school dental clinic for appointment. Please call to ensure
