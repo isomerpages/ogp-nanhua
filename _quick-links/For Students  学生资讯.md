@@ -42,9 +42,7 @@ Student Learning Space
 Some tips on Developing Study Skills
 15. [https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
 Parent Kit – Cyber Wellness for Your Child
-16. [https://www.betterinternet.sg](https://www.betterinternet.sg)
-Some tips on Media Literacy
-17. [www.nlb.gov.sg](www.nlb.gov.sg)
+16. [www.nlb.gov.sg](www.nlb.gov.sg)
 National Library Board Website
 
 
