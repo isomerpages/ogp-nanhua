@@ -18,7 +18,7 @@ For more information on the Primary One Registration Exercise, please refer to t
     
       
     
-To download the application form and more information on process, please refer to the school website: [Parent Volunteer Scheme](/our-school/admissions/parent-volunteer-scheme)
+To download the application form and more information on process, please refer to the school website: [Parent Volunteer Scheme](/our-school/school-information/parent-volunteer-scheme/)
     
       
     
@@ -31,7 +31,7 @@ For more information on the eligibility of phases for the Primary One registrati
     
 Yes, our parent support group is called “ParentConnect”.
     
-If you are interested to join our parent support group, please download the [application form](/files/application%20forms/Parent%20Connect%20Application%20Form.pdf), complete and submit it to the General Office.
+If you are interested to join our parent support group, please download the [application form](/files/Application%20Forms/Parent%20Connect%20Application%20Form.pdf), complete and submit it to the General Office.
 
 **4.  How do I become a member of the Nan Hua Primary School Alumni?**
     
