@@ -55,22 +55,21 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Clinic opens on</h5>
-<p><strong>➡ 7 April 2025 - 9 April 2025</strong>
+<p><strong>➡ 6 May 2025, 8 May 2025, 9 May 2025</strong>
 </p>
-<p><strong>➡ 11 April 2025</strong>
-</p>
-<p><strong>➡ 21 April 2025 - 25 April 2025</strong>
+<p><strong>➡ 19 May 2025 - 23 May 2025</strong>
 </p>
 <p></p>
 <h5>Clinic will be closed from</h5>
-<p><strong>➡ 1 April 2025 - 4 April 2025</strong>
+<p><strong>➡ 1 May 2025, 2 May 2025</strong>
 </p>
-<p><strong>➡ 10 April 2025</strong>
+<p><strong>➡ 5 May 2025, 7 May 2025</strong>
 </p>
-<p><strong>➡14 April 2025 - 18 April 2025</strong>
+<p><strong>➡ 12 May 2025 - 16 May 2025</strong>
 </p>
-<p><strong>➡ 28 April 2025 - 30 April 2025</strong>
+<p><strong>➡ 26 May 2025 - 30 May 2025</strong>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p>Pupils who require <strong>urgent</strong> dental treatment can contact

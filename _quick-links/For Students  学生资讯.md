@@ -59,11 +59,12 @@ Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-hel
 
 ### \- *Requirements to run SLS*
 
-[https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html)
+[https://www.learning.moe.edu.sg/students/password-and-technical-support/#Technical%20Issues:~:text=Operating%20System,Browsers](https://www.learning.moe.edu.sg/students/password-and-technical-support/#Technical%20Issues:~:text=Operating%20System,Browsers)
+
 
 ### \- *SLS Login issues for students*
 
-[https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
+[https://www.learning.moe.edu.sg/students/password-and-technical-support/#Technical%20Issues:~:text=Password%20%26%20Technical%20Support-,Password%20Issues,-Can%20students%20change](https://www.learning.moe.edu.sg/students/password-and-technical-support/#Technical%20Issues:~:text=Password%20%26%20Technical%20Support-,Password%20Issues,-Can%20students%20change)
 
 
 **Video Conferencing Platforms**
