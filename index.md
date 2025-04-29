@@ -16,6 +16,9 @@ sections:
         - title: NHPS online art exhibition  南华线上艺术展
           description: Children often express their..
           url: https://for.edu.sg/nhps-artexhibition
+        - title: NHPS Helpdesk
+          description: Reset Password for SLS or MIMS
+          url: https://go.gov.sg/nhps-helpdesk
   - announcements:
       title: Announcements  学校公告
       id: announcements
