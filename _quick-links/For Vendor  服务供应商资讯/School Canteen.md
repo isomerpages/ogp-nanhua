@@ -47,7 +47,8 @@ as requested by the school.</p>
 <h3>Application Procedure</h3>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p></p>
+<p><a href="/files/School Canteen/application form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
