@@ -511,7 +511,7 @@ variant: tiptap
 <p>Mr Kwek Soon Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Cluster ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwek_soon_cheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_soon_cheong@schools.gov.sg</a>
