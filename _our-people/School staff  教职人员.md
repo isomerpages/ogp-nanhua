@@ -1821,11 +1821,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Madam Siti Sakinah</p>
+<p>Mdm Siti Sakinah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_sakinah_mohamed_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sakinah_mohamed_jaffar@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shawn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2062,6 +2073,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_ai_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ai_lian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Audrey Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:audrey_loh_sok_mun_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_loh_sok_mun_a@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
