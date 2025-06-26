@@ -1084,6 +1084,20 @@ variant: tiptap
 <p>P2-E</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p>Miss Tey Ker Hann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="mailto:tey_ker_hann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ker_hann@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Susan Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1096,10 +1110,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tey Ker Hann</p>
+<p>Mdm Aw Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tey_ker_hann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ker_hann@schools.gov.sg</a>
+<p><a href="mailto:Aw_Yong_Wai_Leng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aw_Yong_Wai_Leng_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1108,10 +1122,10 @@ variant: tiptap
 <p>P2-F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vivien Tan</p>
+<p>Mdm Li Lingbo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yen_ling_vivien@schools.gov.sg</a>
+<p><a href="mailto:li_lingbo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_lingbo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1120,10 +1134,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Lingbo</p>
+<p>Mrs Vivien Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_lingbo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_lingbo@schools.gov.sg</a>
+<p><a href="mailto:yu_yen_ling_vivien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yen_ling_vivien@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1156,7 +1170,7 @@ variant: tiptap
 <p>P2-H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Loo Lee Fen</p>
+<p>Mdm Loo Lee Fen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loo_lee_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lee_fen@schools.gov.sg</a>
@@ -1173,6 +1187,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cynthia_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cynthia_tan@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Thomas Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
