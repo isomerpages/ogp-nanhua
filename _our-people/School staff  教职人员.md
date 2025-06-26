@@ -1488,7 +1488,7 @@ variant: tiptap
 <p>P4-A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Chang</p>
+<p>Mdm Li Chang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_chang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_chang@schools.gov.sg</a>
@@ -1536,7 +1536,7 @@ variant: tiptap
 <p>P4-C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Madam Wendy Ng</p>
+<p>Mdm Wendy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wai_fung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wai_fung@schools.gov.sg</a>
