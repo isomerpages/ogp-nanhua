@@ -2231,18 +2231,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Xie Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xie_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Caroline Lily Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2262,18 +2250,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kao_horng_yih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kao_horng_yih@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Leh See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_leh_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_leh_see@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -2334,18 +2310,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_Yoke_Cheng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Yoke_Cheng_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Firhad Bin Rahani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Firhad_Rohani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Firhad_Rohani@schools.gov.sg</a>
 </p>
 </td>
 </tr>
