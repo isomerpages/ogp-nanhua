@@ -1250,6 +1250,18 @@ variant: tiptap
 <p>P3-A</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Ng Pei Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_pei_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_sin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Jacquelyn Yin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1262,10 +1274,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Pei Sin</p>
+<p>Mdm Joanna Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_pei_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_sin@schools.gov.sg</a>
+<p><a href="mailto:Joanna_Jael_Chen_Qiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joanna_Jael_Chen_Qiu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1274,10 +1286,10 @@ variant: tiptap
 <p>P3-B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Foo</p>
+<p>Mrs Goh Lai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_foo_jie_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_foo_jie_lin@schools.gov.sg</a>
+<p><a href="mailto:tan_lai_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lai_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1287,10 +1299,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Lai Peng</p>
+<p>Ms Nicole Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lai_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lai_peng@schools.gov.sg</a>
+<p><a href="mailto:nicole_foo_jie_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_foo_jie_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1395,7 +1407,7 @@ variant: tiptap
 <p>P3-G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuratika</p>
+<p>Ms Nuratika</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuratika_azami@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuratika_azami@schools.gov.sg</a>
@@ -1419,10 +1431,10 @@ variant: tiptap
 <p>P3-H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Ling</p>
+<p>Ms Sheena Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_hong_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_hong_grace@schools.gov.sg</a>
+<p><a href="mailto:poh_shao_qin_sheena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_shao_qin_sheena@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1435,6 +1447,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yaw_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yaw_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Grace Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_li_hong_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_hong_grace@schools.gov.sg</a>
 </p>
 </td>
 </tr>
