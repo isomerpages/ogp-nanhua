@@ -1072,7 +1072,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Stephanie Ching</p>
+<p>Ms Stephanie Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ching_feng_qi_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ching_feng_qi_stephanie@schools.gov.sg</a>
