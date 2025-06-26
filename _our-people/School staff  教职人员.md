@@ -1226,7 +1226,19 @@ variant: tiptap
 <p>P3-A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Pei Sin</p>
+<p>Mdm Jacquelyn Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Jacquelyn_Yin_Hui_Jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jacquelyn_Yin_Hui_Jing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Pei Sin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_pei_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_sin@schools.gov.sg</a>
@@ -1235,37 +1247,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P3-B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Yong Kwang</p>
+<p>Ms Nicole Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_kwang@schools.gov.sg</a>
+<p><a href="mailto:nicole_foo_jie_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_foo_jie_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3-B</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Goh Lai Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lai_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lai_peng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nicole Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_foo_jie_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_foo_jie_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
