@@ -1220,7 +1220,8 @@ variant: tiptap
 <p>Mr Thomas Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:thomas_lim_kok_tiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thomas_lim_kok_tiong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
