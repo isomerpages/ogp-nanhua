@@ -1190,6 +1190,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Evelyn Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Evelyn_Ho_Kit_Yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_Ho_Kit_Yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P2-H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1407,7 +1419,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Caroline Lily Tan</p>
+<p>Ms Caroline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:caroline_lily_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_lily_tan@schools.gov.sg</a>
