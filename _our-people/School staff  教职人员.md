@@ -1860,7 +1860,8 @@ variant: tiptap
 <p>Mr Shawn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_junyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junyuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
