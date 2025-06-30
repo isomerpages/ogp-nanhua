@@ -55,23 +55,21 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Clinic opens on</h5>
-<p><strong>➡ 18 June 2025 - 19 June 2025 (8am - 12pm)</strong>
+<p><strong>➡30 June 2025</strong>
 </p>
-<p><strong>➡ 20 June 2025</strong>
+<p><strong>➡ 14 July 2025 - 16 July 2025, 18 July 2025</strong>
 </p>
-<p><strong>➡ 30 June 2025</strong>
+<p><strong>➡ 28 July 2025 - 31 July 2025</strong>
 </p>
 <p></p>
 <h5>Clinic will be closed from</h5>
-<p><strong>➡ 26 May 2025 - 30 May 2025</strong>
+<p><strong>➡ 1 July 2025 - 4 July 2025</strong>
 </p>
-<p><strong>➡ 2 June 2025 - 6 June 2025</strong>
+<p><strong>➡ 7 July 2025 - 11 July 2025</strong>
 </p>
-<p><strong>➡ 9 June 2025 - 13 June 2025</strong>
+<p><strong>➡ 1 7 July 2025</strong>
 </p>
-<p><strong>➡ 16 June 2025 - 17 June 2025</strong>
-</p>
-<p><strong>➡ 23 June 2025 - 27 June 2025</strong>
+<p><strong>➡21 July 2025 - 25 July 2025</strong>
 </p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
@@ -96,26 +94,26 @@ call one of the following BUDDY clinics for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rulang Primary School</p>
+<p>Xingnan Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9115 6053</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporation Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9114 4558</p>
+<p>9832 6884</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUS High School (Mobile Dental Clinic 30)</p>
+<p>Clementi Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9270 7789</p>
+<p>9114 3781</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jurong Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9114 8918</p>
 </td>
 </tr>
 </tbody>
