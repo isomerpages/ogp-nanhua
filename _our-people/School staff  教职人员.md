@@ -379,6 +379,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Thomas Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thomas_lim_kok_tiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thomas_lim_kok_tiong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ho Kit Mun Julia</p>
 </td>
 <td rowspan="1" colspan="1">
