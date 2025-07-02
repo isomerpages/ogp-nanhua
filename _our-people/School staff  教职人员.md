@@ -801,7 +801,8 @@ variant: tiptap
 <p>Mdm Ng Chien Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_chien_nee_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chien_nee_c@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2350,6 +2351,42 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shawn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_junyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junyuan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Chien Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chien_nee_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chien_nee_c@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Grace Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_li_hong_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_hong_grace@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>AEDs</h2>
@@ -2400,7 +2437,7 @@ variant: tiptap
 <p>Mr Herbert Goh Guang Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs (SEN) Officer</p>
+<p>Senior Special Educational Needs (SEN) Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:herbert_goh_guang_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">herbert_goh_guang_yang@schools.gov.sg</a>
