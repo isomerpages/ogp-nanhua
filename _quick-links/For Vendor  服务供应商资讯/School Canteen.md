@@ -29,7 +29,7 @@ third_nav_title: For Vendor  服务供应商资讯
 <p>Chinese Fried Noodles &amp; Congee Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 June 2025</p>
+<p>18 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
