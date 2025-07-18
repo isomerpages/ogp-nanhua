@@ -2269,42 +2269,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Caroline Lily Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:caroline_lily_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_lily_tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kao Horng Yih</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kao_horng_yih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kao_horng_yih@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Audrey Loh Sok Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:audrey_loh_sok_mun_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_loh_sok_mun_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wei Nan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2329,18 +2293,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Jael Chen Qiu Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Joanna_Jael_Chen_Qiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joanna_Jael_Chen_Qiu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Yoke Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2348,42 +2300,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_Yoke_Cheng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Yoke_Cheng_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shawn Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_junyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junyuan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Chien Nee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chien_nee_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chien_nee_c@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Grace Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_hong_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_hong_grace@schools.gov.sg</a>
 </p>
 </td>
 </tr>
