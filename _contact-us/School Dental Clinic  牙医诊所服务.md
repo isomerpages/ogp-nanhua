@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dental Therapist:&nbsp;</p>
+<p>Dental :&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Ying Jia&nbsp;</p>
@@ -54,23 +54,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Clinic opens on</h5>
-<p><strong>➡30 June 2025</strong>
-</p>
-<p><strong>➡ 14 July 2025 - 16 July 2025, 18 July 2025</strong>
-</p>
-<p><strong>➡ 28 July 2025 - 31 July 2025</strong>
-</p>
 <p></p>
-<h5>Clinic will be closed from</h5>
-<p><strong>➡ 1 July 2025 - 4 July 2025</strong>
-</p>
-<p><strong>➡ 7 July 2025 - 11 July 2025</strong>
-</p>
-<p><strong>➡ 1 7 July 2025</strong>
-</p>
-<p><strong>➡21 July 2025 - 25 July 2025</strong>
-</p>
+<h4>Dental Clinic Schedule for August 2025</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_01_141345.png">
+</div>
+<p></p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
 call one of the following BUDDY clinics for assistance.</p>
