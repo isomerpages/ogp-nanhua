@@ -2338,18 +2338,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chrissa Toh Xin Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chrissa_toh_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chrissa_toh_xin_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Herbert Goh Guang Yang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2382,6 +2370,29 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_amani_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amani_ahmad@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faith Chee Yan Ni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Faith_Chee_Yan_Ni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Faith_Chee_Yan_Ni@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti 'Aishah Binte Suhaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
