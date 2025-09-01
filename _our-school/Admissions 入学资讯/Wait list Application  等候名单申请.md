@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Admissions 入学资讯
 variant: markdown
 ---
-**For AY2026**
+**For AY2025 & AY2026**
 
 To apply, please click **[here](https://go.gov.sg/nhps-wl)**
 
