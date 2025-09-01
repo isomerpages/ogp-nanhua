@@ -22,7 +22,7 @@ Submit PV application via online form (<a href="https://go.gov.sg/nhps-pv" targe
 <tr>
 <td colspan="4" style="text-align: center; padding: 10px;">
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-Parent Volunteer applications (for children born<br> between 2 Jan 2020 to 1 Jan 2021 (both dates inclusive)) will be closed by 31 Mar 2025
+Parent Volunteer applications (for children born<br> between 2 Jan 2021 to 1 Jan 2022 (both dates inclusive)) will be closed by 31 Mar 2026
 </div>
 ↓
 </td>  
@@ -38,7 +38,7 @@ Parents will receive automated acknowledgement
 <tr>
 <td colspan="4" style="text-align: center; padding: 10px;">
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-School conducts short-listing process. <span style="font-weight: normal;"><u>Only shortlisted applicants<br> will be notified and invited for an interview by 30 June 2025</u></span>
+School conducts short-listing process. <span style="font-weight: normal;"><u>Only shortlisted applicants<br> will be notified and invited for an interview by 30 June 2026</u></span>
 </div>
 ↓
 </td>  
@@ -72,7 +72,7 @@ To be notified and<br> commence service
 </td>
 <td colspan="2" style="padding: 10px;">
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
-To be notified by 30 June<br> 2025
+To be notified by 30 June<br> 2026
 </div>
 </td>
 </tr>
