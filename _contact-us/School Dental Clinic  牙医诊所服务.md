@@ -55,12 +55,11 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Dental Clinic Schedule for August 2025</h4>
+<h4>Dental Clinic Schedule for September 2025</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_01_141345.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dental_Clinic___September.png">
 </div>
-<p></p>
 <p></p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
 call one of the following BUDDY clinics for assistance.</p>
