@@ -28,6 +28,11 @@ sections:
           announcement: Please click on the following link for more information
           link_text: More Information
           link_url: /nhps-teachers-day-celebration/
+        - title: "Notice: General Office Early Closure"
+          date: 04 September 2025
+          announcement: Our General Office will be closed at 5.00pm on 4 and 5 September 2025
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Traffic Management Plan 2025
       subtitle: News and Updates
