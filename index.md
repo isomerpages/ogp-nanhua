@@ -23,11 +23,16 @@ sections:
       title: Announcements  学校公告
       id: announcements
       announcement_items:
-        - title: Former students visiting NHPS on CNY's eve, 28 Jan 2025
-          date: 24 January 2025
+        - title: Former students visiting NHPS on Teacher's Day, 4 Sept 2025
+          date: 02 September 2025
           announcement: Please click on the following link for more information
           link_text: More Information
-          link_url: /chinese-new-year-2025/
+          link_url: /nhps-teachers-day-celebration/
+        - title: "Notice: General Office Early Closure"
+          date: 04 September 2025
+          announcement: Our General Office will be closed at 5.00pm on 4 and 5 September 2025
+          link_text: ""
+          link_url: ""
   - infobar:
       title: Traffic Management Plan 2025
       subtitle: News and Updates
