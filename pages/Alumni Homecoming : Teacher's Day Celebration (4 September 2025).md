@@ -26,9 +26,7 @@ Day with us.</p>
 <p><strong>&nbsp;</strong>This occasion offers a meaningful opportunity for
 our alumni to express their appreciation, share their experiences, and
 renew ties with their teachers.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Visiting Guidelines</strong>
+<p><strong>&nbsp;Visiting Guidelines</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,6 +38,5 @@ with the teachers you wish to connect with on that day.</p>
 our teachers to rest.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>We look forward to welcoming our alumni back to Nan Hua Primary School
-for this special occasion.</p>
+<p>&nbsp;We look forward to welcoming our alumni back to Nan Hua Primary
+School for this special occasion.</p>
