@@ -693,14 +693,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jeannie Ong</p>
+<p>Ms Elizabeth Wong Siok Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_ah_kim@nanhuaps.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ah_kim@nanhuaps.moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
