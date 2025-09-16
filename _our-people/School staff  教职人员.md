@@ -1704,7 +1704,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karen Sim</p>
+<p>Mrs Karen Haw</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_poh_hwa_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_poh_hwa_karen@schools.gov.sg</a>
