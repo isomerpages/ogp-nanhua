@@ -4,19 +4,17 @@ permalink: /our-people/school-management-committee/
 description: ""
 variant: markdown
 ---
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: center;" rowspan="1" colspan="1">
+<td style="text-align: center;" rowspan="1" colspan="3">
 <p><strong>董事主席<br>Chairman</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 171px; height: 240px; object-fit: cover;" height="240" width="171" alt="" src="/images/SMC 74th/Mr_Ho_Nai_Chuen___Website.jpg">
 </div>
@@ -24,14 +22,6 @@ variant: markdown
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p><strong>副董事主席<br>Vice-Chairman</strong>
@@ -53,15 +43,9 @@ variant: markdown
 <p><strong>许恩佩教授<br>Prof Koh Woon Puay</strong>
 </p>
 </td>
+<td style="text-align: center;" rowspan="1" colspan="1">
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p><strong>总务<br>Honorary Secretary</strong>
@@ -83,15 +67,9 @@ variant: markdown
 <p><strong>陈宏毅医生<br>Dr Tan Hong Yee</strong>
 </p>
 </td>
+<td style="text-align: center;" rowspan="1" colspan="1">
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p><strong>财政<br>Honorary Treasurer</strong>
@@ -113,15 +91,9 @@ variant: markdown
 <p><strong>陈慧芬女士<br>Mdm Tan Hui Fern Grace</strong>
 </p>
 </td>
+<td style="text-align: center;" rowspan="1" colspan="1">
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p><strong>中华文化理事<br>Chinese Cultural Director</strong>
@@ -143,16 +115,9 @@ variant: markdown
 <p><strong>潘莹璘校长<br>Mrs Grace Ong</strong>
 </p>
 </td>
+<td style="text-align: center;" rowspan="1" colspan="1">
+</td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p><strong>常务委员<br>Committee Member</strong>
@@ -187,4 +152,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>
