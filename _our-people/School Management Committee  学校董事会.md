@@ -4,24 +4,197 @@ permalink: /our-people/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 695.271px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14.875px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="iveo_table ives_tab_simple3 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top">董事主席<br style="margin: 0px; outline: 0px; padding: 0px;">Chairman<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 171px; height: 240px;" class="ive_eobj_center" alt="mr ho nai chuen - website.png" width="100%" src="/images/SMC 73rd/mr ho nai chuen - website.png">何乃全先生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Ho Nai Chuen</span></td></tr></tbody></table>
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 695.271px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14.875px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">副董事主席<br style="margin: 0px; outline: 0px; padding: 0px;">Vice-Chairman<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 171px; height: 240px;" class="ive_eobj_center" alt="mr kim loh fong - website.png" width="100%" src="/images/SMC 73rd/mr kim loh fong - website.png">金多奉先生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Kim Loh Fong</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">副董事主席<br style="margin: 0px; outline: 0px; padding: 0px;">Vice-Chairman<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 171px; height: 240px;" class="ive_eobj_center" alt="mr leong sin kuen - website.png" width="100%" src="/images/SMC 73rd/mr leong sin kuen - website.png">梁善权先生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Leong Sin Kuen</span></td></tr></tbody></table>
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 695.271px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14.875px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="iveo_table ives_tab_simple3 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">总务<br style="margin: 0px; outline: 0px; padding: 0px;">Honorary Secretary<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 171px; height: 239px;" class="ive_eobj_center" alt="mr kim jixian - website.png" width="100%" src="/images/SMC 73rd/mr kim jixian - website.png">金吉贤律师<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Kim Jixian</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">副总务<br style="margin: 0px; outline: 0px; padding: 0px;">Assistant Honorary Secretary<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 173px; height: 239px;" class="ive_eobj_center" alt="dr tan hong yee - website.png" width="100%" src="/images/SMC 73rd/dr tan hong yee - website.png">陈宏毅医生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Dr Tan Hong Yee</span></td></tr></tbody></table>
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 695.271px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14.875px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="iveo_table ives_tab_simple3 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">财政<br style="margin: 0px; outline: 0px; padding: 0px;">Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 173px; height: 239px;" class="ive_eobj_center" alt="mr yeo wei jiang - website.png" width="100%" src="/images/SMC 73rd/mr yeo wei jiang - website.png">杨伟强先生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Yeo Wei Jiang</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">副财政<br style="margin: 0px; outline: 0px; padding: 0px;">Assistant Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 173px; height: 239px;" class="ive_eobj_center" alt="ms tay ee fen - website.png" width="100%" src="/images/SMC 73rd/ms tay ee fen - website.png">郑依芬女士<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mdm Tay Ee Fen</span></td></tr></tbody></table>
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 695.271px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14.875px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">中华文化理事<br style="margin: 0px; outline: 0px; padding: 0px;">Chinese Cultural Director<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 170px; height: 238px;" class="ive_eobj_center" alt="mr francis wong hooe wai - website.png" width="100%" src="/images/SMC 73rd/mr francis wong hooe wai - website.png">黄虚怀先生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Francis Wong Hooe Wai</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">秘书<br style="margin: 0px; outline: 0px; padding: 0px;">Secretary (Ex-Officio)<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 170px; height: 238px;" class="ive_eobj_center" alt="mrs grace ong - website.png" width="100%" src="/images/SMC 73rd/mrs grace ong - website.png">潘莹璘校长<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mrs Grace Ong</span></td></tr></tbody></table>
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 870.726px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 14.875px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">常务委员<br style="margin: 0px; outline: 0px; padding: 0px;">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 170px; height: 238px;" class="ive_eobj_center" alt="mr daniel loh weijie - website.png" width="100%" src="/images/SMC 73rd/mr daniel loh weijie - website.png">卢伟杰律师<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Daniel Loh Weijie</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">常务委员<br style="margin: 0px; outline: 0px; padding: 0px;">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 171px; height: 238px;" class="ive_eobj_center" alt="mr chia weng kaye - website.png" width="100%" src="/images/SMC 73rd/mr chia weng kaye - website.png">谢永祺先生<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Mr Chia Weng Kaye</span></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="200px" valign="top">常务委员<br style="margin: 0px; outline: 0px; padding: 0px;">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px;"><hr style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; clear: both; display: block; width: 171px; height: 239px;" class="ive_eobj_center" alt="prof koh woon puay - website.png" width="100%" src="/images/SMC 73rd/prof koh woon puay - website.png">许恩佩教授<br style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: normal;">Prof Koh Woon Puay</span></td></tr></tbody></table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>董事主席<br>Chairman</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Ho_Nai_Chuen___Website.jpg">
+</div>
+<p><strong>何乃全先生<br>Mr Ho Nai Chuen</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>副董事主席<br>Vice-Chairman</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Leong_Sin_Kuen___Website.jpg">
+</div>
+<p><strong>梁善权先生<br>Mr Leong Sin Kuen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>副董事主席<br>Vice-Chairman</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Prof_Koh_Woon_Puay___Website.jpg">
+</div>
+<p><strong>许恩佩教授</strong>
+</p>
+<p><strong>Prof Koh Woon Puay</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>总务<br>Honorary Secretary</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Kim_Jixian___Website.jpg">
+</div>
+<p><strong>金吉贤律师<br>Mr Kim Jixian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>副总务<br>Assistant Honorary Secretary</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Dr_Tan_Hong_Yee___Website.jpg">
+</div>
+<p><strong>陈宏毅医生<br>Dr Tan Hong Yee</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>财政<br>Honorary Treasurer</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mdm_Ivy_Sim_Peck_Koon___Website.jpg">
+</div>
+<p><strong>沈碧君女士</strong>
+</p>
+<p><strong>Mdm Ivy Sim Peck Koon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>副财政<br>Assistant Honorary Treasurer</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mdm_Tan_Hui_Fern_Grace___Website.jpg">
+</div>
+<p><strong>陈慧芬女士</strong>
+</p>
+<p><strong>Mdm Tan Hui Fern Grace</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>中华文化理事<br>Chinese Cultural Director</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Francis_Wong_Hooe_Wai___Website.jpg">
+</div>
+<p><strong>黄虚怀先生<br>Mr Francis Wong Hooe Wai</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>秘书<br>Secretary (Ex-Officio)</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mrs_Grace_Ong___Website.jpg">
+</div>
+<p><strong>潘莹璘校长<br>Mrs Grace Ong</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>常务委员<br>Committee Member</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Yeo_Wei_Jiang___Website.jpg">
+</div>
+<p><strong>杨伟强先生</strong>
+</p>
+<p><strong>Mr Yeo Wei Jiang</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>常务委员<br>Committee Member</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Chia_Weng_Kaye___Website.jpg">
+</div>
+<p><strong>谢永祺先生<br>Mr Chia Weng Kaye</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>常务委员<br>Committee Member</strong>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC 74th/Mr_Kelvin_Chiang_Tuck_Soon___Website.jpg">
+</div>
+<p><strong>郑德顺先生</strong>
+</p>
+<p><strong>Mr Kelvin Chiang Tuck Soon</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
