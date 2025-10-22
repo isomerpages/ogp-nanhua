@@ -32,26 +32,31 @@ For Students:&nbsp;08:30 am to 03:00 pm
 For Parents:&nbsp;11:00 am to 01:00 pm&nbsp;and&nbsp;02:00 pm to 03:00 pm
 
 
-**Booklist 2025**
+**Booklist 2026**
 
-[P1 Booklist 2025](/files/Booklist/2025/Primary_1_Booklist_Year_2025.pdf)
+Coming Soon...
 
-[P2 Booklist 2025](/files/Booklist/2025/Primary_2_Booklist_Year_2025.pdf)
 
-[P3 Booklist 2025](/files/Booklist/2025/Primary_3_Booklist_Year_2025.pdf)
+**Self-Collection Dates for Online Sales During December School Holidays**
 
-[P4 Booklist 2025](/files/Booklist/2025/Primary_4_Booklist_Year_2025.pdf)
 
-[P4 GEP Booklist 2025](/files/Booklist/2025/Primary_4__GEP__Booklist_Year_2025.pdf)
-
-[P5 Booklist 2025](/files/Booklist/2025/Primary_5_Booklist_Year_2025.pdf)
-
-[P5 FDN Booklist 2025](/files/Booklist/2025/Primary_5__FDN__Booklist_Year_2025.pdf)
-
-[P5 GEP Booklist 2025](/files/Booklist/2025/Primary_5__GEP__Booklist_Year_2025.pdf)
-
-[P6 Booklist 2025](/files/Booklist/2025/Primary_6_Booklist_Year_2025.pdf)
-
-[P6 FDN Booklist 2025](/files/Booklist/2025/Primary_6__FDN__Booklist_Year_2025.pdf)
-
-[P6 GEP Booklist 2025](/files/Booklist/2025/Primary_6__GEP__Booklist_Year_2025.pdf)
+| Date | Day | Time|
+| -------- | -------- | -------- | 
+|01 December 2025|Monday|9 am to 3 pm|
+|02 December 2025|Tuesday|9 am to 3 pm|
+|03 December 2025|Wednesday|9 am to 3 pm|
+|04 December 2025|Thursday|9 am to 3 pm|
+|05 December 2025|Friday|9 am to 3 pm|
+|08 December 2025|Monday|9 am to 3 pm|
+|09 December 2025|Tuesday|9 am to 3 pm|
+|10 December 2025|Wednesday|9 am to 3 pm|
+|11 December 2025|Thursday|9 am to 3 pm|
+|12 December 2025|Friday|9 am to 3 pm|
+|15 December 2025|Monday|9 am to 3 pm|
+|16 December 2025|Tuesday|9 am to 3 pm|
+|17 December 2025|Wednesday|9 am to 3 pm|
+|18 December 2025|Thursday|9 am to 3 pm|
+|19 December 2025|Friday|9 am to 3 pm|
+|22 December 2025|Monday|9 am to 3 pm|
+|23 December 2025|Tuesday|9 am to 3 pm|
+|26 December 2025|Friday|9 am to 3 pm|
