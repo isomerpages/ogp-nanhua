@@ -11,11 +11,10 @@ variant: markdown
 
 # Forms and Guides
 1. Financial Assistance Scheme (FAS)
-	* [Application Form] _(pending updates)_
-	* [Pamphlet]_(pending updates)_
-	* [MOE Financial Assistance Application Form (eFAS) for 2024](https://go.gov.sg/moe-efas) or Scan the QR Code below
-<br>
-<img src="/images/moe-efas.jpg" alt="" style="width:300px; height:332px;">
+	* [Application Form](/files/Application%20Forms/MOE_FAS_Application_Form_2026.pdf)
+	* [MOE Financial assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+	* [Pamphlet](/files/Information%20Sheets/MOE_Financial_Assistance_Scheme__FAS____2026.pdf)
+	* [MOE Financial Assistance Application Form for 2026 [GGAS]](https://form.gov.sg/68b7e92465cd36be287889c6) 
 <br>
 If you do not meet the income criteria for the MOE Financial Assistance Scheme (FAS), you can approach our school. The school can consider your child for its school-based financial assistance scheme.
 <br>
