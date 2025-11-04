@@ -4,8 +4,9 @@ permalink: /quick-links/for-students/
 description: ""
 variant: markdown
 ---
-**Useful links for students**
+**Useful Information/links for students**
 ----------------------------
+[Acceptable Use Policy (AUP) for use of EdTech Resources](/acceptable-use-policy-aup-for-use-of-edtech-resources/)
 
 # English Language
 
