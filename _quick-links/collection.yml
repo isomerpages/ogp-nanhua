@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Acceptable Use Policy (AUP) for use of EdTech Resources.md
       - For Parents  家长资讯.md
       - For Students  学生资讯.md
       - For Staff  教员资讯.md
