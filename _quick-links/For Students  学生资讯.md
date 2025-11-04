@@ -23,26 +23,25 @@ for free non-fiction articles and encyclopedia
 
 # Science 
 7. [http://www.bbc.com/earth/uk](http://www.bbc.com/earth/uk)
-8. [https://www.nparks.gov.sg/learning/teaching-and-learning-resources](https://www.nparks.gov.sg/learning/teaching-and-learning-resources)
-9. [https://www.nationalgeographic.com/](https://www.nationalgeographic.com/)
+8. [https://www.nationalgeographic.com/](https://www.nationalgeographic.com/)
 
 
 # 华文
-10. [https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+9. [https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 考试批准词典（考评局）
-11. [https://www.zbschools.sg](https://www.zbschools.sg)
+10. [https://www.zbschools.sg](https://www.zbschools.sg)
 早报校园
-12. [https://culturepaedia.singaporeccc.org.sg/zh/](https://culturepaedia.singaporeccc.org.sg/zh/)
+11. [https://culturepaedia.singaporeccc.org.sg/zh/](https://culturepaedia.singaporeccc.org.sg/zh/)
 新加坡华族文化百科
 
 # Others
-13. [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
+12. [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 Student Learning Space
-14. [https://www.how-to-study.com/learning-style-assessment](https://www.how-to-study.com/learning-style-assessment)
+13. [https://www.how-to-study.com/learning-style-assessment](https://www.how-to-study.com/learning-style-assessment)
 Some tips on Developing Study Skills
-15. [https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
+14. [https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness)
 Parent Kit – Cyber Wellness for Your Child
-16. [www.nlb.gov.sg](www.nlb.gov.sg)
+15. [www.nlb.gov.sg](www.nlb.gov.sg)
 National Library Board Website
 
 
