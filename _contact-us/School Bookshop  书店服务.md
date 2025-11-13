@@ -34,7 +34,7 @@ For Parents:&nbsp;11:00 am to 01:00 pm&nbsp;and&nbsp;02:00 pm to 03:00 pm
 
 **Booklist 2026**
 
-Coming Soon...
+[](/files/P1_Booklist_2026.pdf)
 
 
 **Self-Collection Dates for Online Sales During December School Holidays**
