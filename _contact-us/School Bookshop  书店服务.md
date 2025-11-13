@@ -34,7 +34,18 @@ For Parents:&nbsp;11:00 am to 01:00 pm&nbsp;and&nbsp;02:00 pm to 03:00 pm
 
 **Booklist 2026**
 
-[](/files/P1_Booklist_2026.pdf)
+* [P1 Booklist 2026](/files/Booklist/2026/P1_Booklist_2026.pdf)
+* [P2 Booklist 2026](/files/Booklist/2026/P2_Booklist_2026.pdf)
+* [P3 Booklist 2026](/files/Booklist/2026/P3_Booklist_2026.pdf)
+* [P4 Booklist 2026](/files/Booklist/2026/P4_Booklist_2026.pdf)
+* [P4 GEP Booklist 2026](/files/Booklist/2026/P4_GEP_Booklist_2026.pdf)
+* [P5 Booklist 2026](/files/Booklist/2026/P5_Booklist_2026.pdf)
+* [P5 Foundation Booklist 2026](/files/Booklist/2026/P5_FDN_Booklist_2026.pdf)
+* [P5 GEP Booklist 2026](/files/Booklist/2026/P5_GEP_Booklist_2026.pdf)
+* [P6 Booklist 2026](/files/Booklist/2026/P6_Booklist_2026.pdf)
+* [P6 Foundation Booklist 2026](/files/Booklist/2026/P6_FDN_Booklist_2026.pdf)
+* [P6 GEP Booklist 2026](/files/Booklist/2026/P6_GEP_Booklist_2026.pdf)
+
 
 
 **Self-Collection Dates for Online Sales During December School Holidays**
