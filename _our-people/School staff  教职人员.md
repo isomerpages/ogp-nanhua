@@ -1169,11 +1169,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Kao</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kao_horng_yih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kao_horng_yih@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1205,11 +1204,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Evelyn Ho</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Evelyn_Ho_Kit_Yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_Ho_Kit_Yee@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2118,11 +2116,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Audrey Loh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:audrey_loh_sok_mun_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_loh_sok_mun_a@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2397,10 +2394,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti 'Aishah Binte Suhaimi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs (SEN) Officer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
