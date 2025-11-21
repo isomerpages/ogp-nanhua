@@ -1166,17 +1166,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P2-G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1197,17 +1186,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_sze_yin_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_yin_felicia@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -2382,7 +2360,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Faith Chee Yan Ni</p>
+<p>Ms Faith Chee Yan NiS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs (SEN) Officer</p>
