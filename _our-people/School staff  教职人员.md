@@ -1166,18 +1166,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Michael Kao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kao_horng_yih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kao_horng_yih@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P2-G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1197,18 +1185,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_sze_yin_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_yin_felicia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Evelyn Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Evelyn_Ho_Kit_Yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_Ho_Kit_Yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -2115,18 +2091,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Audrey Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:audrey_loh_sok_mun_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>audrey_loh_sok_mun_a@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P6-G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2385,7 +2349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Faith Chee Yan Ni</p>
+<p>Ms Faith Chee Yan NiS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs (SEN) Officer</p>
@@ -2393,17 +2357,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Faith_Chee_Yan_Ni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Faith_Chee_Yan_Ni@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti 'Aishah Binte Suhaimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs (SEN) Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
